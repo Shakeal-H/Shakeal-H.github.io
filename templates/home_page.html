@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='basic_home_page.css') }}" type="text/css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='home_page.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='webfontkit-20220203-225755/stylesheet.css') }}" type="text/css" charset="utf-8" />
+    <title>Let's Go Pokedex</title>
+    <link rel="icon" href="https://img.gamewith.net/article_tools/pokemon-lets-go/gacha/981.png" type="image/x-icon">
+    <script type="text/javascript" src="{{ url_for('static', filename='attributes.js') }}"></script>
+  </head>
+
+  <body>
+    <div class="topnav">
+      <a href="{{ url_for('basic_home') }}" class="active">Home</a>
+      <a href="{{ url_for('about_data') }}">About the Data</a>
+      <a href="{{ url_for('general_info') }}">General Information</a>
+    </div>
+    <h1 class = "title">Let's Go Pokedex!</h1>
+    <img id = "home_image" src="https://img.gamewith.net/article_tools/pokemon-lets-go/gacha/981.png" alt="Image of Pikachu">
+
+    <div id = "summary">
+      <p> This site allows both beginning and avid Pokemon fans and players to
+        search the Pokedex by a multitude of quantitative and categorical metrics
+        in order to enhance their knowledge of the Pokemon universe and increase
+        their odds of winning battles.
+      </p>
+    </div>
+    <form action="/results" method="POST">
+      <div class = "filter_search">
+          <input name="name" id = "search_box" class = "filter_text" type="text" placeholder="Search by name and filters">
+      </div>
+      <div id= "categorical_variables" class = "filter_search_text">
+      <h3>Search By Categorical Attributes</h3>
+      <img class="info" src="{{ url_for('static', filename='info-xxl.png') }}">
+      <div class= "hide">
+      <p>List of Categorical Attributes</p>
+      <ul>
+        <li><strong>Type:</strong> Types refer to different elemental properties associated with the Pokémon, their eggs and their moves. With primary being the main type and secondary being an additional type.</li>
+        <li><strong>Generation:</strong> Generation refers to the Pokémon game series, there are currently 8 generations.</li>
+        <li><strong>Species:</strong> A brief descriptor for Pokémon found in the Pokédex that may be shared by different Pokémon.</li>
+        <li><strong>Abilities:</strong> An Ability is a game mechanic introduced in Generation III that provides a passive effect in battle or in the overworld. A pokemon can have up to 2 abilities and one hidden ability.</li>
+        <li><strong>Growth Rate:</strong> The amount of experience a pokemon needs to level up is determined by its growth rate group.</li>
+      </ul>
+      </div>
+      <div class="dropdown type">
+        <label class = "filter_text" for="attributes">Select Primary Pokemon Type(s):</label>
+        <select name ="primary_type" class = "filter_text" multiple>
+          <option value="Normal">Normal</option>
+          <option value="Fire">Fire</option>
+          <option value="Water">Water</option>
+          <option value="Electric">Electric</option>
+          <option value="Grass">Grass</option>
+          <option value="Ice">Ice</option>
+          <option value="Fighting">Fighting</option>
+          <option value="Poison">Poison</option>
+          <option value="Ground">Ground</option>
+          <option value="Flying">Flying</option>
+          <option value="Psychic">Psychic</option>
+          <option value="Bug">Bug</option>
+          <option value="Rock">Rock</option>
+          <option value="Ghost">Ghost</option>
+          <option value="Dragon"> Dragon</option>
+          <option value="Dark">Dark</option>
+          <option value="Steel">Steel</option>
+          <option value="Fairy">Fairy</option>
+        </select>
+      </div><br>
+      <div class="dropdown type">
+        <label class = "filter_text" for="attributes">Select Secondary Pokemon Type(s):</label>
+        <select class = "filter_text" name="secondary_type" multiple>
+          <option value="Normal">Normal</option>
+          <option value="Fire">Fire</option>
+          <option value="Water">Water</option>
+          <option value="Electric">Electric</option>
+          <option value="Grass">Grass</option>
+          <option value="Ice">Ice</option>
+          <option value="Fighting">Fighting</option>
+          <option value="Poison">Poison</option>
+          <option value="Ground">Ground</option>
+          <option value="Flying">Flying</option>
+          <option value="Psychic">Psychic</option>
+          <option value="Bug">Bug</option>
+          <option value="Rock">Rock</option>
+          <option value="Ghost">Ghost</option>
+          <option value="Dragon"> Dragon</option>
+          <option value="Dark">Dark</option>
+          <option value="Steel">Steel</option>
+          <option value="Fairy">Fairy</option>
+        </select>
+        </div><br>
+        <div class="dropdown">
+          <label class = "filter_text" for="attributes">Select Generation(s):</label>
+          <select class = "filter_text" name="generation" multiple>
+            <option value="1">Generation 1</option>
+            <option value="2">Generation 2</option>
+            <option value="3">Generation 3</option>
+            <option value="4">Generation 4</option>
+            <option value="5">Generation 5</option>
+            <option value="6">Generation 6</option>
+            <option value="7">Generation 7</option>
+            <option value="8">Generation 8</option>
+          </select>
+        </div><br>
+      <div class="dropdown">
+        <label>Select Number of Abilities</label>
+        <select class = "filter_text" name="num_abilities" multiple>
+        <option value="1">1 Ability</option>
+        <option value="2">2 Abilites</option>
+        <option value="3">3 Abilities</option>
+        </select>
+      </div><br>
+        <div class="dropdown">
+          <label>Select Growth Rate</label>
+          <select class = "filter_text" name="growth_rate" multiple>
+            <option value="Slow">Slow</option>
+            <option value="Medium Slow">Medium Slow</option>
+            <option value="Medium Fast">Medium Fast</option>
+            <option value="Fast">Fast</option>
+          </select>
+        </div><br>
+      <div class="dropdown">
+        <label>Select Egg Type</label>
+        <select class = "filter_text" name="egg_type" multiple>
+          <option value="Monster">Monster</option>
+          <option value="Water 1">Water 1</option>
+          <option value="Water 2">Water 2</option>
+          <option value="Water 3">Water 3</option>
+          <option value="Bug">Field</option>
+          <option value="Flying">Flying</option>
+          <option value="Fairy">Fairy</option>
+          <option value="Grass">Grass</option>
+          <option value="Human-Like">Humanoid</option>
+          <option value="Mineral">Mineral</option>
+          <option value="Armorphous">Amorphous</option>
+          <option value="Ditto">Ditto</option>
+          <option value="Dragon">Dragon</option>
+          <option value="Undiscovered">Undiscovered</option>
+        </select>
+      </div><br>
+    </div>
+
+      <div id= "base_stats" class = "filter_search_text">
+        <h3>Search By Base Stats</h3>
+        <img class="info" src="{{ url_for('static', filename='info-xxl.png') }}">
+        <div class= "hide">
+          <p>List of Base Stats Attributes</p>
+          <ul>
+            <li><strong>Attack:</strong> A stat which determines the power of a physical move.</li>
+            <li><strong>Defense:</strong> A stat which partly determines how much damage a Pokémon receives when it is hit with a physical move.</li>
+            <li><strong>Special Attack:</strong> A stat which partly determines the how much damage a Pokemon deals on a special move.</li>
+            <li><strong>Special Defense:</strong> A stat partly determines how much damage a Pokémon receives when it is hit with a special move.</li>
+            <li><strong>HP:</strong> The HP short for Hit Point determines how much damage a Pokémon can receive before fainting.</li>
+            <li><strong>Speed:</strong> The Speed stat determines the order of Pokémon that can act in battle.</li>
+          </ul>
+        </div>
+
+        <h4>Attack</h4>
+        <label for="min_attack">Minimum</label>
+        <input type="number" id="min_attack" name="min_attack" min="0" max="190" value = "0">
+        <label for="max_attack">Maximum</label>
+        <input type="number" id="max_attack" name="max_attack" min="0" max="190" value = "190">
+        <input type="checkbox" class="add_attribute" name="add_attack" value="add_attack">
+        <label for="add_attribute">Include</label>
+
+        <h4>Defense</h4>
+        <label for="min_defense">Minimum</label>
+        <input type="number" id="min_defense" name="min_defense" min="0" max="250" value = "0">
+        <label for="max_defense">Maximum</label>
+        <input type="number" id="max_defense" name="max_defense" min="0" max="250" value = "250">
+        <input type="checkbox" class="add_attribute" name="add_defense" value="add_defense">
+        <label for="add_attribute">Include</label>
+
+        <h4>Special Attack</h4>
+        <label for="min_special_attack">Minimum</label>
+        <input type="number" id="min_special_attack" name="min_special_attack" min="0" max="194" value = "0">
+        <label for="max_special_attack">Maximum</label>
+        <input type="number" id="max_special_attack" name="max_special_attack" min="0" max="194" value = "194">
+        <input type="checkbox" class="add_attribute" name="add_special_attack" value="add_special_attack">
+        <label for="add_attribute">Include</label>
+
+        <h4>Special Defense</h4>
+        <label for="min_special_defense">Minimum</label>
+        <input type="number" id="min_special_defense" name="min_special_defense" min="0" max="250" value = "0">
+        <label for="max_special_defense">Maximum</label>
+        <input type="number" id="max_special_defense" name="max_special_defense" min="0" max="250" value = "250">
+        <input type="checkbox" class="add_attribute" name="add_special_defense" value="add_special_defense">
+        <label for="add_attribute">Include</label>
+
+        <h4>HP</h4>
+        <label for="min_hp">Minimum</label>
+        <input type="number" id="min_hp" name="min_hp" min="0" max="255" value = "0">
+        <label for="max_hp">Maximum</label>
+        <input type="number" id="max_hp" name="max_hp" min="0" max="255" value = "255">
+        <input type="checkbox" class="add_attribute" name="add_hp" value="add_hp">
+        <label for="add_attribute">Include</label>
+
+        <h4>Speed</h4>
+        <label for="min_speed">Minimum</label>
+        <input type="number" id="min_speed" name="min_speed" min="0" max="180" value = "0">
+        <label for="max_speed">Maximum</label>
+        <input type="number" id="max_speed" name="max_speed" min="0" max="180" value = "180">
+        <input type="checkbox" class="add_attribute" name="add_speed" value="add_speed">
+        <label for="add_attribute">Include</label>
+      </div>
+      <div id= "quantitative_stats" class = "filter_search_text">
+        <h3>Search by Quantitative Atttributes</h3>
+
+        <img class="info" src="{{ url_for('static', filename='info-xxl.png') }}">
+        <div class= "hide">
+          <p>List of Quantitative Attributes</p>
+          <ul>
+            <li><strong>Height:</strong> How tall the pokemon is in meters.</li>
+            <li><strong>Weight:</strong> The weight of the Pokemon in kilograms.</li>
+            <li><strong>Catch Rate:</strong> When a Poké Ball is thrown at a wild Pokémon, the game uses that Pokémon's catch rate in a formula <br>to determine the chances of catching that Pokémon.</li>
+            <li><strong>Experience:</strong> The amount of experience an individual Pokémon has is an indication of how much it has battled.</li>
+            <li><strong>Base Friendship:</strong> The value to which its friendship is set when the Pokémon is caught, received from an event or NPC,<br> or received from a trade with another player.</li>
+            <li><strong>Percentage Male:</strong> The percentage of male Pokemon in a species.</li>
+          </ul>
+        </div>
+
+        <h4>Height In Meters</h4>
+        <label for="min_height">Minimum</label>
+        <input type="number" id="min_height" name="min_height" min="0" max="100" value = "0">
+        <label for="max_height">Maximum</label>
+        <input type="number" id="max_height" name="max_height" min="0" max="100" value = "100">
+        <input type="checkbox" class="add_attribute" name="add_height" value="add_height">
+        <label for="add_attribute">Include</label>
+
+        <h4>Weight In Kilograms</h4>
+        <label for="min_weight">Minimum</label>
+        <input type="number" id="min_weight" name="min_weight" min="0" max="1000" value = "0">
+        <label for="max_weight">Maximum</label>
+        <input type="number" id="max_weight" name="max_weight" min="0" max="1000" value = "1000">
+        <input type="checkbox" class="add_attribute" name="add_weight" value="add_weight">
+        <label for="add_attribute">Include</label>
+
+        <h4>Catch Rate</h4>
+        <label for="min_catch_rate">Minimum</label>
+        <input type="number" id="min_catch_rate" name="min_catch_rate" min="0" max="255" value = "0">
+        <label for="maxcatch">Maximum</label>
+        <input type="number" id="max_catch_rate" name="max_catch_rate" min="0" max="255" value = "255">
+        <input type="checkbox" class="add_attribute" name="add_catch_rate" value="add_catch_rate">
+        <label for="add_attribute">Include</label>
+
+        <h4>Experience</h4>
+        <label for="min_experience">Minimum</label>
+        <input type="number" id="min_experience" name="min_experience" min="0" max="608" value = "0">
+        <label for="max_experience">Maximum</label>
+        <input type="number" id="max_experience" name="max_experience" min="0" max="608" value = "608">
+        <input type="checkbox" class="add_attribute" name="add_experience" value="add_experience">
+        <label for="add_attribute">Include</label>
+
+        <h4>Base Friendship</h4>
+        <label for="min_friendship">Minimum</label>
+        <input type="number" id="min_friendship" name="min_friendship" min="0" max="140" value = "0">
+        <label for="max_friendship">Maximum</label>
+        <input type="number" id="max_friendship" name="max_friendship" min="0" max="140" value = "140">
+        <input type="checkbox" class="add_attribute" name="add_friendship" value="add_friendship">
+        <label for="add_attribute">Include</label>
+
+        <h4>Percentage of Species that is Male</h4>
+        <label for="min_percentage_male">Minimum</label>
+        <input type="number" id="min_percentage_male" name="min_percentage_male" min="0" max="100" value = "0">
+        <label for="max_percentage_male">Maximum</label>
+        <input type="number" id="max_percentage_male" name="max_percentage_male" min="0" max="100" value = "100">
+        <input type="checkbox" class="add_attribute" name="add_percentage_male" value="add_percentage_male">
+        <label for="add_attribute">Include</label>
+      </div>
+
+
+
+    <div class = "filter_search_text">
+      <h3>Select By Type Effectiveness (Damage Multiplier)</h3>
+      <img class="info" src="{{ url_for('static', filename='info-xxl.png') }}">
+      <div class= "hide">
+        <ul>
+          <li><strong>Type Effectiveness:</strong> The type effectiveness influences the damage multiplier applied to attacks against your Pokémon by Pokémon of certain types.</li>
+        </ul>
+      </div>
+        <h4>Against Normal</h4>
+        <label for="min_against_normal">Minumum Multiplier</label>
+        <input type="number" id="min_against_normal" name="min_against_normal" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_normal">Maximum Multiplier</label>
+        <input type="number" id="max_against_normal" name="max_against_normal" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_normal" value="add_against_normal">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Fire</h4>
+        <label for="min_against_fire">Minumum Multiplier</label>
+        <input type="number" id="min_against_fire" name="min_against_fire" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_fire">Maximum Multiplier</label>
+        <input type="number" id="max_against_fire" name="max_against_fire" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_fire" value="add_against_fire">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Water</h4>
+        <label for="min_against_water">Minumum Multiplier</label>
+        <input type="number" id="min_against_water" name="min_against_water" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_water">Maximum Multiplier</label>
+        <input type="number" id="max_against_water" name="max_against_water" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_water" value="add_against_water">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Electric</h4>
+        <label for="min_against_electric">Minumum Multiplier</label>
+        <input type="number" id="min_against_electric" name="min_against_electric" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_electric">Maximum Multiplier</label>
+        <input type="number" id="max_against_electric" name="max_against_electric" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_electric" value="add_against_electric">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Grass</h4>
+        <label for="min_against_grass">Minumum Multiplier</label>
+        <input type="number" id="min_against_grass" name="min_against_grass" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_grass">Maximum Multiplier</label>
+        <input type="number" id="max_against_grass" name="max_against_grass" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_grass" value="add_against_grass">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Ice</h4>
+        <label for="min_against_ice">Minumum Multiplier</label>
+        <input type="number" id="min_against_ice" name="min_against_ice" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_ice">Maximum Multiplier</label>
+        <input type="number" id="max_against_ice" name="max_against_ice" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_ice" value="add_against_ice">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Fighting</h4>
+        <label for="min_against_fight">Minumum Multiplier</label>
+        <input type="number" id="min_against_fight" name="min_against_fight" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_fight">Maximum Multiplier</label>
+        <input type="number" id="max_against_fight" name="max_against_fight" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_fight" value="add_against_fight">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Poison</h4>
+        <label for="min_against_poison">Minumum Multiplier</label>
+        <input type="number" id="min_against_poison" name="min_against_poison" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_poison">Maximum Multiplier</label>
+        <input type="number" id="max_against_poison" name="max_against_poison" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_poison" value="add_against_poison">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Ground</h4>
+        <label for="min_against_ground">Minumum Multiplier</label>
+        <input type="number" id="min_against_ground" name="min_against_ground" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_ground">Maximum Multiplier</label>
+        <input type="number" id="max_against_ground" name="max_against_ground" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_ground" value="add_against_ground">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Flying</h4>
+        <label for="min_against_flying">Minumum Multiplier</label>
+        <input type="number" id="min_against_flying" name="min_against_flying" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_flying">Maximum Multiplier</label>
+        <input type="number" id="max_against_flying" name="max_against_flying" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_flying" value="add_against_flying">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Psychic</h4>
+        <label for="min_against_psychic">Minumum Multiplier</label>
+        <input type="number" id="min_against_psychic" name="min_against_psychic" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_psychic">Maximum Multiplier</label>
+        <input type="number" id="max_against_psychic" name="max_against_psychic" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_psychic" value="add_against_psychic">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Bug</h4>
+        <label for="min_against_bug">Minumum Multiplier</label>
+        <input type="number" id="min_against_bug" name="min_against_bug" min="0" max="4" value = "0" step="0.5">
+        <label for="max_against_bug">Maximum Multiplier</label>
+        <input type="number" id="max_against_bug" name="max_against_bug" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_bug" value="add_against_bug">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Rock</h4>
+        <label for="min_against_rock">Minumum Multiplier</label>
+        <input type="number" id="min_against_rock" name="min_against_rock" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_rock">Maximum Multiplier</label>
+        <input type="number" id="max_against_rock" name="max_against_rock" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_rock" value="add_against_rock">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Ghost</h4>
+        <label for="min_against_ghost">Minumum Multiplier</label>
+        <input type="number" id="min_against_ghost" name="min_against_ghost" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_ghost">Maximum Multiplier</label>
+        <input type="number" id="max_against_ghost" name="max_against_ghost" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_ghost" value="add_against_ghost">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Dragon</h4>
+        <label for="min_against_dragon">Minumum Multiplier</label>
+        <input type="number" id="min_against_dragon" name="min_against_dragon" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_dragon">Maximum Multiplier</label>
+        <input type="number" id="max_against_dragon" name="max_against_dragon" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_dragon" value="add_against_dragon">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Dark</h4>
+        <label for="min_against_dark">Minumum Multiplier</label>
+        <input type="number" id="min_against_dark" name="min_against_dark" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_dark">Maximum Multiplier</label>
+        <input type="number" id="max_against_dark" name="max_against_dark" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_dark" value="add_against_dark">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Steel</h4>
+        <label for="min_against_steel">Minumum Multiplier</label>
+        <input type="number" id="min_against_steel" name="min_against_steel" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_steel">Maximum Multiplier</label>
+        <input type="number" id="max_against_steel" name="max_against_steel" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_steel" value="add_against_steel">
+        <label for="add_attribute">Include</label>
+
+        <h4>Against Fairy</h4>
+        <label for="min_against_fairy">Minumum Multiplier</label>
+        <input type="number" id="min_against_fairy" name="min_against_fairy" min="0" value = "0" max="4" step="0.5">
+        <label for="max_against_fairy">Maximum Multiplier</label>
+        <input type="number" id="max_against_fairy" name="max_against_fairy" min="0" value = "4" max="4" step="0.5">
+        <input type="checkbox" class="add_attribute" name="add_against_fairy" value="add_against_fairy">
+        <label for="add_attribute">Include</label>
+      </div>
+    </div>
+
+    <div id = "final_search" class = "filter_search">
+      <input class = "button" type="submit" value="Search With All Attributes/Filters">
+    </div>
+  </form>
+
+  </body>
+</html>

@@ -1,0 +1,1028 @@
+Bulbasaur,001Bulbasaur.png,45,49,49,65,65,45,0.7,6.9,45,64,87.5,70,Grass,Poison,1,2,Medium Slow,Grass,Monster,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Ivysaur,002Ivysaur.png,60,62,63,80,80,60,1,13,45,142,87.5,70,Grass,Poison,1,2,Medium Slow,Grass,Monster,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Venusaur,003Venusaur.png,80,82,83,100,100,80,2,100,45,236,87.5,70,Grass,Poison,1,2,Medium Slow,Grass,Monster,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Mega Venusaur,003Venusaur-Mega.png,80,100,123,122,120,80,2.4,155.5,45,281,87.5,70,Grass,Poison,1,1,Medium Slow,Grass,Monster,1,1,0.5,0.5,0.25,1,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Charmander,004Charmander.png,39,52,43,60,50,65,0.6,8.5,45,62,87.5,70,Fire,,1,2,Medium Slow,Dragon,Monster,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Charmeleon,005Charmeleon.png,58,64,58,80,65,80,1.1,19,45,142,87.5,70,Fire,,1,2,Medium Slow,Dragon,Monster,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Charizard,006Charizard.png,78,84,78,109,85,100,1.7,90.5,45,240,87.5,70,Fire,Flying,1,2,Medium Slow,Dragon,Monster,1,0.5,2,2,0.25,1,0.5,1,0,1,1,0.25,4,1,1,1,0.5,0.5
+Mega Charizard X,006Charizard-Mega_X.png,78,130,111,130,85,100,1.7,110.5,45,285,87.5,70,Fire,Dragon,1,1,Medium Slow,Dragon,Monster,1,0.25,1,0.5,0.25,1,1,1,2,1,1,0.5,2,1,2,1,0.5,1
+Mega Charizard Y,006Charizard-Mega_Y.png,78,104,78,159,115,100,1.7,100.5,45,285,87.5,70,Fire,Flying,1,1,Medium Slow,Dragon,Monster,1,0.5,2,2,0.25,1,0.5,1,0,1,1,0.25,4,1,1,1,0.5,0.5
+Squirtle,007Squirtle.png,44,48,65,50,64,43,0.5,9,45,63,87.5,70,Water,,1,2,Medium Slow,Monster,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Wartortle,008Wartortle.png,59,63,80,65,80,58,1,22.5,45,142,87.5,70,Water,,1,2,Medium Slow,Monster,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Blastoise,009Blastoise.png,79,83,100,85,105,78,1.6,85.5,45,239,87.5,70,Water,,1,2,Medium Slow,Monster,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Mega Blastoise,009Blastoise-Mega.png,79,103,120,135,115,78,1.6,101.1,45,284,87.5,70,Water,,1,1,Medium Slow,Monster,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Caterpie,010Caterpie.png,45,30,35,20,20,45,0.3,2.9,255,39,50,70,Bug,,1,2,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Metapod,011Metapod.png,50,20,55,25,25,30,0.7,9.9,120,72,50,70,Bug,,1,1,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Butterfree,012Butterfree.png,60,45,50,90,80,70,1.1,32,45,178,50,70,Bug,Flying,1,2,Medium Fast,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Weedle,013Weedle.png,40,35,30,20,20,50,0.3,3.2,255,39,50,70,Bug,Poison,1,2,Medium Fast,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Kakuna,014Kakuna.png,45,25,50,25,25,35,0.6,10,120,72,50,70,Bug,Poison,1,1,Medium Fast,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Beedrill,015Beedrill.png,65,90,40,45,80,75,1,29.5,45,178,50,70,Bug,Poison,1,2,Medium Fast,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Mega Beedrill,015Beedrill-Mega.png,65,150,40,15,80,145,1.4,40.5,45,223,50,70,Bug,Poison,1,1,Medium Fast,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Pidgey,016Pidgey.png,40,45,40,35,35,56,0.3,1.8,255,50,50,70,Normal,Flying,1,3,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Pidgeotto,017Pidgeotto.png,63,60,55,50,50,71,1.1,30,120,122,50,70,Normal,Flying,1,3,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Pidgeot,018Pidgeot.png,83,80,75,70,70,101,1.5,39.5,45,216,50,70,Normal,Flying,1,3,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Mega Pidgeot,018Pidgeot-Mega.png,83,80,80,135,80,121,2.2,50.5,45,261,50,70,Normal,Flying,1,1,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Rattata,019Rattata.png,30,56,35,25,35,72,0.3,3.5,255,51,50,70,Normal,,1,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Alolan Rattata,019Rattata-Alola.png,30,56,35,25,35,72,0.3,3.8,255,51,50,70,Dark,Normal,1,3,Medium Fast,Field,,1,1,1,1,1,1,4,1,1,1,0,2,1,0,1,0.5,1,2
+Raticate,020Raticate.png,55,81,60,50,70,97,0.7,18.5,127,145,50,70,Normal,,1,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Alolan Raticate,020Raticate-Alola.png,75,71,70,40,80,77,0.7,25.5,127,145,50,70,Dark,Normal,1,3,Medium Fast,Field,,1,1,1,1,1,1,4,1,1,1,0,2,1,0,1,0.5,1,2
+Spearow,021Spearow.png,40,60,30,31,31,70,0.3,2,255,52,50,70,Normal,Flying,1,2,Medium Fast,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Fearow,022Fearow.png,65,90,65,61,61,100,1.2,38,90,155,50,70,Normal,Flying,1,2,Medium Fast,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Ekans,023Ekans.png,35,60,44,40,54,55,2,6.9,255,58,50,70,Poison,,1,3,Medium Fast,Dragon,Field,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Arbok,024Arbok.png,60,95,69,65,79,80,3.5,65,90,157,50,70,Poison,,1,3,Medium Fast,Dragon,Field,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Pikachu,025Pikachu.png,35,55,40,50,50,90,0.4,6,190,112,50,70,Electric,,1,2,Medium Fast,Fairy,Field,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Partner Pikachu,025Pikachu_LG.png,45,80,50,75,60,120,0.4,6,190,112,50,70,Electric,,1,1,Medium Fast,,,1,1,1,0,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Raichu,026Raichu.png,60,90,55,90,80,110,0.8,30,75,218,50,70,Electric,,1,2,Medium Fast,Fairy,Field,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Alolan Raichu,026Raichu-Alola.png,60,85,50,95,85,110,0.7,21,75,218,50,70,Electric,Psychic,1,1,Medium Fast,Fairy,Field,1,1,1,0,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Sandshrew,027Sandshrew.png,50,75,85,20,30,40,0.6,12,255,60,50,70,Ground,,1,2,Medium Fast,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Alolan Sandshrew,027Sandshrew-Alola.png,50,75,90,10,35,40,0.7,40,255,60,50,70,Ice,Steel,1,2,Medium Fast,Field,,0.5,4,1,1,0.5,0.25,4,0,2,0.5,0.5,0.5,1,1,0.5,1,1,0.5
+Sandslash,028Sandslash.png,75,100,110,45,55,65,1,29.5,90,158,50,70,Ground,,1,2,Medium Fast,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Alolan Sandslash,028Sandslash-Alola.png,75,100,120,25,65,65,1.2,55,90,158,50,70,Ice,Steel,1,2,Medium Fast,Field,,0.5,4,1,1,0.5,0.25,4,0,2,0.5,0.5,0.5,1,1,0.5,1,1,0.5
+Nidoran,029Nidoran.png,55,47,52,40,40,41,0.4,7,235,55,0,70,Poison,,1,3,Medium Slow,Field,Monster,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Nidorina,030Nidorina.png,70,62,67,55,55,56,0.8,20,120,128,0,70,Poison,,1,3,Medium Slow,Undiscovered,,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Nidoqueen,031Nidoqueen.png,90,92,87,75,85,76,1.3,60,45,227,0,70,Poison,Ground,1,3,Medium Slow,Undiscovered,,1,1,2,0,1,2,0.5,0.25,2,1,2,0.5,0.5,1,1,1,1,0.5
+Nidoran,032Nidoran.png,46,57,40,40,40,50,0.5,9,235,55,100,70,Poison,,1,3,Medium Slow,Field,Monster,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Nidorino,033Nidorino.png,61,72,57,55,55,65,0.9,19.5,120,128,100,70,Poison,,1,3,Medium Slow,Field,Monster,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Nidoking,034Nidoking.png,81,102,77,85,75,85,1.4,62,45,227,100,70,Poison,Ground,1,3,Medium Slow,Field,Monster,1,1,2,0,1,2,0.5,0.25,2,1,2,0.5,0.5,1,1,1,1,0.5
+Clefairy,035Clefairy.png,70,45,48,60,65,35,0.6,7.5,150,113,25,140,Fairy,,1,3,Fast,Fairy,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Clefable,036Clefable.png,95,70,73,95,90,60,1.3,40,25,217,25,140,Fairy,,1,3,Fast,Fairy,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Vulpix,037Vulpix.png,38,41,40,50,65,65,0.6,9.9,190,60,25,70,Fire,,1,2,Medium Fast,Field,,1,0,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Alolan Vulpix,037Vulpix-Alola.png,38,41,40,50,65,65,0.6,9.9,190,60,25,70,Ice,,1,2,Medium Fast,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Ninetales,038Ninetales.png,73,76,75,81,100,100,1.1,19.9,75,177,25,70,Fire,,1,2,Medium Fast,Field,,1,0,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Alolan Ninetales,038Ninetales-Alola.png,73,67,75,81,100,109,1.1,19.9,75,177,25,70,Ice,Fairy,1,2,Medium Fast,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Jigglypuff,039Jigglypuff.png,115,45,20,45,25,20,0.5,5.5,170,95,25,70,Normal,Fairy,1,3,Fast,Fairy,,1,1,1,1,1,1,1,2,1,1,1,0.5,1,0,0,0.5,2,1
+Wigglytuff,040Wigglytuff.png,140,70,45,85,50,45,1,12,50,196,25,70,Normal,Fairy,1,3,Fast,Fairy,,1,1,1,1,1,1,1,2,1,1,1,0.5,1,0,0,0.5,2,1
+Zubat,041Zubat.png,40,45,35,30,40,55,0.8,7.5,255,49,50,70,Poison,Flying,1,2,Medium Fast,Flying,,1,1,1,2,0.25,2,0.25,0.5,0,1,2,0.25,2,1,1,1,1,0.5
+Golbat,042Golbat.png,75,80,70,65,75,90,1.6,55,90,159,50,70,Poison,Flying,1,2,Medium Fast,Flying,,1,1,1,2,0.25,2,0.25,0.5,0,1,2,0.25,2,1,1,1,1,0.5
+Oddish,043Oddish.png,45,50,55,75,65,30,0.5,5.4,255,64,50,70,Grass,Poison,1,2,Medium Slow,Grass,,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Gloom,044Gloom.png,60,65,70,85,75,40,0.8,8.6,120,138,50,70,Grass,Poison,1,2,Medium Slow,Grass,,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Vileplume,045Vileplume.png,75,80,85,110,90,50,1.2,18.6,45,221,50,70,Grass,Poison,1,2,Medium Slow,Grass,,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Paras,046Paras.png,35,70,55,45,55,25,0.3,5.4,190,57,50,70,Bug,Grass,1,3,Medium Fast,Bug,Grass,1,4,0.5,0.5,0.25,2,0.5,2,0.25,4,1,2,2,1,1,1,1,1
+Parasect,047Parasect.png,60,95,80,60,80,30,1,29.5,75,142,50,70,Bug,Grass,1,3,Medium Fast,Bug,Grass,1,4,0.5,0.5,0.25,2,0.5,2,0.25,4,1,2,2,1,1,1,1,1
+Venonat,048Venonat.png,60,55,50,40,55,45,1,30,190,61,50,70,Bug,Poison,1,3,Medium Fast,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Venomoth,049Venomoth.png,70,65,60,90,75,90,1.5,12.5,75,158,50,70,Bug,Poison,1,3,Medium Fast,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Diglett,050Diglett.png,10,55,25,35,45,95,0.2,0.8,255,53,50,70,Ground,,1,3,Medium Fast,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Alolan Diglett,050Diglett-Alola.png,10,55,30,35,45,90,0.2,1,255,53,50,70,Ground,Steel,1,3,Medium Fast,Field,,0.5,2,2,0,1,1,2,0,2,0.5,0.5,0.5,0.25,1,0.5,1,0.5,0.5
+Dugtrio,051Dugtrio.png,35,100,50,50,70,120,0.7,33.3,50,149,50,70,Ground,,1,3,Medium Fast,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Alolan Dugtrio,051Dugtrio-Alola.png,35,100,60,50,70,110,0.7,66.6,50,149,50,70,Ground,Steel,1,3,Medium Fast,Field,,0.5,2,2,0,1,1,2,0,2,0.5,0.5,0.5,0.25,1,0.5,1,0.5,0.5
+Meowth,052Meowth.png,40,45,35,40,40,90,0.4,4.2,255,58,50,70,Normal,,1,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Alolan Meowth,052Meowth-Alola.png,40,35,35,50,40,90,0.4,4.2,255,58,50,70,Dark,,1,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Galarian Meowth,052Meowth-Galar.png,50,65,55,40,40,40,0.4,7.5,,,,,Steel,,1,3,Medium Fast,Field,,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Persian,053Persian.png,65,70,60,65,65,115,1,32,90,154,50,70,Normal,,1,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Alolan Persian,053Persian-Alola.png,65,60,60,75,65,115,1.1,33,90,154,50,70,Dark,,1,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Psyduck,054Psyduck.png,50,52,48,65,50,55,0.8,19.6,190,64,50,70,Water,,1,3,Medium Fast,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Golduck,055Golduck.png,80,82,78,95,80,85,1.7,76.6,75,175,50,70,Water,,1,3,Medium Fast,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Mankey,056Mankey.png,40,80,35,35,45,70,0.5,28,190,61,50,70,Fighting,,1,3,Medium Fast,Field,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Primeape,057Primeape.png,65,105,60,60,70,95,1,32,75,159,50,70,Fighting,,1,3,Medium Fast,Field,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Growlithe,058Growlithe.png,55,70,45,70,50,60,0.7,19,190,70,75,70,Fire,,1,3,Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Arcanine,059Arcanine.png,90,110,80,100,80,95,1.9,155,75,194,75,70,Fire,,1,3,Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Poliwag,060Poliwag.png,40,50,40,40,40,90,0.6,12.4,255,60,50,70,Water,,1,3,Medium Slow,Water 1,,1,0.5,0,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Poliwhirl,061Poliwhirl.png,65,65,65,50,50,90,1,20,120,135,50,70,Water,,1,3,Medium Slow,Water 1,,1,0.5,0,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Poliwrath,062Poliwrath.png,90,95,95,70,90,70,1.3,54,45,230,50,70,Water,Fighting,1,3,Medium Slow,Water 1,,1,0.5,0,2,2,0.5,1,1,1,2,2,0.5,0.5,1,1,0.5,0.5,2
+Abra,063Abra.png,25,20,15,105,55,90,0.9,19.5,200,62,75,70,Psychic,,1,3,Medium Slow,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Kadabra,064Kadabra.png,40,35,30,120,70,105,1.3,56.5,100,140,75,70,Psychic,,1,3,Medium Slow,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Alakazam,065Alakazam.png,55,50,45,135,95,120,1.5,48,50,225,75,70,Psychic,,1,3,Medium Slow,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Mega Alakazam,065Alakazam-Mega.png,55,50,65,175,105,150,1.2,48,50,270,75,70,Psychic,,1,1,Medium Slow,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Machop,066Machop.png,70,80,50,35,35,35,0.8,19.5,180,61,75,70,Fighting,,1,3,Medium Slow,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Machoke,067Machoke.png,80,100,70,50,60,45,1.5,70.5,90,142,75,70,Fighting,,1,3,Medium Slow,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Machamp,068Machamp.png,90,130,80,65,85,55,1.6,130,45,227,75,70,Fighting,,1,3,Medium Slow,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Bellsprout,069Bellsprout.png,50,75,35,70,30,40,0.7,4,255,60,50,70,Grass,Poison,1,2,Medium Slow,Grass,,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Weepinbell,070Weepinbell.png,65,90,50,85,45,55,1,6.4,120,137,50,70,Grass,Poison,1,2,Medium Slow,Grass,,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Victreebel,071Victreebel.png,80,105,65,100,70,70,1.7,15.5,45,221,50,70,Grass,Poison,1,2,Medium Slow,Grass,,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Tentacool,072Tentacool.png,40,40,35,50,100,70,0.9,45.5,190,67,50,70,Water,Poison,1,3,Slow,Water 3,,1,0.5,0.5,2,1,0.5,0.5,0.5,2,1,2,0.5,1,1,1,1,0.5,0.5
+Tentacruel,073Tentacruel.png,80,70,65,80,120,100,1.6,55,60,180,50,70,Water,Poison,1,3,Slow,Water 3,,1,0.5,0.5,2,1,0.5,0.5,0.5,2,1,2,0.5,1,1,1,1,0.5,0.5
+Geodude,074Geodude.png,40,80,100,30,30,20,0.4,20,255,60,50,70,Rock,Ground,1,3,Medium Slow,Mineral,,0.5,0.5,4,0,4,2,2,0.25,2,0.5,1,1,0.5,1,1,1,2,1
+Alolan Geodude,074Geodude-Alola.png,40,80,100,30,30,20,0.4,20.3,255,60,50,70,Rock,Electric,1,3,Medium Slow,Mineral,,0.5,0.5,2,0.5,2,1,2,0.5,4,0.25,1,1,1,1,1,1,1,1
+Graveler,075Graveler.png,55,95,115,45,45,35,1,105,120,137,50,70,Rock,Ground,1,3,Medium Slow,Mineral,,0.5,0.5,4,0,4,2,2,0.25,2,0.5,1,1,0.5,1,1,1,2,1
+Alolan Graveler,075Graveler-Alola.png,55,95,115,45,45,35,1,110,120,137,50,70,Rock,Electric,1,3,Medium Slow,Mineral,,0.5,0.5,2,0.5,2,1,2,0.5,4,0.25,1,1,1,1,1,1,1,1
+Golem,076Golem.png,80,120,130,55,65,45,1.4,300,45,223,50,70,Rock,Ground,1,3,Medium Slow,Mineral,,0.5,0.5,4,0,4,2,2,0.25,2,0.5,1,1,0.5,1,1,1,2,1
+Alolan Golem,076Golem-Alola.png,80,120,130,55,65,45,1.7,316,45,223,50,70,Rock,Electric,1,3,Medium Slow,Mineral,,0.5,0.5,2,0.5,2,1,2,0.5,4,0.25,1,1,1,1,1,1,1,1
+Ponyta,077Ponyta.png,50,85,55,65,65,90,1,30,190,82,50,70,Fire,,1,3,Medium Fast,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Galarian Ponyta,077Ponyta-Galar.png,50,85,55,65,65,90,0.8,24,,,,,Psychic,,1,3,Medium Fast,Field,,1,0,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Rapidash,078Rapidash.png,65,100,70,80,80,105,1.7,95,60,175,50,70,Fire,,1,3,Medium Fast,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Galarian Rapidash,078Rapidash-Galar.png,65,100,70,80,80,105,1.7,80,,,,,Psychic,Fairy,1,3,Medium Fast,Field,,1,0,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Slowpoke,079Slowpoke.png,90,65,65,40,40,15,1.2,36,190,63,50,70,Water,Psychic,1,3,Medium Fast,Monster,Water 1,1,0.5,0.5,2,2,0.5,0.5,1,1,1,0.5,2,1,2,1,2,0.5,1
+Slowbro,080Slowbro.png,95,75,110,100,80,30,1.6,78.5,75,172,50,70,Water,Psychic,1,3,Medium Fast,Monster,Water 1,1,0.5,0.5,2,2,0.5,0.5,1,1,1,0.5,2,1,2,1,2,0.5,1
+Mega Slowbro,080Slowbro-Mega.png,95,75,180,130,80,30,2,120,75,207,50,70,Water,Psychic,1,1,Medium Fast,Monster,Water 1,1,0.5,0.5,2,2,0.5,0.5,1,1,1,0.5,2,1,2,1,2,0.5,1
+Magnemite,081Magnemite.png,25,35,70,95,55,45,0.3,6,190,65,,70,Electric,Steel,1,3,Medium Fast,Mineral,,0.5,2,1,0.5,0.5,0.5,2,0,4,0.25,0.5,0.5,0.5,1,0.5,1,0.25,0.5
+Magneton,082Magneton.png,50,60,95,120,70,70,1,60,60,163,,70,Electric,Steel,1,3,Medium Fast,Mineral,,0.5,2,1,0.5,0.5,0.5,2,0,4,0.25,0.5,0.5,0.5,1,0.5,1,0.25,0.5
+Farfetchd,083Farfetchd.png,52,90,55,58,62,60,0.8,15,45,132,50,70,Normal,Flying,1,3,Medium Fast,Field,Flying,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Galarian Farfetchd,083Farfetchd-Galar.png,52,95,55,58,62,55,0.8,42,,,,,Fighting,,1,2,Medium Fast,Field,Flying,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Doduo,084Doduo.png,35,85,45,35,35,75,1.4,39.2,190,62,50,70,Normal,Flying,1,3,Medium Fast,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Dodrio,085Dodrio.png,60,110,70,60,60,110,1.8,85.2,45,165,50,70,Normal,Flying,1,3,Medium Fast,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Seel,086Seel.png,65,45,55,45,70,45,1.1,90,190,65,50,70,Water,,1,3,Medium Fast,Field,Water 1,1,0.25,0.5,2,2,0.25,1,1,1,1,1,1,1,1,1,1,0.5,1
+Dewgong,087Dewgong.png,90,70,80,70,95,70,1.7,120,75,166,50,70,Water,Ice,1,3,Medium Fast,Field,Water 1,1,0.5,0.5,2,2,0.125,2,1,1,1,1,1,2,1,1,1,1,1
+Grimer,088Grimer.png,80,80,50,40,50,25,0.9,30,190,65,50,70,Poison,,1,3,Medium Fast,Amorphous,,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Alolan Grimer,088Grimer-Alola.png,80,80,50,40,50,25,0.7,42,190,65,50,70,Poison,Dark,1,3,Medium Fast,Amorphous,,1,1,1,1,0.5,1,1,0.5,2,1,0,1,1,0.5,1,0.5,1,1
+Muk,089Muk.png,105,105,75,65,100,50,1.2,30,75,175,50,70,Poison,,1,3,Medium Fast,Amorphous,,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Alolan Muk,089Muk-Alola.png,105,105,75,65,100,50,1,52,75,175,50,70,Poison,Dark,1,3,Medium Fast,Amorphous,,1,1,1,1,0.5,1,1,0.5,2,1,0,1,1,0.5,1,0.5,1,1
+Shellder,090Shellder.png,30,65,100,45,25,40,0.3,4,190,61,50,70,Water,,1,3,Slow,Water 3,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Cloyster,091Cloyster.png,50,95,180,85,45,70,1.5,132.5,60,184,50,70,Water,Ice,1,3,Slow,Water 3,,1,1,0.5,2,2,0.25,2,1,1,1,1,1,2,1,1,1,1,1
+Gastly,092Gastly.png,30,35,30,100,35,80,1.3,0.1,190,62,50,70,Ghost,Poison,1,1,Medium Slow,Amorphous,,0,1,1,1,0.5,1,0,0.25,0,1,2,0.25,1,2,1,2,1,0.5
+Haunter,093Haunter.png,45,50,45,115,55,95,1.6,0.1,90,142,50,70,Ghost,Poison,1,1,Medium Slow,Amorphous,,0,1,1,1,0.5,1,0,0.25,0,1,2,0.25,1,2,1,2,1,0.5
+Gengar,094Gengar.png,60,65,60,130,75,110,1.5,40.5,45,225,50,70,Ghost,Poison,1,1,Medium Slow,Amorphous,,0,1,1,1,0.5,1,0,0.25,2,1,2,0.25,1,2,1,2,1,0.5
+Mega Gengar,094Gengar-Mega.png,60,65,80,170,95,130,1.4,40.5,45,270,50,70,Ghost,Poison,1,1,Medium Slow,Amorphous,,0,1,1,1,0.5,1,0,0.25,2,1,2,0.25,1,2,1,2,1,0.5
+Onix,095Onix.png,35,45,160,30,45,70,8.8,210,45,77,50,70,Rock,Ground,1,3,Medium Fast,Mineral,,0.5,0.5,4,0,4,2,2,0.25,2,0.5,1,1,0.5,1,1,1,2,1
+Drowzee,096Drowzee.png,60,48,45,43,90,42,1,32.4,190,66,50,70,Psychic,,1,3,Medium Fast,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Hypno,097Hypno.png,85,73,70,73,115,67,1.6,75.6,75,169,50,70,Psychic,,1,3,Medium Fast,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Krabby,098Krabby.png,30,105,90,25,25,50,0.4,6.5,225,65,50,70,Water,,1,3,Medium Fast,Water 3,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Kingler,099Kingler.png,55,130,115,50,50,75,1.3,60,60,166,50,70,Water,,1,3,Medium Fast,Water 3,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Voltorb,100Voltorb.png,40,30,50,55,55,100,0.5,10.4,190,66,,70,Electric,,1,3,Medium Fast,Mineral,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Electrode,101Electrode.png,60,50,70,80,80,150,1.2,66.6,60,172,,70,Electric,,1,3,Medium Fast,Mineral,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Exeggcute,102Exeggcute.png,60,40,80,60,45,40,0.4,2.5,90,65,50,70,Grass,Psychic,1,2,Slow,Grass,,1,2,0.5,0.5,0.5,2,0.5,2,0.5,2,0.5,4,1,2,1,2,1,1
+Exeggutor,103Exeggutor.png,95,95,85,125,75,55,2,120,45,186,50,70,Grass,Psychic,1,2,Slow,Grass,,1,2,0.5,0.5,0.5,2,0.5,2,0.5,2,0.5,4,1,2,1,2,1,1
+Alolan Exeggutor,103Exeggutor-Alola.png,95,105,85,125,75,45,10.9,415.6,45,186,50,70,Grass,Dragon,1,2,Slow,Grass,,1,1,0.25,0.25,0.25,4,1,2,0.5,2,1,2,1,1,2,1,1,2
+Cubone,104Cubone.png,50,50,95,40,50,35,0.4,6.5,190,64,50,70,Ground,,1,3,Medium Fast,Monster,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Marowak,105Marowak.png,60,80,110,50,80,45,1,45,75,149,50,70,Ground,,1,3,Medium Fast,Monster,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Alolan Marowak,105Marowak-Alola.png,60,80,110,50,80,45,1,34,75,149,50,70,Fire,Ghost,1,3,Medium Fast,Monster,,0,0.5,2,1,0.5,0.5,0,0.5,2,1,1,0.25,2,2,1,2,0.5,0.5
+Hitmonlee,106Hitmonlee.png,50,120,53,35,110,87,1.5,49.8,45,159,100,70,Fighting,,1,3,Medium Fast,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Hitmonchan,107Hitmonchan.png,50,105,79,35,110,76,1.4,50.2,45,159,100,70,Fighting,,1,3,Medium Fast,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Lickitung,108Lickitung.png,90,55,75,60,75,30,1.2,65.5,45,77,50,70,Normal,,1,3,Medium Fast,Monster,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Koffing,109Koffing.png,40,65,95,60,45,35,0.6,1,190,68,50,70,Poison,,1,3,Medium Fast,Amorphous,,1,1,1,1,0.5,1,0.5,0.5,0,1,2,0.5,1,1,1,1,1,0.5
+Weezing,110Weezing.png,65,90,120,85,70,60,1.2,9.5,60,172,50,70,Poison,,1,3,Medium Fast,Amorphous,,1,1,1,1,0.5,1,0.5,0.5,0,1,2,0.5,1,1,1,1,1,0.5
+Galarian Weezing,110Weezing-Galar.png,65,90,120,85,70,60,3,16,,,,,Poison,Fairy,1,3,Medium Fast,Amorphous,,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Rhyhorn,111Rhyhorn.png,80,85,95,30,30,25,1,115,120,69,50,70,Ground,Rock,1,3,Slow,Field,Monster,0.5,0.5,4,0,4,2,2,0.25,2,0.5,1,1,0.5,1,1,1,2,1
+Rhydon,112Rhydon.png,105,130,120,45,45,40,1.9,120,60,170,50,70,Ground,Rock,1,3,Slow,Field,Monster,0.5,0.5,4,0,4,2,2,0.25,2,0.5,1,1,0.5,1,1,1,2,1
+Chansey,113Chansey.png,250,5,5,35,105,50,1.1,34.6,30,395,0,140,Normal,,1,3,Fast,Fairy,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Tangela,114Tangela.png,65,55,115,100,40,60,1,35,45,87,50,70,Grass,,1,3,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Kangaskhan,115Kangaskhan.png,105,95,80,40,80,90,2.2,80,45,172,0,70,Normal,,1,3,Medium Fast,Monster,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Mega Kangaskhan,115Kangaskhan-Mega.png,105,125,100,60,100,100,2.2,100,45,207,0,70,Normal,,1,1,Medium Fast,Monster,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,0
+Horsea,116Horsea.png,30,40,70,70,25,60,0.4,8,225,59,50,70,Water,,1,3,Medium Fast,Dragon,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Seadra,117Seadra.png,55,65,95,95,45,85,1.2,25,75,154,50,70,Water,,1,3,Medium Fast,Dragon,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Goldeen,118Goldeen.png,45,67,60,35,50,63,0.6,15,225,64,50,70,Water,,1,3,Medium Fast,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Seaking,119Seaking.png,80,92,65,65,80,68,1.3,39,60,158,50,70,Water,,1,3,Medium Fast,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Staryu,120Staryu.png,30,45,55,70,55,85,0.8,34.5,225,68,,70,Water,,1,3,Slow,Water 3,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Starmie,121Starmie.png,60,75,85,100,85,115,1.1,80,60,182,,70,Water,Psychic,1,3,Slow,Water 3,,1,0.5,0.5,2,2,0.5,0.5,1,1,1,0.5,2,1,2,1,2,0.5,1
+Mr Mime,122Mr_Mime.png,40,45,65,100,120,90,1.3,54.5,45,161,50,70,Psychic,Fairy,1,3,Medium Fast,Human-Like,,1,1,1,1,1,1,0.25,2,1,1,0.5,1,1,2,0,1,2,1
+Galarian Mr Mime,122Mr_Mime-Galar.png,50,65,65,90,90,100,1.4,56.8,,,,,Psychic,Ice,1,3,Medium Fast,Human-Like,,1,1,1,1,1,1,0.25,1.5,1,1,0.5,1,1,1.5,0,1,1.5,1
+Scyther,123Scyther.png,70,110,80,55,80,105,1.5,56,45,100,50,70,Bug,Flying,1,3,Medium Fast,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Jynx,124Jynx.png,65,50,35,115,95,95,1.4,40.6,45,159,0,70,Ice,Psychic,1,3,Medium Fast,Human-Like,,1,2,1,1,1,0.5,1,1,1,1,0.5,2,2,2,1,2,2,1
+Electabuzz,125Electabuzz.png,65,83,57,95,85,105,1.1,30,45,172,75,70,Electric,,1,2,Medium Fast,Human-Like,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Magmar,126Magmar.png,65,95,57,100,85,93,1.3,44.5,45,173,75,70,Fire,,1,2,Medium Fast,Human-Like,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Pinsir,127Pinsir.png,65,125,100,55,70,85,1.5,55,45,175,50,70,Bug,,1,3,Slow,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Mega Pinsir,127Pinsir-Mega.png,65,155,120,65,90,105,1.7,59,45,210,50,70,Bug,Flying,1,1,Slow,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Tauros,128Tauros.png,75,100,95,40,70,110,1.4,88.4,45,172,100,70,Normal,,1,3,Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Magikarp,129Magikarp.png,20,10,55,15,20,80,0.9,10,255,40,50,70,Water,,1,2,Slow,Dragon,Water 2,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Gyarados,130Gyarados.png,95,125,79,60,100,81,6.5,235,45,189,50,70,Water,Flying,1,2,Slow,Dragon,Water 2,1,0.5,0.5,4,1,1,0.5,1,0,1,1,0.5,2,1,1,1,0.5,1
+Mega Gyarados,130Gyarados-Mega.png,95,155,109,70,130,81,6.5,305,45,224,50,70,Water,Dark,1,1,Slow,Dragon,Water 2,1,0.5,0.5,2,2,0.5,2,1,1,1,0,2,1,0.5,1,0.5,0.5,2
+Lapras,131Lapras.png,130,85,80,85,95,60,2.5,220,45,187,50,70,Water,Ice,1,3,Slow,Monster,Water 1,1,1,0,2,2,0.25,2,1,1,1,1,1,2,1,1,1,1,1
+Ditto,132Ditto.png,48,48,48,48,48,48,0.3,4,35,101,,70,Normal,,1,2,Medium Fast,Ditto,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Eevee,133Eevee.png,55,55,50,45,65,55,0.3,6.5,45,65,87.5,70,Normal,,1,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Partner Eevee,133Eevee_LG.png,65,75,70,65,85,75,0.3,6.5,45,65,87.5,70,Normal,,1,1,Medium Fast,,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Vaporeon,134Vaporeon.png,130,65,60,110,95,65,1,29,45,184,87.5,70,Water,,1,2,Medium Fast,Field,,1,0.5,0,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Jolteon,135Jolteon.png,65,65,60,110,95,130,0.8,24.5,45,184,87.5,70,Electric,,1,2,Medium Fast,Field,,1,1,1,0,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Flareon,136Flareon.png,65,130,60,95,110,65,0.9,25,45,184,87.5,70,Fire,,1,2,Medium Fast,Field,,1,0,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Porygon,137Porygon.png,65,60,70,85,75,40,0.8,36.5,45,79,,70,Normal,,1,3,Medium Fast,Mineral,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Omanyte,138Omanyte.png,35,40,100,90,55,35,0.4,7.5,45,71,87.5,70,Rock,Water,1,3,Medium Fast,Water 1,Water 3,0.5,0.25,1,2,4,0.5,2,0.5,2,0.5,1,1,1,1,1,1,1,1
+Omastar,139Omastar.png,70,60,125,115,70,55,1,35,45,173,87.5,70,Rock,Water,1,3,Medium Fast,Water 1,Water 3,0.5,0.25,1,2,4,0.5,2,0.5,2,0.5,1,1,1,1,1,1,1,1
+Kabuto,140Kabuto.png,30,80,90,55,45,55,0.5,11.5,45,71,87.5,70,Rock,Water,1,3,Medium Fast,Water 1,Water 3,0.5,0.25,1,2,4,0.5,2,0.5,2,0.5,1,1,1,1,1,1,1,1
+Kabutops,141Kabutops.png,60,115,105,65,70,80,1.3,40.5,45,173,87.5,70,Rock,Water,1,3,Medium Fast,Water 1,Water 3,0.5,0.25,1,2,4,0.5,2,0.5,2,0.5,1,1,1,1,1,1,1,1
+Aerodactyl,142Aerodactyl.png,80,105,65,60,75,130,1.8,59,45,180,87.5,70,Rock,Flying,1,3,Slow,Flying,,0.5,0.5,2,2,1,2,1,0.5,0,0.5,1,0.5,2,1,1,1,2,1
+Mega Aerodactyl,142Aerodactyl-Mega.png,80,135,85,70,95,150,2.1,79,45,215,87.5,70,Rock,Flying,1,1,Slow,Flying,,0.5,0.5,2,2,1,2,1,0.5,0,0.5,1,0.5,2,1,1,1,2,1
+Snorlax,143Snorlax.png,160,110,65,65,110,30,2.1,460,25,189,87.5,70,Normal,,1,3,Slow,Monster,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Articuno,144Articuno.png,90,85,100,95,125,85,1.7,55.4,3,261,,35,Ice,Flying,1,2,Slow,Undiscovered,,1,2,1,2,0.5,1,1,1,0,1,1,0.5,4,1,1,1,2,1
+Zapdos,145Zapdos.png,90,90,85,125,90,100,1.6,52.6,3,261,,35,Electric,Flying,1,2,Slow,Undiscovered,,1,1,1,1,0.5,2,0.5,1,0,0.5,1,0.5,2,1,1,1,0.5,1
+Moltres,146Moltres.png,90,100,90,125,85,90,2,60,3,261,,35,Fire,Flying,1,2,Slow,Undiscovered,,1,0.5,2,2,0.25,1,0.5,1,0,1,1,0.25,4,1,1,1,0.5,0.5
+Dratini,147Dratini.png,41,64,45,50,50,50,1.8,3.3,45,60,50,35,Dragon,,1,2,Slow,Dragon,Water 1,1,0.5,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1,2,1,1,2
+Dragonair,148Dragonair.png,61,84,65,70,70,70,4,16.5,45,147,50,35,Dragon,,1,2,Slow,Dragon,Water 1,1,0.5,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1,2,1,1,2
+Dragonite,149Dragonite.png,91,134,95,100,100,80,2.2,210,45,270,50,35,Dragon,Flying,1,2,Slow,Dragon,Water 1,1,0.5,0.5,1,0.25,4,0.5,1,0,1,1,0.5,2,1,2,1,1,2
+Mewtwo,150Mewtwo.png,106,110,90,154,90,130,2,122,3,306,,0,Psychic,,1,2,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Mega Mewtwo X,150Mewtwo-Mega_X.png,106,190,100,154,100,130,2.3,127,3,351,,0,Psychic,Fighting,1,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,2,1,1,0.5,2,1,1,1,2
+Mega Mewtwo Y,150Mewtwo-Mega_Y.png,106,150,70,194,120,140,1.5,33,3,351,,0,Psychic,,1,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Mew,151Mew.png,100,100,100,100,100,100,0.4,4,45,270,,100,Psychic,,1,1,Medium Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Chikorita,152Chikorita.png,45,49,65,49,65,45,0.9,6.4,45,64,87.5,70,Grass,,2,2,Medium Slow,Grass,Monster,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Bayleef,153Bayleef.png,60,62,80,63,80,60,1.2,15.8,45,142,87.5,70,Grass,,2,2,Medium Slow,Grass,Monster,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Meganium,154Meganium.png,80,82,100,83,100,80,1.8,100.5,45,236,87.5,70,Grass,,2,2,Medium Slow,Grass,Monster,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Cyndaquil,155Cyndaquil.png,39,52,43,60,50,65,0.5,7.9,45,62,87.5,70,Fire,,2,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Quilava,156Quilava.png,58,64,58,80,65,80,0.9,19,45,142,87.5,70,Fire,,2,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Typhlosion,157Typhlosion.png,78,84,78,109,85,100,1.7,79.5,45,240,87.5,70,Fire,,2,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Totodile,158Totodile.png,50,65,64,44,48,43,0.6,9.5,45,63,87.5,70,Water,,2,2,Medium Slow,Monster,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Croconaw,159Croconaw.png,65,80,80,59,63,58,1.1,25,45,142,87.5,70,Water,,2,2,Medium Slow,Monster,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Feraligatr,160Feraligatr.png,85,105,100,79,83,78,2.3,88.8,45,239,87.5,70,Water,,2,2,Medium Slow,Monster,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Sentret,161Sentret.png,35,46,34,35,45,20,0.8,6,255,43,50,70,Normal,,2,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Furret,162Furret.png,85,76,64,45,55,90,1.8,32.5,90,145,50,70,Normal,,2,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Hoothoot,163Hoothoot.png,60,30,30,36,56,50,0.7,21.2,255,52,50,70,Normal,Flying,2,3,Medium Fast,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Noctowl,164Noctowl.png,100,50,50,86,96,70,1.6,40.8,90,158,50,70,Normal,Flying,2,3,Medium Fast,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Ledyba,165Ledyba.png,40,20,30,40,80,55,1,10.8,255,53,50,70,Bug,Flying,2,3,Fast,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Ledian,166Ledian.png,55,35,50,55,110,85,1.4,35.6,90,137,50,70,Bug,Flying,2,3,Fast,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Spinarak,167Spinarak.png,40,60,40,40,40,30,0.5,8.5,255,50,50,70,Bug,Poison,2,3,Fast,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Ariados,168Ariados.png,70,90,70,60,70,40,1.1,33.5,90,140,50,70,Bug,Poison,2,3,Fast,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Crobat,169Crobat.png,85,90,80,70,80,130,1.8,75,90,241,50,70,Poison,Flying,2,2,Medium Fast,Flying,,1,1,1,2,0.25,2,0.25,0.5,0,1,2,0.25,2,1,1,1,1,0.5
+Chinchou,170Chinchou.png,75,38,38,56,56,67,0.5,12,190,66,50,70,Water,Electric,2,3,Slow,Water 2,,1,0.5,0.5,0,2,0.5,1,1,2,0.5,1,1,1,1,1,1,0.25,1
+Lanturn,171Lanturn.png,125,58,58,76,76,67,1.2,22.5,75,161,50,70,Water,Electric,2,3,Slow,Water 2,,1,0.5,0.5,0,2,0.5,1,1,2,0.5,1,1,1,1,1,1,0.25,1
+Pichu,172Pichu.png,20,40,15,35,35,60,0.3,2,190,41,50,70,Electric,,2,2,Medium Fast,Undiscovered,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Cleffa,173Cleffa.png,50,25,28,45,55,15,0.3,3,150,44,25,140,Fairy,,2,3,Fast,Undiscovered,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Igglybuff,174Igglybuff.png,90,30,15,40,20,15,0.3,1,170,42,25,70,Normal,Fairy,2,3,Fast,Undiscovered,,1,1,1,1,1,1,1,2,1,1,1,0.5,1,0,0,0.5,2,1
+Togepi,175Togepi.png,35,20,65,40,65,20,0.3,1.5,190,49,87.5,70,Fairy,,2,3,Fast,Undiscovered,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Togetic,176Togetic.png,55,40,85,80,105,40,0.6,3.2,75,142,87.5,70,Fairy,Flying,2,3,Fast,Fairy,Flying,1,1,1,2,0.5,2,0.25,2,0,1,1,0.25,2,1,0,0.5,2,1
+Natu,177Natu.png,40,50,45,70,45,70,0.2,2,190,64,50,70,Psychic,Flying,2,3,Medium Fast,Flying,,1,1,1,2,0.5,2,0.25,1,0,1,0.5,1,2,2,1,2,1,1
+Xatu,178Xatu.png,65,75,70,95,70,95,1.5,15,75,165,50,70,Psychic,Flying,2,3,Medium Fast,Flying,,1,1,1,2,0.5,2,0.25,1,0,1,0.5,1,2,2,1,2,1,1
+Mareep,179Mareep.png,55,40,40,65,45,35,0.6,7.8,235,56,50,70,Electric,,2,2,Medium Slow,Field,Monster,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Flaaffy,180Flaaffy.png,70,55,55,80,60,45,0.8,13.3,120,128,50,70,Electric,,2,2,Medium Slow,Field,Monster,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Ampharos,181Ampharos.png,90,75,85,115,90,55,1.4,61.5,45,230,50,70,Electric,,2,2,Medium Slow,Field,Monster,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Mega Ampharos,181Ampharos-Mega.png,90,95,105,165,110,45,1.4,61.5,45,275,50,70,Electric,Dragon,2,1,Medium Slow,Field,Monster,1,0.5,0.5,0.25,0.5,2,1,1,2,0.5,1,1,1,1,2,1,0.5,2
+Bellossom,182Bellossom.png,75,80,95,90,100,50,0.4,5.8,45,221,50,70,Grass,,2,2,Medium Slow,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Marill,183Marill.png,70,20,50,20,50,40,0.4,8.5,190,88,50,70,Water,Fairy,2,3,Fast,Fairy,Water 1,1,0.25,0.5,2,2,0.25,0.5,2,1,1,1,0.5,1,1,0,0.5,1,1
+Azumarill,184Azumarill.png,100,50,80,60,80,50,0.8,28.5,75,189,50,70,Water,Fairy,2,3,Fast,Fairy,Water 1,1,0.25,0.5,2,2,0.25,0.5,2,1,1,1,0.5,1,1,0,0.5,1,1
+Sudowoodo,185Sudowoodo.png,70,100,115,30,65,30,1.2,38,65,144,50,70,Rock,,2,3,Medium Fast,Mineral,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Politoed,186Politoed.png,90,75,75,90,100,70,1.1,33.9,45,225,50,70,Water,,2,3,Medium Slow,Water 1,,1,0.5,0,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Hoppip,187Hoppip.png,35,35,40,35,55,50,0.4,0.5,255,50,50,70,Grass,Flying,2,3,Medium Slow,Fairy,Grass,1,2,0.5,1,0.25,4,0.5,2,0,2,1,1,2,1,1,1,1,1
+Skiploom,188Skiploom.png,55,45,50,45,65,80,0.6,1,120,119,50,70,Grass,Flying,2,3,Medium Slow,Fairy,Grass,1,2,0.5,1,0.25,4,0.5,2,0,2,1,1,2,1,1,1,1,1
+Jumpluff,189Jumpluff.png,75,55,70,55,95,110,0.8,3,45,207,50,70,Grass,Flying,2,3,Medium Slow,Fairy,Grass,1,2,0.5,1,0.25,4,0.5,2,0,2,1,1,2,1,1,1,1,1
+Aipom,190Aipom.png,55,70,55,40,55,85,0.8,11.5,45,72,50,70,Normal,,2,3,Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Sunkern,191Sunkern.png,30,30,30,30,30,30,0.3,1.8,235,36,50,70,Grass,,2,3,Medium Slow,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Sunflora,192Sunflora.png,75,75,55,105,85,30,0.8,8.5,120,149,50,70,Grass,,2,3,Medium Slow,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Yanma,193Yanma.png,65,65,45,75,45,95,1.2,38,75,78,50,70,Bug,Flying,2,3,Medium Fast,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Wooper,194Wooper.png,55,45,45,25,25,15,0.4,8.5,255,42,50,70,Water,Ground,2,3,Medium Fast,Field,Water 1,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Quagsire,195Quagsire.png,95,85,85,65,65,35,1.4,75,90,151,50,70,Water,Ground,2,3,Medium Fast,Field,Water 1,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Espeon,196Espeon.png,65,65,60,130,95,110,0.9,26.5,45,184,87.5,70,Psychic,,2,2,Medium Fast,Field,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Umbreon,197Umbreon.png,95,65,110,60,130,65,1,27,45,184,87.5,35,Dark,,2,2,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Murkrow,198Murkrow.png,60,85,42,85,42,91,0.5,2.1,30,81,50,35,Dark,Flying,2,3,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,0,1,2,0.5,1,0.5,1,2
+Slowking,199Slowking.png,95,75,80,100,110,30,2,79.5,70,172,50,70,Water,Psychic,2,3,Medium Fast,Monster,Water 1,1,0.5,0.5,2,2,0.5,0.5,1,1,1,0.5,2,1,2,1,2,0.5,1
+Misdreavus,200Misdreavus.png,60,60,60,85,85,85,0.7,1,45,87,50,35,Ghost,,2,1,Fast,Amorphous,,0,1,1,1,1,1,0,0.5,0,1,1,0.5,1,2,1,2,1,1
+Unown,201Unown.png,48,72,48,72,48,48,0.5,5,225,118,,70,Psychic,,2,1,Medium Fast,Undiscovered,,1,1,1,1,1,1,0.5,1,0,1,0.5,2,1,2,1,2,1,1
+Wobbuffet,202Wobbuffet.png,190,33,58,33,58,33,1.3,28.5,45,142,50,70,Psychic,,2,2,Medium Fast,Amorphous,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Girafarig,203Girafarig.png,70,80,65,90,65,85,1.5,41.5,60,159,50,70,Normal,Psychic,2,3,Medium Fast,Field,,1,1,1,1,1,1,1,1,1,1,0.5,2,1,0,1,2,1,1
+Pineco,204Pineco.png,50,65,90,35,35,15,0.6,7.2,190,58,50,70,Bug,,2,2,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Forretress,205Forretress.png,75,90,140,60,60,40,1.2,125.8,75,163,50,70,Bug,Steel,2,2,Medium Fast,Bug,,0.5,4,1,1,0.25,0.5,1,0,1,1,0.5,0.5,1,1,0.5,1,0.5,0.5
+Dunsparce,206Dunsparce.png,100,70,70,65,65,45,1.5,14,190,145,50,70,Normal,,2,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Gligar,207Gligar.png,65,75,105,35,65,85,1.1,64.8,60,86,50,70,Ground,Flying,2,3,Medium Slow,Bug,,1,1,2,0,1,4,0.5,0.5,0,1,1,0.5,1,1,1,1,1,1
+Steelix,208Steelix.png,75,85,200,55,65,30,9.2,400,25,179,50,70,Steel,Ground,2,3,Medium Fast,Mineral,,0.5,2,2,0,1,1,2,0,2,0.5,0.5,0.5,0.25,1,0.5,1,0.5,0.5
+Mega Steelix,208Steelix-Mega.png,75,125,230,55,95,30,10.5,740,25,214,50,70,Steel,Ground,2,1,Medium Fast,Mineral,,0.5,2,2,0,1,1,2,0,2,0.5,0.5,0.5,0.25,1,0.5,1,0.5,0.5
+Snubbull,209Snubbull.png,60,80,50,40,40,30,0.6,7.8,190,60,25,70,Fairy,,2,3,Fast,Fairy,Field,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Granbull,210Granbull.png,90,120,75,60,60,45,1.4,48.7,75,158,25,70,Fairy,,2,3,Fast,Fairy,Field,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Qwilfish,211Qwilfish.png,65,95,85,55,55,85,0.5,3.9,45,88,50,70,Water,Poison,2,3,Medium Fast,Water 2,,1,0.5,0.5,2,1,0.5,0.5,0.5,2,1,2,0.5,1,1,1,1,0.5,0.5
+Scizor,212Scizor.png,70,130,100,55,80,65,1.8,118,25,175,50,70,Bug,Steel,2,3,Medium Fast,Bug,,0.5,4,1,1,0.25,0.5,1,0,1,1,0.5,0.5,1,1,0.5,1,0.5,0.5
+Mega Scizor,212Scizor-Mega.png,70,150,140,65,100,75,2,125,25,210,50,70,Bug,Steel,2,1,Medium Fast,Bug,,0.5,4,1,1,0.25,0.5,1,0,1,1,0.5,0.5,1,1,0.5,1,0.5,0.5
+Shuckle,213Shuckle.png,20,10,230,10,230,5,0.6,20.5,190,177,50,70,Bug,Rock,2,3,Medium Slow,Bug,,0.5,1,2,1,1,1,1,0.5,1,1,1,1,2,1,1,1,2,1
+Heracross,214Heracross.png,80,125,75,40,95,85,1.5,54,45,175,50,70,Bug,Fighting,2,3,Slow,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,4,2,0.5,1,1,1,0.5,1,2
+Mega Heracross,214Heracross-Mega.png,80,185,115,40,105,75,1.7,62.5,45,210,50,70,Bug,Fighting,2,1,Slow,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,4,2,0.5,1,1,1,0.5,1,2
+Sneasel,215Sneasel.png,55,95,55,35,75,115,0.9,28,60,86,50,35,Dark,Ice,2,3,Medium Slow,Field,,1,2,1,1,1,0.5,4,1,1,1,0,2,2,0.5,1,0.5,2,2
+Teddiursa,216Teddiursa.png,60,80,50,50,50,40,0.6,8.8,120,66,50,70,Normal,,2,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Ursaring,217Ursaring.png,90,130,75,75,75,55,1.8,125.8,60,175,50,70,Normal,,2,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Slugma,218Slugma.png,40,40,40,70,40,20,0.7,35,190,50,50,70,Fire,,2,3,Medium Fast,Amorphous,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Magcargo,219Magcargo.png,60,50,120,90,80,30,0.8,55,75,151,50,70,Fire,Rock,2,3,Medium Fast,Amorphous,,0.5,0.25,4,1,1,0.5,2,0.5,4,0.5,1,0.5,2,1,1,1,1,0.5
+Swinub,220Swinub.png,50,50,40,30,30,50,0.4,6.5,225,50,50,70,Ice,Ground,2,3,Slow,Field,,1,2,2,0,2,1,2,0.5,1,1,1,1,1,1,1,1,2,1
+Piloswine,221Piloswine.png,100,100,80,60,60,50,1.1,55.8,75,158,50,70,Ice,Ground,2,3,Slow,Field,,1,2,2,0,2,1,2,0.5,1,1,1,1,1,1,1,1,2,1
+Corsola,222Corsola.png,65,55,95,65,95,35,0.6,5,60,144,25,70,Water,Rock,2,3,Fast,Water 1,Water 3,0.5,0.25,1,2,4,0.5,2,0.5,2,0.5,1,1,1,1,1,1,1,1
+Galarian Corsola,222Corsola-Galar.png,60,55,100,65,100,30,0.6,0.5,,,,,Ghost,,2,2,Fast,Water 1,Water 3,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Remoraid,223Remoraid.png,35,65,35,65,35,65,0.6,12,190,60,50,70,Water,,2,3,Medium Fast,Water 1,Water 2,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Octillery,224Octillery.png,75,105,75,105,75,45,0.9,28.5,75,168,50,70,Water,,2,3,Medium Fast,Water 1,Water 2,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Delibird,225Delibird.png,45,55,45,65,45,75,0.9,16,45,116,50,70,Ice,Flying,2,3,Fast,Field,Water 1,1,2,1,2,0.5,1,1,1,0,1,1,0.5,4,1,1,1,2,1
+Mantine,226Mantine.png,85,40,70,80,140,70,2.1,220,25,170,50,70,Water,Flying,2,3,Slow,Water 1,,1,0.5,0.5,4,1,1,0.5,1,0,1,1,0.5,2,1,1,1,0.5,1
+Skarmory,227Skarmory.png,65,80,140,40,70,70,1.7,50.5,25,163,50,70,Steel,Flying,2,3,Slow,Flying,,0.5,2,1,2,0.25,1,1,0,0,0.5,0.5,0.25,1,1,0.5,1,0.5,0.5
+Houndour,228Houndour.png,45,60,30,80,50,65,0.6,10.8,120,66,50,35,Dark,Fire,2,3,Slow,Field,,1,0.5,2,1,0.5,0.5,2,1,2,1,0,1,2,0.5,1,0.5,0.5,1
+Houndoom,229Houndoom.png,75,90,50,110,80,95,1.4,35,45,175,50,35,Dark,Fire,2,3,Slow,Field,,1,0.5,2,1,0.5,0.5,2,1,2,1,0,1,2,0.5,1,0.5,0.5,1
+Mega Houndoom,229Houndoom-Mega.png,75,90,90,140,90,115,1.9,49.5,45,210,50,35,Dark,Fire,2,1,Slow,Field,,1,0,2,1,0.5,0.5,2,1,2,1,0,1,2,0.5,1,0.5,0.5,1
+Kingdra,230Kingdra.png,75,95,95,95,95,85,1.8,152,45,243,50,70,Water,Dragon,2,3,Medium Fast,Dragon,Water 1,1,0.25,0.25,1,1,1,1,1,1,1,1,1,1,1,2,1,0.5,2
+Phanpy,231Phanpy.png,90,60,60,40,40,40,0.5,33.5,120,66,50,70,Ground,,2,2,Medium Fast,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Donphan,232Donphan.png,90,120,120,60,60,50,1.1,120,60,175,50,70,Ground,,2,2,Medium Fast,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Porygon2,233Porygon2.png,85,80,90,105,95,60,0.6,32.5,45,180,,70,Normal,,2,3,Medium Fast,Mineral,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Stantler,234Stantler.png,73,95,62,85,65,85,1.4,71.2,45,163,50,70,Normal,,2,3,Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Smeargle,235Smeargle.png,55,20,35,20,45,75,1.2,58,45,88,50,70,Normal,,2,3,Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Tyrogue,236Tyrogue.png,35,35,35,35,35,35,0.7,21,75,42,100,70,Fighting,,2,3,Medium Fast,Undiscovered,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Hitmontop,237Hitmontop.png,50,95,95,35,110,70,1.4,48,45,159,100,70,Fighting,,2,3,Medium Fast,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Smoochum,238Smoochum.png,45,30,15,85,65,65,0.4,6,45,61,0,70,Ice,Psychic,2,3,Medium Fast,Undiscovered,,1,2,1,1,1,0.5,1,1,1,1,0.5,2,2,2,1,2,2,1
+Elekid,239Elekid.png,45,63,37,65,55,95,0.6,23.5,45,72,75,70,Electric,,2,2,Medium Fast,Undiscovered,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Magby,240Magby.png,45,75,37,70,55,83,0.7,21.4,45,73,75,70,Fire,,2,2,Medium Fast,Undiscovered,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Miltank,241Miltank.png,95,80,105,40,70,100,1.2,75.5,45,172,0,70,Normal,,2,3,Slow,Field,,1,0.5,1,1,1,0.5,2,1,1,1,1,1,1,0,1,1,1,1
+Blissey,242Blissey.png,255,10,10,75,135,55,1.5,46.8,30,608,0,140,Normal,,2,3,Fast,Fairy,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Raikou,243Raikou.png,90,85,75,115,100,115,1.9,178,3,261,,35,Electric,,2,2,Slow,Undiscovered,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Entei,244Entei.png,115,115,85,90,75,100,2.1,198,3,261,,35,Fire,,2,2,Slow,Undiscovered,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Suicune,245Suicune.png,100,75,115,90,115,85,2,187,3,261,,35,Water,,2,2,Slow,Undiscovered,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Larvitar,246Larvitar.png,50,64,50,45,50,41,0.6,72,45,60,50,35,Rock,Ground,2,2,Slow,Monster,,0.5,0.5,4,0,4,2,2,0.25,2,0.5,1,1,0.5,1,1,1,2,1
+Pupitar,247Pupitar.png,70,84,70,65,70,51,1.2,152,45,144,50,35,Rock,Ground,2,1,Slow,Monster,,0.5,0.5,4,0,4,2,2,0.25,2,0.5,1,1,0.5,1,1,1,2,1
+Tyranitar,248Tyranitar.png,100,134,110,95,100,61,2,202,45,270,50,35,Rock,Dark,2,2,Slow,Monster,,0.5,0.5,2,1,2,1,4,0.5,2,0.5,0,2,1,0.5,1,0.5,2,2
+Mega Tyranitar,248Tyranitar-Mega.png,100,164,150,95,120,71,2.5,255,45,315,50,35,Rock,Dark,2,1,Slow,Monster,,0.5,0.5,2,1,2,1,4,0.5,2,0.5,0,2,1,0.5,1,0.5,2,2
+Lugia,249Lugia.png,106,90,130,90,154,110,5.2,216,3,306,,0,Psychic,Flying,2,2,Slow,Undiscovered,,1,1,1,2,0.5,2,0.25,1,0,1,0.5,1,2,2,1,2,1,1
+Ho Oh,250Ho-Oh.png,106,130,90,110,154,90,3.8,199,3,306,,0,Fire,Flying,2,2,Slow,Undiscovered,,1,0.5,2,2,0.25,1,0.5,1,0,1,1,0.25,4,1,1,1,0.5,0.5
+Celebi,251Celebi.png,100,100,100,100,100,100,0.6,5,45,270,,100,Psychic,Grass,2,1,Medium Slow,Undiscovered,,1,2,0.5,0.5,0.5,2,0.5,2,0.5,2,0.5,4,1,2,1,2,1,1
+Treecko,252Treecko.png,40,45,35,65,55,70,0.5,5,45,62,87.5,70,Grass,,3,2,Medium Slow,Dragon,Monster,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Grovyle,253Grovyle.png,50,65,45,85,65,95,0.9,21.6,45,142,87.5,70,Grass,,3,2,Medium Slow,Dragon,Monster,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Sceptile,254Sceptile.png,70,85,65,105,85,120,1.7,52.2,45,239,87.5,70,Grass,,3,2,Medium Slow,Dragon,Monster,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Mega Sceptile,254Sceptile-Mega.png,70,110,75,145,85,145,1.9,55.2,45,284,87.5,70,Grass,Dragon,3,1,Medium Slow,Dragon,Monster,1,1,0.25,0,0.25,4,1,2,0.5,2,1,2,1,1,2,1,1,2
+Torchic,255Torchic.png,45,60,40,70,50,45,0.4,2.5,45,62,87.5,70,Fire,,3,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Combusken,256Combusken.png,60,85,60,85,60,55,0.9,19.5,45,142,87.5,70,Fire,Fighting,3,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,2,2,0.25,1,1,1,0.5,0.5,1
+Blaziken,257Blaziken.png,80,120,70,110,70,80,1.9,52,45,239,87.5,70,Fire,Fighting,3,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,2,2,0.25,1,1,1,0.5,0.5,1
+Mega Blaziken,257Blaziken-Mega.png,80,160,80,130,80,100,1.9,52,45,284,87.5,70,Fire,Fighting,3,1,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,2,2,0.25,1,1,1,0.5,0.5,1
+Mudkip,258Mudkip.png,50,70,50,50,50,40,0.4,7.6,45,62,87.5,70,Water,,3,2,Medium Slow,Monster,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Marshtomp,259Marshtomp.png,70,85,70,60,70,50,0.7,28,45,142,87.5,70,Water,Ground,3,2,Medium Slow,Monster,Water 1,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Swampert,260Swampert.png,100,110,90,85,90,60,1.5,81.9,45,241,87.5,70,Water,Ground,3,2,Medium Slow,Monster,Water 1,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Mega Swampert,260Swampert-Mega.png,100,150,110,95,110,70,1.9,102,45,286,87.5,70,Water,Ground,3,1,Medium Slow,Monster,Water 1,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Poochyena,261Poochyena.png,35,55,35,30,30,35,0.5,13.6,255,56,50,70,Dark,,3,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Mightyena,262Mightyena.png,70,90,70,60,60,70,1,37,127,147,50,70,Dark,,3,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Zigzagoon,263Zigzagoon.png,38,30,41,30,41,60,0.4,17.5,255,56,50,70,Normal,,3,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Galarian Zigzagoon,263Zigzagoon-Galar.png,38,30,41,30,41,60,0.4,17.5,,,,,Dark,Normal,3,3,Medium Fast,Field,,1,1,1,1,1,1,4,1,1,1,0,2,1,0,1,0.5,1,2
+Linoone,264Linoone.png,78,70,61,50,61,100,0.5,32.5,90,147,50,70,Normal,,3,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Galarian Linoone,264Linoone-Galar.png,78,70,61,50,61,100,0.5,32.5,,,,,Dark,Normal,3,3,Medium Fast,Field,,1,1,1,1,1,1,4,1,1,1,0,2,1,0,1,0.5,1,2
+Wurmple,265Wurmple.png,45,45,35,20,30,20,0.3,3.6,255,56,50,70,Bug,,3,2,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Silcoon,266Silcoon.png,50,35,55,25,25,15,0.6,10,120,72,50,70,Bug,,3,1,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Beautifly,267Beautifly.png,60,70,50,100,50,65,1,28.4,45,178,50,70,Bug,Flying,3,2,Medium Fast,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Cascoon,268Cascoon.png,50,35,55,25,25,15,0.7,11.5,120,72,50,70,Bug,,3,1,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Dustox,269Dustox.png,60,50,70,50,90,65,1.2,31.6,45,173,50,70,Bug,Poison,3,2,Medium Fast,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Lotad,270Lotad.png,40,30,30,40,50,30,0.5,2.6,255,44,50,70,Water,Grass,3,3,Medium Slow,Grass,Water 1,1,1,0.25,1,1,1,1,2,0.5,2,1,2,1,1,1,1,0.5,1
+Lombre,271Lombre.png,60,50,50,60,70,50,1.2,32.5,120,119,50,70,Water,Grass,3,3,Medium Slow,Grass,Water 1,1,1,0.25,1,1,1,1,2,0.5,2,1,2,1,1,1,1,0.5,1
+Ludicolo,272Ludicolo.png,80,70,70,90,100,70,1.5,55,45,216,50,70,Water,Grass,3,3,Medium Slow,Grass,Water 1,1,1,0.25,1,1,1,1,2,0.5,2,1,2,1,1,1,1,0.5,1
+Seedot,273Seedot.png,40,40,50,30,30,30,0.5,4,255,44,50,70,Grass,,3,3,Medium Slow,Field,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Nuzleaf,274Nuzleaf.png,70,70,40,60,40,60,1,28,120,119,50,70,Grass,Dark,3,3,Medium Slow,Field,Grass,1,2,0.5,0.5,0.5,2,2,2,0.5,2,0,4,1,0.5,1,0.5,1,2
+Shiftry,275Shiftry.png,90,100,60,90,60,80,1.3,59.6,45,216,50,70,Grass,Dark,3,3,Medium Slow,Field,Grass,1,2,0.5,0.5,0.5,2,2,2,0.5,2,0,4,1,0.5,1,0.5,1,2
+Taillow,276Taillow.png,40,55,30,30,30,85,0.3,2.3,200,54,50,70,Normal,Flying,3,2,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Swellow,277Swellow.png,60,85,60,75,50,125,0.7,19.8,45,159,50,70,Normal,Flying,3,2,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Wingull,278Wingull.png,40,30,30,55,30,85,0.6,9.5,190,54,50,70,Water,Flying,3,3,Medium Fast,Flying,Water 1,1,0.5,0.5,4,1,1,0.5,1,0,1,1,0.5,2,1,1,1,0.5,1
+Pelipper,279Pelipper.png,60,50,100,95,70,65,1.2,28,45,154,50,70,Water,Flying,3,3,Medium Fast,Flying,Water 1,1,0.5,0.5,4,1,1,0.5,1,0,1,1,0.5,2,1,1,1,0.5,1
+Ralts,280Ralts.png,28,25,25,45,35,40,0.4,6.6,235,40,50,35,Psychic,Fairy,3,3,Slow,Amorphous,Human-Like,1,1,1,1,1,1,0.25,2,1,1,0.5,1,1,2,0,1,2,1
+Kirlia,281Kirlia.png,38,35,35,65,55,50,0.8,20.2,120,97,50,35,Psychic,Fairy,3,3,Slow,Amorphous,Human-Like,1,1,1,1,1,1,0.25,2,1,1,0.5,1,1,2,0,1,2,1
+Gardevoir,282Gardevoir.png,68,65,65,125,115,80,1.6,48.4,45,233,50,35,Psychic,Fairy,3,3,Slow,Amorphous,Human-Like,1,1,1,1,1,1,0.25,2,1,1,0.5,1,1,2,0,1,2,1
+Mega Gardevoir,282Gardevoir-Mega.png,68,85,65,165,135,100,1.6,48.4,45,278,50,35,Psychic,Fairy,3,1,Slow,Amorphous,,1,1,1,1,1,1,0.25,2,1,1,0.5,1,1,2,0,1,2,1
+Surskit,283Surskit.png,40,30,32,50,52,65,0.5,1.7,200,54,50,70,Bug,Water,3,2,Medium Fast,Bug,Water 1,1,1,0.5,2,1,0.5,0.5,1,0.5,2,1,1,2,1,1,1,0.5,1
+Masquerain,284Masquerain.png,70,60,62,100,82,80,0.8,3.6,75,159,50,70,Bug,Flying,3,2,Medium Fast,Bug,Water 1,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Shroomish,285Shroomish.png,60,40,60,40,60,35,0.4,4.5,255,59,50,70,Grass,,3,3,Fluctuating,Fairy,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Breloom,286Breloom.png,60,130,80,60,60,70,1.2,39.2,90,161,50,70,Grass,Fighting,3,3,Fluctuating,Fairy,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,4,2,1,0.5,1,1,0.5,1,2
+Slakoth,287Slakoth.png,60,60,60,35,35,30,0.8,24,255,56,50,70,Normal,,3,1,Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Vigoroth,288Vigoroth.png,80,80,80,55,55,90,1.4,46.5,120,154,50,70,Normal,,3,1,Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Slaking,289Slaking.png,150,160,100,95,65,100,2,130.5,45,252,50,70,Normal,,3,1,Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Nincada,290Nincada.png,31,45,90,30,30,40,0.5,5.5,255,53,50,70,Bug,Ground,3,2,Erratic,Bug,,1,2,2,0,1,2,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1
+Ninjask,291Ninjask.png,61,90,45,50,50,160,0.8,12,120,160,50,70,Bug,Flying,3,2,Erratic,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Shedinja,292Shedinja.png,1,90,45,30,30,40,0.8,1.2,45,83,,70,Bug,Ghost,3,1,Erratic,Mineral,,0,2,0,0,0,0,0,0,0,2,0,0,2,2,0,2,0,0
+Whismur,293Whismur.png,64,51,23,51,23,28,0.6,16.3,190,48,50,70,Normal,,3,2,Medium Slow,Field,Monster,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Loudred,294Loudred.png,84,71,43,71,43,48,1,40.5,120,126,50,70,Normal,,3,2,Medium Slow,Field,Monster,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Exploud,295Exploud.png,104,91,63,91,73,68,1.5,84,45,221,50,70,Normal,,3,2,Medium Slow,Field,Monster,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Makuhita,296Makuhita.png,72,60,30,20,30,25,1,86.4,180,47,75,70,Fighting,,3,3,Fluctuating,Human-Like,,1,0.5,1,1,1,0.5,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Hariyama,297Hariyama.png,144,120,60,40,60,50,2.3,253.8,200,166,75,70,Fighting,,3,3,Fluctuating,Human-Like,,1,0.5,1,1,1,0.5,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Azurill,298Azurill.png,50,20,40,20,40,20,0.2,2,150,38,25,70,Normal,Fairy,3,3,Fast,Undiscovered,,1,0.5,1,1,1,0.5,1,2,1,1,1,0.5,1,0,0,0.5,2,1
+Nosepass,299Nosepass.png,30,45,135,45,90,30,1,97,255,75,50,70,Rock,,3,3,Medium Fast,Mineral,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Skitty,300Skitty.png,50,45,45,35,35,50,0.6,11,255,52,25,70,Normal,,3,3,Fast,Fairy,Field,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Delcatty,301Delcatty.png,70,65,65,55,55,90,1.1,32.6,60,140,25,70,Normal,,3,3,Fast,Fairy,Field,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Sableye,302Sableye.png,50,75,75,65,65,50,0.5,11,45,133,50,35,Dark,Ghost,3,3,Medium Slow,Human-Like,,0,1,1,1,1,1,0,0.5,1,1,0,1,1,1,1,1,1,2
+Mega Sableye,302Sableye-Mega.png,50,85,125,85,115,20,0.5,161,45,168,50,35,Dark,Ghost,3,1,Medium Slow,Human-Like,,0,1,1,1,1,1,0,0.5,1,1,0,1,1,1,1,1,1,2
+Mawile,303Mawile.png,50,85,85,55,55,50,0.6,11.5,45,133,50,70,Steel,Fairy,3,3,Fast,Fairy,Field,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.5,0.25,0.5,1,0,0.5,1,0.5
+Mega Mawile,303Mawile-Mega.png,50,105,125,55,95,50,1,23.5,45,168,50,70,Steel,Fairy,3,1,Fast,Fairy,Field,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.5,0.25,0.5,1,0,0.5,1,0.5
+Aron,304Aron.png,50,70,100,40,40,30,0.4,60,180,66,50,35,Steel,Rock,3,3,Slow,Monster,,0.25,1,2,1,1,0.5,4,0,4,0.25,0.5,0.5,0.5,1,0.5,1,1,0.5
+Lairon,305Lairon.png,60,90,140,50,50,40,0.9,120,90,151,50,35,Steel,Rock,3,3,Slow,Monster,,0.25,1,2,1,1,0.5,4,0,4,0.25,0.5,0.5,0.5,1,0.5,1,1,0.5
+Aggron,306Aggron.png,70,110,180,60,60,50,2.1,360,45,239,50,35,Steel,Rock,3,3,Slow,Monster,,0.25,1,2,1,1,0.5,4,0,4,0.25,0.5,0.5,0.5,1,0.5,1,1,0.5
+Mega Aggron,306Aggron-Mega.png,70,140,230,60,80,50,2.2,395,45,284,50,35,Steel,,3,1,Slow,Monster,,0.5,1.5,1,1,0.5,0.5,1.5,0,1.5,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Meditite,307Meditite.png,30,40,55,40,55,60,0.6,11.2,180,56,50,70,Fighting,Psychic,3,2,Medium Fast,Human-Like,,1,1,1,1,1,1,0.5,1,1,2,1,1,0.5,2,1,1,1,2
+Medicham,308Medicham.png,60,60,75,60,75,80,1.3,31.5,90,144,50,70,Fighting,Psychic,3,2,Medium Fast,Human-Like,,1,1,1,1,1,1,0.5,1,1,2,1,1,0.5,2,1,1,1,2
+Mega Medicham,308Medicham-Mega.png,60,100,85,80,85,100,1.3,31.5,90,179,50,70,Fighting,Psychic,3,1,Medium Fast,Human-Like,,1,1,1,1,1,1,0.5,1,1,2,1,1,0.5,2,1,1,1,2
+Electrike,309Electrike.png,40,45,40,65,40,65,0.6,15.2,120,59,50,70,Electric,,3,3,Slow,Field,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Manectric,310Manectric.png,70,75,60,105,60,105,1.5,40.2,45,166,50,70,Electric,,3,3,Slow,Field,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Mega Manectric,310Manectric-Mega.png,70,75,80,135,80,135,1.8,44,45,201,50,70,Electric,,3,1,Slow,Field,,1,1,1,0,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Plusle,311Plusle.png,60,50,40,85,75,95,0.4,4.2,200,142,50,70,Electric,,3,2,Medium Fast,Fairy,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Minun,312Minun.png,60,40,50,75,85,95,0.4,4.2,200,142,50,70,Electric,,3,2,Medium Fast,Fairy,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Volbeat,313Volbeat.png,65,73,75,47,85,85,0.7,17.7,150,151,100,70,Bug,,3,3,Erratic,Bug,Human-Like,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Illumise,314Illumise.png,65,47,75,73,85,85,0.6,17.7,150,151,0,70,Bug,,3,3,Fluctuating,Bug,Human-Like,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Roselia,315Roselia.png,50,60,45,100,80,65,0.3,2,150,140,50,70,Grass,Poison,3,3,Medium Slow,Fairy,Grass,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Gulpin,316Gulpin.png,70,43,53,43,53,40,0.4,10.3,225,60,50,70,Poison,,3,3,Fluctuating,Amorphous,,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Swalot,317Swalot.png,100,73,83,73,83,55,1.7,80,75,163,50,70,Poison,,3,3,Fluctuating,Amorphous,,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Carvanha,318Carvanha.png,45,90,20,65,20,65,0.8,20.8,225,61,50,35,Water,Dark,3,2,Slow,Water 2,,1,0.5,0.5,2,2,0.5,2,1,1,1,0,2,1,0.5,1,0.5,0.5,2
+Sharpedo,319Sharpedo.png,70,120,40,95,40,95,1.8,88.8,60,161,50,35,Water,Dark,3,2,Slow,Water 2,,1,0.5,0.5,2,2,0.5,2,1,1,1,0,2,1,0.5,1,0.5,0.5,2
+Mega Sharpedo,319Sharpedo-Mega.png,70,140,70,110,65,105,2.5,130.3,60,196,50,35,Water,Dark,3,1,Slow,Water 2,,1,0.5,0.5,2,2,0.5,2,1,1,1,0,2,1,0.5,1,0.5,0.5,2
+Wailmer,320Wailmer.png,130,70,35,70,35,60,2,130,125,80,50,70,Water,,3,3,Fluctuating,Field,Water 2,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Wailord,321Wailord.png,170,90,45,90,45,60,14.5,398,60,175,50,70,Water,,3,3,Fluctuating,Field,Water 2,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Numel,322Numel.png,60,60,40,65,45,35,0.7,24,255,61,50,70,Fire,Ground,3,3,Medium Fast,Field,,1,0.5,4,0,1,1,1,0.5,2,1,1,0.5,1,1,1,1,0.5,0.5
+Camerupt,323Camerupt.png,70,100,70,105,75,40,1.9,220,150,161,50,70,Fire,Ground,3,3,Medium Fast,Field,,1,0.5,4,0,1,1,1,0.5,2,1,1,0.5,1,1,1,1,0.5,0.5
+Mega Camerupt,323Camerupt-Mega.png,70,120,100,145,105,20,2.5,320.5,150,196,50,70,Fire,Ground,3,1,Medium Fast,Field,,1,0.5,3,0,1,1,1,0.5,1.5,1,1,0.5,1,1,1,1,0.5,0.5
+Torkoal,324Torkoal.png,70,85,140,85,70,20,0.5,80.4,90,165,50,70,Fire,,3,3,Medium Fast,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Spoink,325Spoink.png,60,25,35,70,80,60,0.7,30.6,255,66,50,70,Psychic,,3,3,Fast,Field,,1,0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Grumpig,326Grumpig.png,80,45,65,90,110,80,0.9,71.5,60,165,50,70,Psychic,,3,3,Fast,Field,,1,0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Spinda,327Spinda.png,60,60,60,60,60,60,1.1,5,255,126,50,70,Normal,,3,3,Fast,Field,Human-Like,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Trapinch,328Trapinch.png,45,100,45,45,45,10,0.7,15,255,58,50,70,Ground,,3,3,Medium Slow,Bug,Dragon,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Vibrava,329Vibrava.png,50,70,50,50,50,70,1.1,15.3,120,119,50,70,Ground,Dragon,3,1,Medium Slow,Bug,Dragon,1,0.5,1,0,1,4,1,0.5,0,1,1,1,0.5,1,2,1,1,2
+Flygon,330Flygon.png,80,100,80,80,80,100,2,82,45,234,50,70,Ground,Dragon,3,1,Medium Slow,Bug,Dragon,1,0.5,1,0,1,4,1,0.5,0,1,1,1,0.5,1,2,1,1,2
+Cacnea,331Cacnea.png,50,85,40,85,40,35,0.4,51.3,190,67,50,35,Grass,,3,2,Medium Slow,Grass,Human-Like,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Cacturne,332Cacturne.png,70,115,60,115,60,55,1.3,77.4,60,166,50,35,Grass,Dark,3,2,Medium Slow,Grass,Human-Like,1,2,0.5,0.5,0.5,2,2,2,0.5,2,0,4,1,0.5,1,0.5,1,2
+Swablu,333Swablu.png,45,40,60,40,75,50,0.4,1.2,255,62,50,70,Normal,Flying,3,2,Erratic,Dragon,Flying,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Altaria,334Altaria.png,75,70,90,70,105,80,1.1,20.6,45,172,50,70,Dragon,Flying,3,2,Erratic,Dragon,Flying,1,0.5,0.5,1,0.25,4,0.5,1,0,1,1,0.5,2,1,2,1,1,2
+Mega Altaria,334Altaria-Mega.png,75,110,110,110,105,80,1.5,20.6,45,207,50,70,Dragon,Fairy,3,1,Erratic,Dragon,Flying,1,0.5,0.5,0.5,0.5,2,0.5,2,1,1,1,0.5,1,1,0,0.5,2,2
+Zangoose,335Zangoose.png,73,115,60,60,60,90,1.3,40.3,90,160,50,70,Normal,,3,2,Erratic,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Seviper,336Seviper.png,73,100,60,100,60,65,2.7,52.5,90,160,50,70,Poison,,3,2,Fluctuating,Dragon,Field,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Lunatone,337Lunatone.png,90,55,65,95,85,70,1,168,45,161,,70,Rock,Psychic,3,1,Fast,Mineral,,0.5,0.5,2,1,2,1,1,0.5,0,0.5,0.5,2,1,2,1,2,2,1
+Solrock,338Solrock.png,90,95,85,55,65,70,1.2,154,45,161,,70,Rock,Psychic,3,1,Fast,Mineral,,0.5,0.5,2,1,2,1,1,0.5,0,0.5,0.5,2,1,2,1,2,2,1
+Barboach,339Barboach.png,50,48,43,46,41,60,0.4,1.9,190,58,50,70,Water,Ground,3,3,Medium Fast,Water 2,,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Whiscash,340Whiscash.png,110,78,73,76,71,60,0.9,23.6,75,164,50,70,Water,Ground,3,3,Medium Fast,Water 2,,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Corphish,341Corphish.png,43,80,65,50,35,35,0.6,11.5,205,62,50,70,Water,,3,3,Fluctuating,Water 1,Water 3,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Crawdaunt,342Crawdaunt.png,63,120,85,90,55,55,1.1,32.8,155,164,50,70,Water,Dark,3,3,Fluctuating,Water 1,Water 3,1,0.5,0.5,2,2,0.5,2,1,1,1,0,2,1,0.5,1,0.5,0.5,2
+Baltoy,343Baltoy.png,40,40,55,40,70,55,0.5,21.5,255,60,,70,Ground,Psychic,3,1,Medium Fast,Mineral,,1,1,2,0,2,2,0.5,0.5,0,1,0.5,2,0.5,2,1,2,1,1
+Claydol,344Claydol.png,60,70,105,70,120,75,1.5,108,90,175,,70,Ground,Psychic,3,1,Medium Fast,Mineral,,1,1,2,0,2,2,0.5,0.5,0,1,0.5,2,0.5,2,1,2,1,1
+Lileep,345Lileep.png,66,41,77,61,87,23,1,23.8,45,71,87.5,70,Rock,Grass,3,2,Erratic,Water 3,,0.5,1,1,0.5,1,2,2,1,1,1,1,2,1,1,1,1,2,1
+Cradily,346Cradily.png,86,81,97,81,107,43,1.5,60.4,45,173,87.5,70,Rock,Grass,3,2,Erratic,Water 3,,0.5,1,1,0.5,1,2,2,1,1,1,1,2,1,1,1,1,2,1
+Anorith,347Anorith.png,45,95,50,40,50,75,0.7,12.5,45,71,87.5,70,Rock,Bug,3,2,Erratic,Water 3,,0.5,1,2,1,1,1,1,0.5,1,1,1,1,2,1,1,1,2,1
+Armaldo,348Armaldo.png,75,125,100,70,80,45,1.5,68.2,45,173,87.5,70,Rock,Bug,3,2,Erratic,Water 3,,0.5,1,2,1,1,1,1,0.5,1,1,1,1,2,1,1,1,2,1
+Feebas,349Feebas.png,20,15,20,10,55,80,0.6,7.4,255,40,50,70,Water,,3,3,Erratic,Dragon,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Milotic,350Milotic.png,95,60,79,100,125,81,6.2,162,60,189,50,70,Water,,3,3,Erratic,Dragon,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Castform,351Castform.png,70,70,70,70,70,70,0.3,0.8,45,147,50,70,Normal,,3,1,Medium Fast,Amorphous,Fairy,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Castform Sunny Form,351Castform-Sunny.png,70,70,70,70,70,70,0.3,0.8,45,147,50,70,Fire,,3,1,Medium Fast,Amorphous,Fairy,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Castform Rainy Form,351Castform-Rainy.png,70,70,70,70,70,70,0.3,0.8,45,147,50,70,Water,,3,1,Medium Fast,Amorphous,Fairy,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Castform Snowy Form,351Castform-Snowy.png,70,70,70,70,70,70,0.3,0.8,45,147,50,70,Ice,,3,1,Medium Fast,Amorphous,Fairy,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Kecleon,352Kecleon.png,60,90,70,60,120,40,1,22,200,154,50,70,Normal,,3,2,Medium Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Shuppet,353Shuppet.png,44,75,35,63,33,45,0.6,2.3,225,59,50,35,Ghost,,3,3,Fast,Amorphous,,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Banette,354Banette.png,64,115,65,83,63,65,1.1,12.5,45,159,50,35,Ghost,,3,3,Fast,Amorphous,,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Mega Banette,354Banette-Mega.png,64,165,75,93,83,75,1.2,13,45,194,50,35,Ghost,,3,1,Fast,Amorphous,,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Duskull,355Duskull.png,20,40,90,30,90,25,0.8,15,190,59,50,35,Ghost,,3,2,Fast,Amorphous,,0,1,1,1,1,1,0,0.5,0,1,1,0.5,1,2,1,2,1,1
+Dusclops,356Dusclops.png,40,70,130,60,130,25,1.6,30.6,90,159,50,35,Ghost,,3,2,Fast,Amorphous,,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Tropius,357Tropius.png,99,68,83,72,87,51,2,100,200,161,50,70,Grass,Flying,3,3,Slow,Grass,Monster,1,2,0.5,1,0.25,4,0.5,2,0,2,1,1,2,1,1,1,1,1
+Chimecho,358Chimecho.png,75,50,80,95,90,65,0.6,1,45,159,50,70,Psychic,,3,1,Fast,Amorphous,,1,1,1,1,1,1,0.5,1,0,1,0.5,2,1,2,1,2,1,1
+Absol,359Absol.png,65,130,60,75,60,75,1.2,47,30,163,50,35,Dark,,3,3,Medium Slow,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Mega Absol,359Absol-Mega.png,65,150,60,115,60,115,1.2,49,30,198,50,35,Dark,,3,1,Medium Slow,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Wynaut,360Wynaut.png,95,23,48,23,48,23,0.6,14,125,52,50,70,Psychic,,3,2,Medium Fast,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Snorunt,361Snorunt.png,50,50,50,50,50,50,0.7,16.8,190,60,50,70,Ice,,3,3,Medium Fast,Fairy,Mineral,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Glalie,362Glalie.png,80,80,80,80,80,80,1.5,256.5,75,168,50,70,Ice,,3,3,Medium Fast,Fairy,Mineral,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Mega Glalie,362Glalie-Mega.png,80,120,80,120,80,100,2.1,350.2,75,203,50,70,Ice,,3,1,Medium Fast,Fairy,Mineral,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Spheal,363Spheal.png,70,40,50,55,50,25,0.8,39.5,255,58,50,70,Ice,Water,3,3,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.125,2,1,1,1,1,1,2,1,1,1,1,1
+Sealeo,364Sealeo.png,90,60,70,75,70,45,1.1,87.6,120,144,50,70,Ice,Water,3,3,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.125,2,1,1,1,1,1,2,1,1,1,1,1
+Walrein,365Walrein.png,110,80,90,95,90,65,1.4,150.6,45,239,50,70,Ice,Water,3,3,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.125,2,1,1,1,1,1,2,1,1,1,1,1
+Clamperl,366Clamperl.png,35,64,85,74,55,32,0.4,52.5,255,69,50,70,Water,,3,2,Erratic,Water 1,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Huntail,367Huntail.png,55,104,105,94,75,52,1.7,27,60,170,50,70,Water,,3,2,Erratic,Water 1,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Gorebyss,368Gorebyss.png,55,84,105,114,75,52,1.8,22.6,60,170,50,70,Water,,3,2,Erratic,Water 1,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Relicanth,369Relicanth.png,100,90,130,45,65,55,1,23.4,25,170,87.5,70,Water,Rock,3,3,Slow,Water 1,Water 2,0.5,0.25,1,2,4,0.5,2,0.5,2,0.5,1,1,1,1,1,1,1,1
+Luvdisc,370Luvdisc.png,43,30,55,40,65,97,0.6,8.7,225,116,25,70,Water,,3,2,Fast,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Bagon,371Bagon.png,45,75,60,40,30,50,0.6,42.1,45,60,50,35,Dragon,,3,2,Slow,Dragon,,1,0.5,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1,2,1,1,2
+Shelgon,372Shelgon.png,65,95,100,60,50,50,1.1,110.5,45,147,50,35,Dragon,,3,2,Slow,Dragon,,1,0.5,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1,2,1,1,2
+Salamence,373Salamence.png,95,135,80,110,80,100,1.5,102.6,45,270,50,35,Dragon,Flying,3,2,Slow,Dragon,,1,0.5,0.5,1,0.25,4,0.5,1,0,1,1,0.5,2,1,2,1,1,2
+Mega Salamence,373Salamence-Mega.png,95,145,130,120,90,120,1.8,112.6,45,315,50,35,Dragon,Flying,3,1,Slow,Dragon,,1,0.5,0.5,1,0.25,4,0.5,1,0,1,1,0.5,2,1,2,1,1,2
+Beldum,374Beldum.png,40,55,80,35,60,30,0.6,95.2,3,60,,35,Steel,Psychic,3,2,Slow,Mineral,,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.25,1,0.5,2,0.5,2,0.5,0.5
+Metang,375Metang.png,60,75,100,55,80,50,1.2,202.5,3,147,,35,Steel,Psychic,3,2,Slow,Mineral,,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.25,1,0.5,2,0.5,2,0.5,0.5
+Metagross,376Metagross.png,80,135,130,95,90,70,1.6,550,3,270,,35,Steel,Psychic,3,2,Slow,Mineral,,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.25,1,0.5,2,0.5,2,0.5,0.5
+Mega Metagross,376Metagross-Mega.png,80,145,150,105,110,110,2.5,942.9,3,315,,35,Steel,Psychic,3,1,Slow,Mineral,,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.25,1,0.5,2,0.5,2,0.5,0.5
+Regirock,377Regirock.png,80,100,200,50,100,50,1.7,230,3,261,,35,Rock,,3,2,Slow,Undiscovered,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Regice,378Regice.png,80,50,100,100,200,50,1.8,175,3,261,,35,Ice,,3,2,Slow,Undiscovered,,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Registeel,379Registeel.png,80,75,150,75,150,50,1.9,205,3,261,,35,Steel,,3,2,Slow,Undiscovered,,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Latias,380Latias.png,80,80,90,110,130,110,1.4,40,3,270,0,90,Dragon,Psychic,3,1,Slow,Undiscovered,,1,0.5,0.5,0.5,0.5,2,0.5,1,0,1,0.5,2,1,2,2,2,1,2
+Mega Latias,380Latias-Mega.png,80,100,120,140,150,110,1.8,52,3,315,0,90,Dragon,Psychic,3,1,Slow,Undiscovered,,1,0.5,0.5,0.5,0.5,2,0.5,1,0,1,0.5,2,1,2,2,2,1,2
+Latios,381Latios.png,80,90,80,130,110,110,2,60,3,270,100,90,Dragon,Psychic,3,1,Slow,Undiscovered,,1,0.5,0.5,0.5,0.5,2,0.5,1,0,1,0.5,2,1,2,2,2,1,2
+Mega Latios,381Latios-Mega.png,80,130,100,160,120,110,2.3,70,3,315,100,90,Dragon,Psychic,3,1,Slow,Undiscovered,,1,0.5,0.5,0.5,0.5,2,0.5,1,0,1,0.5,2,1,2,2,2,1,2
+Kyogre,382Kyogre.png,100,100,90,150,140,90,4.5,352,3,302,,0,Water,,3,1,Slow,Undiscovered,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Primal Kyogre,382Kyogre-Primal.png,100,150,90,180,160,90,9.8,430,5,347,,0,Water,,3,1,Slow,Undiscovered,,1,0,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Groudon,383Groudon.png,100,150,140,100,90,90,3.5,950,3,302,,0,Ground,,3,1,Slow,Undiscovered,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Primal Groudon,383Groudon-Primal.png,100,180,160,150,90,90,5,999.7,5,347,,0,Ground,Fire,3,1,Slow,Undiscovered,,1,0.5,0,0,1,1,1,0.5,2,1,1,0.5,1,1,1,1,0.5,0.5
+Rayquaza,384Rayquaza.png,105,150,90,150,90,95,7,206.5,45,306,,0,Dragon,Flying,3,1,Slow,Undiscovered,,1,0.5,0.5,1,0.25,4,0.5,1,0,1,1,0.5,2,1,2,1,1,2
+Mega Rayquaza,384Rayquaza-Mega.png,105,180,100,180,100,115,10.8,392,3,351,,0,Dragon,Flying,3,1,Slow,Undiscovered,,1,0.5,0.5,0.5,0.25,2,0.5,1,0,1,1,0.5,1,1,2,1,1,2
+Jirachi,385Jirachi.png,100,100,100,100,100,100,0.3,1.1,3,270,,100,Steel,Psychic,3,1,Slow,Undiscovered,,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.25,1,0.5,2,0.5,2,0.5,0.5
+Deoxys Normal Forme,386Deoxys.png,50,150,50,150,50,150,1.7,60.8,3,270,,0,Psychic,,3,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Deoxys Attack Forme,386Deoxys-Attack.png,50,180,20,180,20,150,1.7,60.8,3,270,,0,Psychic,,3,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Deoxys Defense Forme,386Deoxys-Defense.png,50,70,160,70,160,90,1.7,60.8,3,270,,0,Psychic,,3,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Deoxys Speed Forme,386Deoxys-Speed.png,50,95,90,95,90,180,1.7,60.8,3,270,,0,Psychic,,3,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Turtwig,387Turtwig.png,55,68,64,45,55,31,0.4,10.2,45,64,87.5,70,Grass,,4,2,Medium Slow,Grass,Monster,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Grotle,388Grotle.png,75,89,85,55,65,36,1.1,97,45,142,87.5,70,Grass,,4,2,Medium Slow,Grass,Monster,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Torterra,389Torterra.png,95,109,105,75,85,56,2.2,310,45,236,87.5,70,Grass,Ground,4,2,Medium Slow,Grass,Monster,1,2,1,0,1,4,1,1,0.5,2,1,2,0.5,1,1,1,1,1
+Chimchar,390Chimchar.png,44,58,44,58,44,61,0.5,6.2,45,62,87.5,70,Fire,,4,2,Medium Slow,Field,Human-Like,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Monferno,391Monferno.png,64,78,52,78,52,81,0.9,22,45,142,87.5,70,Fire,Fighting,4,2,Medium Slow,Field,Human-Like,1,0.5,2,1,0.5,0.5,1,1,2,2,2,0.25,1,1,1,0.5,0.5,1
+Infernape,392Infernape.png,76,104,71,104,71,108,1.2,55,45,240,87.5,70,Fire,Fighting,4,2,Medium Slow,Field,Human-Like,1,0.5,2,1,0.5,0.5,1,1,2,2,2,0.25,1,1,1,0.5,0.5,1
+Piplup,393Piplup.png,53,51,53,61,56,40,0.4,5.2,45,63,87.5,70,Water,,4,2,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Prinplup,394Prinplup.png,64,66,68,81,76,50,0.8,23,45,142,87.5,70,Water,,4,2,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Empoleon,395Empoleon.png,84,86,88,111,101,60,1.7,84.5,45,239,87.5,70,Water,Steel,4,2,Medium Slow,Field,Water 1,0.5,1,0.5,2,1,0.25,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.25,0.5
+Starly,396Starly.png,40,55,30,30,30,60,0.3,2,255,49,50,70,Normal,Flying,4,2,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Staravia,397Staravia.png,55,75,50,40,40,80,0.6,15.5,120,119,50,70,Normal,Flying,4,2,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Staraptor,398Staraptor.png,85,120,70,50,60,100,1.2,24.9,45,218,50,70,Normal,Flying,4,2,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Bidoof,399Bidoof.png,59,45,40,35,40,31,0.5,20,255,50,50,70,Normal,,4,3,Medium Fast,Field,Water 1,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Bibarel,400Bibarel.png,79,85,60,55,60,71,1,31.5,127,144,50,70,Normal,Water,4,3,Medium Fast,Field,Water 1,1,0.5,0.5,2,2,0.5,2,1,1,1,1,1,1,0,1,1,0.5,1
+Kricketot,401Kricketot.png,37,25,41,25,41,25,0.3,2.2,255,39,50,70,Bug,,4,2,Medium Slow,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Kricketune,402Kricketune.png,77,85,51,55,51,65,1,25.5,45,134,50,70,Bug,,4,2,Medium Slow,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Shinx,403Shinx.png,45,65,34,40,34,45,0.5,9.5,235,53,50,70,Electric,,4,3,Medium Slow,Field,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Luxio,404Luxio.png,60,85,49,60,49,60,0.9,30.5,120,127,50,100,Electric,,4,3,Medium Slow,Field,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Luxray,405Luxray.png,80,120,79,95,79,70,1.4,42,45,235,50,70,Electric,,4,3,Medium Slow,Field,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Budew,406Budew.png,40,30,35,50,70,55,0.2,1.2,255,56,50,70,Grass,Poison,4,3,Medium Slow,Undiscovered,,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Roserade,407Roserade.png,60,70,65,125,105,90,0.9,14.5,75,232,50,70,Grass,Poison,4,3,Medium Slow,Fairy,Grass,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Cranidos,408Cranidos.png,67,125,40,30,30,58,0.9,31.5,45,70,87.5,70,Rock,,4,2,Erratic,Monster,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Rampardos,409Rampardos.png,97,165,60,65,50,58,1.6,102.5,45,173,87.5,70,Rock,,4,2,Erratic,Monster,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Shieldon,410Shieldon.png,30,42,118,42,88,30,0.5,57,45,70,87.5,70,Rock,Steel,4,2,Erratic,Monster,,0.25,1,2,1,1,0.5,4,0,4,0.25,0.5,0.5,0.5,1,0.5,1,1,0.5
+Bastiodon,411Bastiodon.png,60,52,168,47,138,30,1.3,149.5,45,173,87.5,70,Rock,Steel,4,2,Erratic,Monster,,0.25,1,2,1,1,0.5,4,0,4,0.25,0.5,0.5,0.5,1,0.5,1,1,0.5
+Burmy,412Burmy-Plant.png,40,29,45,29,45,36,0.2,3.4,120,45,50,70,Bug,,4,2,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Wormadam Plant Cloak,413Wormadam-Plant.png,60,59,85,79,105,36,0.5,6.5,45,148,0,70,Bug,Grass,4,2,Medium Fast,Bug,,1,4,0.5,0.5,0.25,2,0.5,2,0.25,4,1,2,2,1,1,1,1,1
+Wormadam Sandy Cloak,413Wormadam-Sandy.png,60,79,105,59,85,36,0.5,6.5,45,148,0,70,Bug,Ground,4,2,Medium Fast,Bug,,1,2,2,0,1,2,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1
+Wormadam Trash Cloak,413Wormadam-Trash.png,60,69,95,69,95,36,0.5,6.5,45,148,0,70,Bug,Steel,4,2,Medium Fast,Bug,,0.5,4,1,1,0.25,0.5,1,0,1,1,0.5,0.5,1,1,0.5,1,0.5,0.5
+Mothim,414Mothim.png,70,94,50,94,50,66,0.9,23.3,45,148,100,70,Bug,Flying,4,2,Medium Fast,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Combee,415Combee.png,30,30,42,30,42,70,0.3,5.5,120,49,87.5,70,Bug,Flying,4,2,Medium Slow,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Vespiquen,416Vespiquen.png,70,80,102,80,102,40,1.2,38.5,45,166,0,70,Bug,Flying,4,2,Medium Slow,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Pachirisu,417Pachirisu.png,60,45,70,45,90,95,0.4,3.9,200,142,50,100,Electric,,4,3,Medium Fast,Fairy,Field,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Buizel,418Buizel.png,55,65,35,60,30,85,0.7,29.5,190,66,50,70,Water,,4,2,Medium Fast,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Floatzel,419Floatzel.png,85,105,55,85,50,115,1.1,33.5,75,173,50,70,Water,,4,2,Medium Fast,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Cherubi,420Cherubi.png,45,35,45,62,53,35,0.4,3.3,190,55,50,70,Grass,,4,1,Medium Fast,Fairy,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Cherrim,421Cherrim-Overcast.png,70,60,70,87,78,85,0.5,9.3,75,158,50,70,Grass,,4,1,Medium Fast,Fairy,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Shellos,422Shellos.png,76,48,48,57,62,34,0.3,6.3,190,65,50,70,Water,,4,3,Medium Fast,Amorphous,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Gastrodon,423Gastrodon.png,111,83,68,92,82,39,0.9,29.9,75,166,50,70,Water,Ground,4,3,Medium Fast,Amorphous,Water 1,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Ambipom,424Ambipom.png,75,100,66,60,66,115,1.2,20.3,45,169,50,100,Normal,,4,3,Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Drifloon,425Drifloon.png,90,50,34,60,44,70,0.4,1.2,125,70,50,70,Ghost,Flying,4,3,Fluctuating,Amorphous,,0,1,1,2,0.5,2,0,0.5,0,1,1,0.25,2,2,1,2,1,1
+Drifblim,426Drifblim.png,150,80,44,90,54,80,1.2,15,60,174,50,70,Ghost,Flying,4,3,Fluctuating,Amorphous,,0,1,1,2,0.5,2,0,0.5,0,1,1,0.25,2,2,1,2,1,1
+Buneary,427Buneary.png,55,66,44,44,56,85,0.4,5.5,190,70,50,0,Normal,,4,3,Medium Fast,Field,Human-Like,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Lopunny,428Lopunny.png,65,76,84,54,96,105,1.2,33.3,60,168,50,140,Normal,,4,3,Medium Fast,Field,Human-Like,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Mega Lopunny,428Lopunny-Mega.png,65,136,94,54,96,135,1.3,28.3,60,203,50,140,Normal,Fighting,4,1,Medium Fast,Field,Human-Like,1,1,1,1,1,1,2,1,1,2,2,0.5,0.5,0,1,0.5,1,2
+Mismagius,429Mismagius.png,60,60,60,105,105,105,0.9,4.4,45,173,50,35,Ghost,,4,1,Fast,Amorphous,,0,1,1,1,1,1,0,0.5,0,1,1,0.5,1,2,1,2,1,1
+Honchkrow,430Honchkrow.png,100,125,52,105,52,71,0.9,27.3,30,177,50,35,Dark,Flying,4,3,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,0,1,2,0.5,1,0.5,1,2
+Glameow,431Glameow.png,49,55,42,42,37,85,0.5,3.9,190,62,25,70,Normal,,4,3,Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Purugly,432Purugly.png,71,82,64,64,59,112,1,43.8,75,158,25,70,Normal,,4,3,Fast,Field,,1,0.5,1,1,1,0.5,2,1,1,1,1,1,1,0,1,1,1,1
+Chingling,433Chingling.png,45,30,50,65,50,45,0.2,0.6,120,57,50,70,Psychic,,4,1,Fast,Undiscovered,,1,1,1,1,1,1,0.5,1,0,1,0.5,2,1,2,1,2,1,1
+Stunky,434Stunky.png,63,63,47,41,41,74,0.4,19.2,225,66,50,70,Poison,Dark,4,3,Medium Fast,Field,,1,1,1,1,0.5,1,1,0.5,2,1,0,1,1,0.5,1,0.5,1,1
+Skuntank,435Skuntank.png,103,93,67,71,61,84,1,38,60,168,50,70,Poison,Dark,4,3,Medium Fast,Field,,1,1,1,1,0.5,1,1,0.5,2,1,0,1,1,0.5,1,0.5,1,1
+Bronzor,436Bronzor.png,57,24,86,24,86,23,0.5,60.5,255,60,,70,Steel,Psychic,4,3,Medium Fast,Mineral,,0.5,2,1,1,0.5,0.5,1,0,0,0.5,0.25,1,0.5,2,0.5,2,0.5,0.5
+Bronzong,437Bronzong.png,67,89,116,79,116,33,1.3,187,90,175,,70,Steel,Psychic,4,3,Medium Fast,Mineral,,0.5,2,1,1,0.5,0.5,1,0,0,0.5,0.25,1,0.5,2,0.5,2,0.5,0.5
+Bonsly,438Bonsly.png,50,80,95,10,45,10,0.5,15,255,58,50,70,Rock,,4,3,Medium Fast,Undiscovered,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Mime Jr,439Mime_Jr.png,20,25,45,70,90,60,0.6,13,145,62,50,70,Psychic,Fairy,4,3,Medium Fast,Undiscovered,,1,1,1,1,1,1,0.25,2,1,1,0.5,1,1,2,0,1,2,1
+Happiny,440Happiny.png,100,5,5,15,65,30,0.6,24.4,130,110,0,140,Normal,,4,3,Fast,Undiscovered,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Chatot,441Chatot.png,76,65,45,92,42,91,0.5,1.9,30,144,50,35,Normal,Flying,4,3,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Spiritomb,442Spiritomb.png,50,92,108,92,108,35,1,108,100,170,50,70,Ghost,Dark,4,2,Medium Fast,Amorphous,,0,1,1,1,1,1,0,0.5,1,1,0,1,1,1,1,1,1,2
+Gible,443Gible.png,58,70,45,40,45,42,0.7,20.5,45,60,50,70,Dragon,Ground,4,2,Slow,Dragon,Monster,1,0.5,1,0,1,4,1,0.5,1,1,1,1,0.5,1,2,1,1,2
+Gabite,444Gabite.png,68,90,65,50,55,82,1.4,56,45,144,50,70,Dragon,Ground,4,2,Slow,Dragon,Monster,1,0.5,1,0,1,4,1,0.5,1,1,1,1,0.5,1,2,1,1,2
+Garchomp,445Garchomp.png,108,130,95,80,85,102,1.9,95,45,270,50,70,Dragon,Ground,4,2,Slow,Dragon,Monster,1,0.5,1,0,1,4,1,0.5,1,1,1,1,0.5,1,2,1,1,2
+Mega Garchomp,445Garchomp-Mega.png,108,170,115,120,95,92,1.9,95,45,315,50,70,Dragon,Ground,4,1,Slow,Dragon,Monster,1,0.5,1,0,1,4,1,0.5,1,1,1,1,0.5,1,2,1,1,2
+Munchlax,446Munchlax.png,135,85,40,40,85,5,0.6,105,50,78,87.5,70,Normal,,4,3,Slow,Undiscovered,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Riolu,447Riolu.png,40,70,40,35,40,60,0.7,20.2,75,57,87.5,70,Fighting,,4,3,Medium Slow,Undiscovered,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Lucario,448Lucario.png,70,110,70,115,70,90,1.2,54,45,184,87.5,70,Fighting,Steel,4,3,Medium Slow,Field,Human-Like,0.5,2,1,1,0.5,0.5,2,0,2,1,1,0.25,0.25,1,0.5,0.5,0.5,1
+Mega Lucario,448Lucario-Mega.png,70,145,88,140,70,112,1.3,57.5,45,219,87.5,70,Fighting,Steel,4,1,Medium Slow,Field,Human-Like,0.5,2,1,1,0.5,0.5,2,0,2,1,1,0.25,0.25,1,0.5,0.5,0.5,1
+Hippopotas,449Hippopotas.png,68,72,78,38,42,32,0.8,49.5,140,66,50,70,Ground,,4,2,Slow,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Hippowdon,450Hippowdon.png,108,112,118,68,72,47,2,300,60,184,50,70,Ground,,4,2,Slow,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Skorupi,451Skorupi.png,40,50,90,30,55,65,0.8,12,120,66,50,70,Poison,Bug,4,3,Slow,Bug,Water 3,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Drapion,452Drapion.png,70,90,110,60,75,95,1.3,61.5,45,175,50,70,Poison,Dark,4,3,Slow,Bug,Water 3,1,1,1,1,0.5,1,1,0.5,2,1,0,1,1,0.5,1,0.5,1,1
+Croagunk,453Croagunk.png,48,61,40,61,40,50,0.7,23,140,60,50,100,Poison,Fighting,4,3,Medium Fast,Human-Like,,1,1,1,1,0.5,1,0.5,0.5,2,2,4,0.25,0.5,1,1,0.5,1,1
+Toxicroak,454Toxicroak.png,83,106,65,86,65,85,1.3,44.4,75,172,50,70,Poison,Fighting,4,3,Medium Fast,Human-Like,,1,1,1,1,0.5,1,0.5,0.5,2,2,4,0.25,0.5,1,1,0.5,1,1
+Carnivine,455Carnivine.png,74,100,72,90,72,46,1.4,27,200,159,50,70,Grass,,4,1,Slow,Grass,,1,2,0.5,0.5,0.5,2,1,2,0,2,1,2,1,1,1,1,1,1
+Finneon,456Finneon.png,49,49,56,49,61,66,0.4,7,190,66,50,70,Water,,4,3,Erratic,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Lumineon,457Lumineon.png,69,69,76,69,86,91,1.2,24,75,161,50,70,Water,,4,3,Erratic,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Mantyke,458Mantyke.png,45,20,50,60,120,50,1,65,25,69,50,70,Water,Flying,4,3,Slow,Undiscovered,,1,0.5,0.5,4,1,1,0.5,1,0,1,1,0.5,2,1,1,1,0.5,1
+Snover,459Snover.png,60,62,50,62,60,40,1,50.5,120,67,50,70,Grass,Ice,4,2,Slow,Grass,Monster,1,4,0.5,0.5,0.5,1,2,2,0.5,2,1,2,2,1,1,1,2,1
+Abomasnow,460Abomasnow.png,90,92,75,92,85,60,2.2,135.5,60,173,50,70,Grass,Ice,4,2,Slow,Grass,Monster,1,4,0.5,0.5,0.5,1,2,2,0.5,2,1,2,2,1,1,1,2,1
+Mega Abomasnow,460Abomasnow-Mega.png,90,132,105,132,105,30,2.7,185,60,208,50,70,Grass,Ice,4,1,Slow,Grass,Monster,1,4,0.5,0.5,0.5,1,2,2,0.5,2,1,2,2,1,1,1,2,1
+Weavile,461Weavile.png,70,120,65,45,85,125,1.1,34,45,179,50,35,Dark,Ice,4,2,Medium Slow,Field,,1,2,1,1,1,0.5,4,1,1,1,0,2,2,0.5,1,0.5,2,2
+Magnezone,462Magnezone.png,70,70,115,130,90,60,1.2,180,30,241,,70,Electric,Steel,4,3,Medium Fast,Mineral,,0.5,2,1,0.5,0.5,0.5,2,0,4,0.25,0.5,0.5,0.5,1,0.5,1,0.25,0.5
+Lickilicky,463Lickilicky.png,110,85,95,80,95,50,1.7,140,30,180,50,70,Normal,,4,3,Medium Fast,Monster,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Rhyperior,464Rhyperior.png,115,140,130,55,55,40,2.4,282.8,30,241,50,70,Ground,Rock,4,3,Slow,Field,Monster,0.5,0.5,4,0,4,2,2,0.25,2,0.5,1,1,0.5,1,1,1,2,1
+Tangrowth,465Tangrowth.png,100,100,125,110,50,50,2,128.6,30,187,50,70,Grass,,4,3,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Electivire,466Electivire.png,75,123,67,95,85,95,1.8,138.6,30,243,75,70,Electric,,4,2,Medium Fast,Human-Like,,1,1,1,0,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Magmortar,467Magmortar.png,75,95,67,125,95,83,1.6,68,30,243,75,70,Fire,,4,2,Medium Fast,Human-Like,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Togekiss,468Togekiss.png,85,50,95,120,115,80,1.5,38,30,245,87.5,70,Fairy,Flying,4,3,Fast,Fairy,Flying,1,1,1,2,0.5,2,0.25,2,0,1,1,0.25,2,1,0,0.5,2,1
+Yanmega,469Yanmega.png,86,76,86,116,56,95,1.9,51.5,30,180,50,70,Bug,Flying,4,3,Medium Fast,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Leafeon,470Leafeon.png,65,110,130,60,65,95,1,25.5,45,184,87.5,35,Grass,,4,2,Medium Fast,Field,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Glaceon,471Glaceon.png,65,60,110,130,95,65,0.8,25.9,45,184,87.5,35,Ice,,4,2,Medium Fast,Field,,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Gliscor,472Gliscor.png,75,95,125,45,75,95,2,42.5,30,179,50,70,Ground,Flying,4,3,Medium Slow,Bug,,1,1,2,0,1,4,0.5,0.5,0,1,1,0.5,1,1,1,1,1,1
+Mamoswine,473Mamoswine.png,110,130,80,70,60,80,2.5,291,50,239,50,70,Ice,Ground,4,3,Slow,Field,,1,2,2,0,2,1,2,0.5,1,1,1,1,1,1,1,1,2,1
+Porygon-Z,474Porygon-Z.png,85,80,70,135,75,90,0.9,34,30,241,,70,Normal,,4,3,Medium Fast,Mineral,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Gallade,475Gallade.png,68,125,65,65,115,80,1.6,52,45,233,100,35,Psychic,Fighting,4,2,Slow,Amorphous,Human-Like,1,1,1,1,1,1,0.5,1,1,2,1,1,0.5,2,1,1,1,2
+Mega Gallade,475Gallade-Mega.png,68,165,95,65,115,110,1.6,56.4,45,278,100,35,Psychic,Fighting,4,1,Slow,Amorphous,,1,1,1,1,1,1,0.5,1,1,2,1,1,0.5,2,1,1,1,2
+Probopass,476Probopass.png,60,55,145,75,150,40,1.4,340,60,184,50,70,Rock,Steel,4,3,Medium Fast,Mineral,,0.25,1,2,1,1,0.5,4,0,4,0.25,0.5,0.5,0.5,1,0.5,1,1,0.5
+Dusknoir,477Dusknoir.png,45,100,135,65,135,45,2.2,106.6,45,236,50,35,Ghost,,4,2,Fast,Amorphous,,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Froslass,478Froslass.png,70,80,70,80,70,110,1.3,26.6,75,168,0,70,Ice,Ghost,4,2,Medium Fast,Fairy,Mineral,0,2,1,1,1,0.5,0,0.5,1,1,1,0.5,2,2,1,2,2,1
+Rotom,479Rotom.png,50,50,77,95,77,91,0.3,0.3,45,154,,70,Electric,Ghost,4,1,Medium Fast,Amorphous,,0,1,1,0.5,1,1,0,0.5,0,0.5,1,0.5,1,2,1,2,0.5,1
+Heat Rotom,479Rotom-Heat.png,50,65,107,105,107,86,0.3,0.3,45,182,,70,Electric,Fire,4,1,Medium Fast,Amorphous,,1,0.5,2,0.5,0.5,0.5,1,1,0,0.5,1,0.5,2,1,1,1,0.25,0.5
+Wash Rotom,479Rotom-Wash.png,50,65,107,105,107,86,0.3,0.3,45,182,,70,Electric,Water,4,1,Medium Fast,Amorphous,,1,0.5,0.5,1,2,0.5,1,1,0,0.5,1,1,1,1,1,1,0.25,1
+Frost Rotom,479Rotom-Frost.png,50,65,107,105,107,86,0.3,0.3,45,182,,70,Electric,Ice,4,1,Medium Fast,Amorphous,,1,2,1,0.5,1,0.5,2,1,0,0.5,1,1,2,1,1,1,1,1
+Fan Rotom,479Rotom-Fan.png,50,65,107,105,107,86,0.3,0.3,45,182,,70,Electric,Flying,4,1,Medium Fast,Amorphous,,1,1,1,1,0.5,2,0.5,1,0,0.5,1,0.5,2,1,1,1,0.5,1
+Mow Rotom,479Rotom-Mow.png,50,65,107,105,107,86,0.3,0.3,45,182,,70,Electric,Grass,4,1,Medium Fast,Amorphous,,1,2,0.5,0.25,0.5,2,1,2,0,1,1,2,1,1,1,1,0.5,1
+Uxie,480Uxie.png,75,75,130,75,130,95,0.3,0.3,3,261,,140,Psychic,,4,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,0,1,0.5,2,1,2,1,2,1,1
+Mesprit,481Mesprit.png,80,105,105,105,105,80,0.3,0.3,3,261,,140,Psychic,,4,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,0,1,0.5,2,1,2,1,2,1,1
+Azelf,482Azelf.png,75,125,70,125,70,115,0.3,0.3,3,261,,140,Psychic,,4,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,0,1,0.5,2,1,2,1,2,1,1
+Dialga,483Dialga.png,100,120,120,150,100,90,5.4,683,3,306,,0,Steel,Dragon,4,2,Slow,Undiscovered,,0.5,1,0.5,0.5,0.25,1,2,0,2,0.5,0.5,0.5,0.5,1,1,1,0.5,1
+Palkia,484Palkia.png,90,120,100,150,120,100,4.2,336,3,306,,0,Water,Dragon,4,2,Slow,Undiscovered,,1,0.25,0.25,1,1,1,1,1,1,1,1,1,1,1,2,1,0.5,2
+Heatran,485Heatran.png,91,90,106,130,106,77,1.7,430,3,270,50,100,Fire,Steel,4,2,Slow,Undiscovered,,0.5,0,2,1,0.25,0.25,2,0,4,0.5,0.5,0.25,1,1,0.5,1,0.25,0.25
+Regigigas,486Regigigas.png,110,160,110,80,110,100,3.7,420,3,302,,0,Normal,,4,1,Slow,Undiscovered,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Giratina Altered Forme,487Giratina-Altered.png,150,100,120,100,120,90,4.5,750,3,306,,0,Ghost,Dragon,4,2,Slow,Undiscovered,,0,0.5,0.5,0.5,0.5,2,0,0.5,1,1,1,0.5,1,2,2,2,1,2
+Giratina Origin Forme,487Giratina-Origin.png,150,120,100,120,100,90,6.9,650,3,306,,0,Ghost,Dragon,4,1,Slow,Undiscovered,,0,0.5,0.5,0.5,0.5,2,0,0.5,0,1,1,0.5,1,2,2,2,1,2
+Cresselia,488Cresselia.png,120,70,120,75,130,85,1.5,85.6,3,270,0,100,Psychic,,4,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,0,1,0.5,2,1,2,1,2,1,1
+Phione,489Phione.png,80,80,80,80,80,80,0.4,3.1,30,216,,70,Water,,4,1,Slow,Fairy,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Manaphy,490Manaphy.png,100,100,100,100,100,100,0.3,1.4,3,270,,70,Water,,4,1,Slow,Fairy,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Darkrai,491Darkrai.png,70,90,90,135,90,125,1.5,50.5,3,270,,0,Dark,,4,1,Slow,Undiscovered,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Shaymin Land Forme,492Shaymin-Land.png,100,100,100,100,100,100,0.2,2.1,45,270,,100,Grass,,4,1,Medium Slow,Undiscovered,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Shaymin Sky Forme,492Shaymin-Sky.png,100,103,75,120,75,127,0.4,5.2,45,270,,100,Grass,Flying,4,1,Medium Slow,Undiscovered,,1,2,0.5,1,0.25,4,0.5,2,0,2,1,1,2,1,1,1,1,1
+Arceus,493Arceus.png,120,120,120,120,120,120,3.2,320,3,324,,0,Normal,,4,1,Slow,Undiscovered,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Victini,494Victini.png,100,100,100,100,100,100,0.4,4,3,270,,100,Psychic,Fire,5,1,Slow,Undiscovered,,1,0.5,2,1,0.5,0.5,0.5,1,2,1,0.5,1,2,2,1,2,0.5,0.5
+Snivy,495Snivy.png,45,45,55,45,55,63,0.6,8.1,45,62,87.5,70,Grass,,5,2,Medium Slow,Field,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Servine,496Servine.png,60,60,75,60,75,83,0.8,16,45,145,87.5,70,Grass,,5,2,Medium Slow,Field,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Serperior,497Serperior.png,75,75,95,75,95,113,3.3,63,45,238,87.5,70,Grass,,5,2,Medium Slow,Field,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Tepig,498Tepig.png,65,63,45,45,45,45,0.5,9.9,45,62,87.5,70,Fire,,5,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Pignite,499Pignite.png,90,93,55,70,55,55,1,55.5,45,146,87.5,70,Fire,Fighting,5,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,2,2,0.25,1,1,1,0.5,0.5,1
+Emboar,500Emboar.png,110,123,65,100,65,65,1.6,150,45,238,87.5,70,Fire,Fighting,5,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,2,2,0.25,1,1,1,0.5,0.5,1
+Oshawott,501Oshawott.png,55,55,45,63,45,45,0.5,5.9,45,62,87.5,70,Water,,5,2,Medium Slow,Field,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Dewott,502Dewott.png,75,75,60,83,60,60,0.8,24.5,45,145,87.5,70,Water,,5,2,Medium Slow,Field,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Samurott,503Samurott.png,95,100,85,108,70,70,1.5,94.6,45,238,87.5,70,Water,,5,2,Medium Slow,Field,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Patrat,504Patrat.png,45,55,39,35,39,42,0.5,11.6,255,51,50,70,Normal,,5,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Watchog,505Watchog.png,60,85,69,60,69,77,1.1,27,255,147,50,70,Normal,,5,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Lillipup,506Lillipup.png,45,60,45,25,45,55,0.4,4.1,255,55,50,70,Normal,,5,3,Medium Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Herdier,507Herdier.png,65,80,65,35,65,60,0.9,14.7,120,130,50,70,Normal,,5,3,Medium Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Stoutland,508Stoutland.png,85,110,90,45,90,80,1.2,61,45,225,50,70,Normal,,5,3,Medium Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Purrloin,509Purrloin.png,41,50,37,50,37,66,0.4,10.1,255,56,50,70,Dark,,5,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Liepard,510Liepard.png,64,88,50,88,50,106,1.1,37.5,90,156,50,70,Dark,,5,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Pansage,511Pansage.png,50,53,48,53,48,64,0.6,10.5,190,63,87.5,70,Grass,,5,2,Medium Fast,Field,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Simisage,512Simisage.png,75,98,63,98,63,101,1.1,30.5,75,174,87.5,70,Grass,,5,2,Medium Fast,Field,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Pansear,513Pansear.png,50,53,48,53,48,64,0.6,11,190,63,87.5,70,Fire,,5,2,Medium Fast,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Simisear,514Simisear.png,75,98,63,98,63,101,1,28,75,174,87.5,70,Fire,,5,2,Medium Fast,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Panpour,515Panpour.png,50,53,48,53,48,64,0.6,13.5,190,63,87.5,70,Water,,5,2,Medium Fast,Field,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Simipour,516Simipour.png,75,98,63,98,63,101,1,29,75,174,87.5,70,Water,,5,2,Medium Fast,Field,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Munna,517Munna.png,76,25,45,67,55,24,0.6,23.3,190,58,50,70,Psychic,,5,3,Fast,Field,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Musharna,518Musharna.png,116,55,85,107,95,29,1.1,60.5,75,170,50,70,Psychic,,5,3,Fast,Field,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Pidove,519Pidove.png,50,55,50,36,30,43,0.3,2.1,255,53,50,70,Normal,Flying,5,3,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Tranquill,520Tranquill.png,62,77,62,50,42,65,0.6,15,120,125,50,70,Normal,Flying,5,3,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Unfezant,521Unfezant.png,80,115,80,65,55,93,1.2,29,45,220,50,70,Normal,Flying,5,3,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Blitzle,522Blitzle.png,45,60,32,50,32,76,0.8,29.8,190,59,50,70,Electric,,5,3,Medium Fast,Field,,1,1,1,0,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Zebstrika,523Zebstrika.png,75,100,63,80,63,116,1.6,79.5,75,174,50,70,Electric,,5,3,Medium Fast,Field,,1,1,1,0,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Roggenrola,524Roggenrola.png,55,75,85,25,25,15,0.4,18,255,56,50,70,Rock,,5,3,Medium Slow,Mineral,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Boldore,525Boldore.png,70,105,105,50,40,20,0.9,102,120,137,50,70,Rock,,5,3,Medium Slow,Mineral,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Gigalith,526Gigalith.png,85,135,130,60,80,25,1.7,260,45,232,50,70,Rock,,5,3,Medium Slow,Mineral,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Woobat,527Woobat.png,65,45,43,55,43,72,0.4,2.1,190,65,50,70,Psychic,Flying,5,3,Medium Fast,Field,Flying,1,1,1,2,0.5,2,0.25,1,0,1,0.5,1,2,2,1,2,1,1
+Swoobat,528Swoobat.png,67,57,55,77,55,114,0.9,10.5,45,149,50,70,Psychic,Flying,5,3,Medium Fast,Field,Flying,1,1,1,2,0.5,2,0.25,1,0,1,0.5,1,2,2,1,2,1,1
+Drilbur,529Drilbur.png,60,85,40,30,45,68,0.3,8.5,120,66,50,70,Ground,,5,3,Medium Fast,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Excadrill,530Excadrill.png,110,135,60,50,65,88,0.7,40.4,60,178,50,70,Ground,Steel,5,3,Medium Fast,Field,,0.5,2,2,0,1,1,2,0,2,0.5,0.5,0.5,0.25,1,0.5,1,0.5,0.5
+Audino,531Audino.png,103,60,86,60,86,50,1.1,31,255,390,50,70,Normal,,5,3,Fast,Fairy,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Mega Audino,531Audino-Mega.png,103,60,126,80,126,50,1.5,32,255,425,50,70,Normal,Fairy,5,1,Fast,Fairy,,1,1,1,1,1,1,1,2,1,1,1,0.5,1,0,0,0.5,2,1
+Timburr,532Timburr.png,75,80,55,25,35,35,0.6,12.5,180,61,75,70,Fighting,,5,3,Medium Slow,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Gurdurr,533Gurdurr.png,85,105,85,40,50,40,1.2,40,90,142,75,70,Fighting,,5,3,Medium Slow,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Conkeldurr,534Conkeldurr.png,105,140,95,55,65,45,1.4,87,45,227,75,70,Fighting,,5,3,Medium Slow,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Tympole,535Tympole.png,50,50,40,50,40,64,0.5,4.5,255,59,50,70,Water,,5,3,Medium Slow,Water 1,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Palpitoad,536Palpitoad.png,75,65,55,65,55,69,0.8,17,120,134,50,70,Water,Ground,5,3,Medium Slow,Water 1,,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Seismitoad,537Seismitoad.png,105,95,75,85,75,74,1.5,62,45,229,50,70,Water,Ground,5,3,Medium Slow,Water 1,,1,0.5,1,0,4,1,1,0.5,1,1,1,1,0.5,1,1,1,0.5,1
+Throh,538Throh.png,120,100,85,30,85,45,1.3,55.5,45,163,100,70,Fighting,,5,3,Medium Fast,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Sawk,539Sawk.png,75,125,75,30,75,85,1.4,51,45,163,100,70,Fighting,,5,3,Medium Fast,Human-Like,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Sewaddle,540Sewaddle.png,45,53,70,40,60,42,0.3,2.5,255,62,50,70,Bug,Grass,5,3,Medium Slow,Bug,,1,4,0.5,0.5,0.25,2,0.5,2,0.25,4,1,2,2,1,1,1,1,1
+Swadloon,541Swadloon.png,55,63,90,50,80,42,0.5,7.3,120,133,50,70,Bug,Grass,5,3,Medium Slow,Bug,,1,4,0.5,0.5,0.25,2,0.5,2,0.25,4,1,2,2,1,1,1,1,1
+Leavanny,542Leavanny.png,75,103,80,70,80,92,1.2,20.5,45,225,50,70,Bug,Grass,5,3,Medium Slow,Bug,,1,4,0.5,0.5,0.25,2,0.5,2,0.25,4,1,2,2,1,1,1,1,1
+Venipede,543Venipede.png,30,45,59,30,39,57,0.4,5.3,255,52,50,70,Bug,Poison,5,3,Medium Slow,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Whirlipede,544Whirlipede.png,40,55,99,40,79,47,1.2,58.5,120,126,50,70,Bug,Poison,5,3,Medium Slow,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Scolipede,545Scolipede.png,60,100,89,55,69,112,2.5,200.5,45,218,50,70,Bug,Poison,5,3,Medium Slow,Bug,,1,2,1,1,0.25,1,0.25,0.5,1,2,2,0.5,2,1,1,1,1,0.5
+Cottonee,546Cottonee.png,40,27,60,37,50,66,0.3,0.6,190,56,50,70,Grass,Fairy,5,3,Medium Fast,Fairy,Grass,1,2,0.5,0.5,0.5,2,0.5,4,0.5,2,1,1,1,1,0,0.5,2,1
+Whimsicott,547Whimsicott.png,60,67,85,77,75,116,0.7,6.6,75,168,50,70,Grass,Fairy,5,3,Medium Fast,Fairy,Grass,1,2,0.5,0.5,0.5,2,0.5,4,0.5,2,1,1,1,1,0,0.5,2,1
+Petilil,548Petilil.png,45,35,50,70,50,30,0.5,6.6,190,56,0,70,Grass,,5,3,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Lilligant,549Lilligant.png,70,60,75,110,75,90,1.1,16.3,75,168,0,70,Grass,,5,3,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Basculin Red-Striped Form,550Basculin-Red.png,70,92,65,80,55,98,1,18,25,161,50,70,Water,,5,3,Medium Fast,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Basculin Blue-Striped Form,550Basculin-Blue.png,70,92,65,80,55,98,1,18,25,161,50,70,Water,,5,3,Medium Fast,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Sandile,551Sandile.png,50,72,35,35,35,65,0.7,15.2,180,58,50,70,Ground,Dark,5,3,Medium Slow,Field,,1,1,2,0,2,2,2,0.5,1,1,0,2,0.5,0.5,1,0.5,1,2
+Krokorok,552Krokorok.png,60,82,45,45,45,74,1,33.4,90,123,50,70,Ground,Dark,5,3,Medium Slow,Field,,1,1,2,0,2,2,2,0.5,1,1,0,2,0.5,0.5,1,0.5,1,2
+Krookodile,553Krookodile.png,95,117,80,65,70,92,1.5,96.3,45,234,50,70,Ground,Dark,5,3,Medium Slow,Field,,1,1,2,0,2,2,2,0.5,1,1,0,2,0.5,0.5,1,0.5,1,2
+Darumaka,554Darumaka.png,70,90,45,15,45,50,0.6,37.5,120,63,50,70,Fire,,5,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Galarian Darumaka,554Darumaka-Galar.png,70,90,45,15,45,50,0.7,40,,,,,Ice,,5,2,Medium Slow,Field,,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Darmanitan Standard Mode,555Darmanitan.png,105,140,55,30,55,95,1.3,92.9,60,168,50,70,Fire,,5,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Darmanitan Zen Mode,555Darmanitan-Zen.png,105,30,105,140,105,55,1.3,92.9,60,189,50,70,Fire,Psychic,5,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,0.5,1,2,1,0.5,1,2,2,1,2,0.5,0.5
+Darmanitan Galarian Standard Mode,555Darmanitan-Galar.png,105,140,55,30,55,95,1.7,120,,,,,Ice,,5,2,Medium Slow,Field,,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Darmanitan Galarian Zen Mode,555Darmanitan-Galar-Zen.png,105,160,55,30,55,135,1.7,120,,,,,Ice,Fire,5,2,,,,1,1,2,1,0.5,0.25,2,1,2,1,1,0.5,4,1,1,1,1,0.5
+Maractus,556Maractus.png,75,86,67,106,67,60,1,28,255,161,50,70,Grass,,5,3,Medium Fast,Grass,,1,2,0,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Dwebble,557Dwebble.png,50,65,85,35,35,55,0.3,14.5,190,65,50,70,Bug,Rock,5,3,Medium Fast,Bug,Mineral,0.5,1,2,1,1,1,1,0.5,1,1,1,1,2,1,1,1,2,1
+Crustle,558Crustle.png,70,105,125,65,75,45,1.4,200,75,170,50,70,Bug,Rock,5,3,Medium Fast,Bug,Mineral,0.5,1,2,1,1,1,1,0.5,1,1,1,1,2,1,1,1,2,1
+Scraggy,559Scraggy.png,50,75,70,35,70,48,0.6,11.8,180,70,50,35,Dark,Fighting,5,3,Medium Fast,Dragon,Field,1,1,1,1,1,1,2,1,1,2,0,1,0.5,0.5,1,0.25,1,4
+Scrafty,560Scrafty.png,65,90,115,45,115,58,1.1,30,90,171,50,70,Dark,Fighting,5,3,Medium Fast,Dragon,Field,1,1,1,1,1,1,2,1,1,2,0,1,0.5,0.5,1,0.25,1,4
+Sigilyph,561Sigilyph.png,72,58,80,103,80,97,1.4,14,45,172,50,70,Psychic,Flying,5,3,Medium Fast,Flying,,1,1,1,2,0.5,2,0.25,1,0,1,0.5,1,2,2,1,2,1,1
+Yamask,562Yamask.png,38,30,85,55,65,30,0.5,1.5,190,61,50,70,Ghost,,5,1,Medium Fast,Amorphous,Mineral,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Galarian Yamask,562Yamask-Galar.png,38,55,85,30,65,30,0.5,1.5,,,,,Ground,Ghost,5,1,Medium Fast,Amorphous,Mineral,0,1,2,0,2,2,0,0.25,1,1,1,0.5,0.5,2,1,2,1,1
+Cofagrigus,563Cofagrigus.png,58,50,145,95,105,30,1.7,76.5,90,169,50,70,Ghost,,5,1,Medium Fast,Amorphous,Mineral,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Tirtouga,564Tirtouga.png,54,78,103,53,45,22,0.7,16.5,45,71,87.5,70,Water,Rock,5,3,Medium Fast,Water 1,Water 3,0.5,0.25,1,1.5,3,0.5,1.5,0.5,1.5,0.5,1,1,1,1,1,1,1,1
+Carracosta,565Carracosta.png,74,108,133,83,65,32,1.2,81,45,173,87.5,70,Water,Rock,5,3,Medium Fast,Water 1,Water 3,0.5,0.25,1,1.5,3,0.5,1.5,0.5,1.5,0.5,1,1,1,1,1,1,1,1
+Archen,566Archen.png,55,112,45,74,45,70,0.5,9.5,45,71,87.5,70,Rock,Flying,5,1,Medium Fast,Flying,Water 3,0.5,0.5,2,2,1,2,1,0.5,0,0.5,1,0.5,2,1,1,1,2,1
+Archeops,567Archeops.png,75,140,65,112,65,110,1.4,32,45,177,87.5,70,Rock,Flying,5,1,Medium Fast,Flying,Water 3,0.5,0.5,2,2,1,2,1,0.5,0,0.5,1,0.5,2,1,1,1,2,1
+Trubbish,568Trubbish.png,50,50,62,40,62,65,0.6,31,190,66,50,70,Poison,,5,3,Medium Fast,Mineral,,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Garbodor,569Garbodor.png,80,95,82,60,82,75,1.9,107.3,60,166,50,70,Poison,,5,3,Medium Fast,Mineral,,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Zorua,570Zorua.png,40,65,40,80,40,65,0.7,12.5,75,66,87.5,70,Dark,,5,1,Medium Slow,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Zoroark,571Zoroark.png,60,105,60,120,60,105,1.6,81.1,45,179,87.5,70,Dark,,5,1,Medium Slow,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Minccino,572Minccino.png,55,50,40,40,40,75,0.4,5.8,255,60,25,70,Normal,,5,3,Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Cinccino,573Cinccino.png,75,95,60,65,60,115,0.5,7.5,60,165,25,70,Normal,,5,3,Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Gothita,574Gothita.png,45,30,50,55,65,45,0.4,5.8,200,58,25,70,Psychic,,5,3,Medium Slow,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Gothorita,575Gothorita.png,60,45,70,75,85,55,0.7,18,100,137,25,70,Psychic,,5,3,Medium Slow,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Gothitelle,576Gothitelle.png,70,55,95,95,110,65,1.5,44,50,221,25,70,Psychic,,5,3,Medium Slow,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Solosis,577Solosis.png,45,30,40,105,50,20,0.3,1,200,58,50,70,Psychic,,5,3,Medium Slow,Amorphous,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Duosion,578Duosion.png,65,40,50,125,60,30,0.6,8,100,130,50,70,Psychic,,5,3,Medium Slow,Amorphous,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Reuniclus,579Reuniclus.png,110,65,75,125,85,30,1,20.1,50,221,50,70,Psychic,,5,3,Medium Slow,Amorphous,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Ducklett,580Ducklett.png,62,44,50,44,50,55,0.5,5.5,190,61,50,70,Water,Flying,5,3,Medium Fast,Flying,Water 1,1,0.5,0.5,4,1,1,0.5,1,0,1,1,0.5,2,1,1,1,0.5,1
+Swanna,581Swanna.png,75,87,63,87,63,98,1.3,24.2,45,166,50,70,Water,Flying,5,3,Medium Fast,Flying,Water 1,1,0.5,0.5,4,1,1,0.5,1,0,1,1,0.5,2,1,1,1,0.5,1
+Vanillite,582Vanillite.png,36,50,50,65,60,44,0.4,5.7,255,61,50,70,Ice,,5,3,Slow,Mineral,,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Vanillish,583Vanillish.png,51,65,65,80,75,59,1.1,41,120,138,50,70,Ice,,5,3,Slow,Mineral,,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Vanilluxe,584Vanilluxe.png,71,95,85,110,95,79,1.3,57.5,45,241,50,70,Ice,,5,3,Slow,Mineral,,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Deerling,585Deerling-Spring.png,60,60,50,40,50,75,0.6,19.5,190,67,50,70,Normal,Grass,5,3,Medium Fast,Field,,1,2,0.5,0.5,0.5,2,2,2,0.5,2,1,2,1,0,1,1,1,1
+Sawsbuck,586Sawsbuck-Spring.png,80,100,70,60,70,95,1.9,92.5,75,166,50,70,Normal,Grass,5,3,Medium Fast,Field,,1,2,0.5,0.5,0.5,2,2,2,0.5,2,1,2,1,0,1,1,1,1
+Emolga,587Emolga.png,55,75,60,75,60,103,0.4,5,200,150,50,70,Electric,Flying,5,2,Medium Fast,Field,,1,1,1,1,0.5,2,0.5,1,0,0.5,1,0.5,2,1,1,1,0.5,1
+Karrablast,588Karrablast.png,50,75,45,40,45,60,0.5,5.9,200,63,50,70,Bug,,5,3,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Escavalier,589Escavalier.png,70,135,105,60,105,20,1,33,75,173,50,70,Bug,Steel,5,3,Medium Fast,Bug,,0.5,4,1,1,0.25,0.5,1,0,1,1,0.5,0.5,1,1,0.5,1,0.5,0.5
+Foongus,590Foongus.png,69,55,45,55,55,15,0.2,1,190,59,50,70,Grass,Poison,5,2,Medium Fast,Grass,,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Amoonguss,591Amoonguss.png,114,85,70,85,80,30,0.6,10.5,75,162,50,70,Grass,Poison,5,2,Medium Fast,Grass,,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,1,1,1,1,1,1,0.5
+Frillish,592Frillish.png,55,40,50,65,85,40,1.2,33,190,67,50,70,Water,Ghost,5,3,Medium Fast,Amorphous,,0,0.5,0,2,2,0.5,0,0.5,1,1,1,0.5,1,2,1,2,0.5,1
+Jellicent,593Jellicent.png,100,60,70,85,105,60,2.2,135,60,168,50,70,Water,Ghost,5,3,Medium Fast,Amorphous,,0,0.5,0,2,2,0.5,0,0.5,1,1,1,0.5,1,2,1,2,0.5,1
+Alomomola,594Alomomola.png,165,75,80,40,45,65,1.2,31.6,75,165,50,70,Water,,5,3,Fast,Water 1,Water 2,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Joltik,595Joltik.png,50,47,50,57,50,65,0.1,0.6,190,64,50,70,Bug,Electric,5,3,Medium Fast,Bug,,1,2,1,0.5,0.5,1,0.5,1,1,1,1,1,2,1,1,1,0.5,1
+Galvantula,596Galvantula.png,70,77,60,97,60,108,0.8,14.3,75,165,50,70,Bug,Electric,5,3,Medium Fast,Bug,,1,2,1,0.5,0.5,1,0.5,1,1,1,1,1,2,1,1,1,0.5,1
+Ferroseed,597Ferroseed.png,44,50,91,24,86,10,0.6,18.8,255,61,50,70,Grass,Steel,5,2,Medium Fast,Grass,Mineral,0.5,4,0.5,0.5,0.25,1,2,0,1,1,0.5,1,0.5,1,0.5,1,0.5,0.5
+Ferrothorn,598Ferrothorn.png,74,94,131,54,116,20,1,110,90,171,50,70,Grass,Steel,5,2,Medium Fast,Grass,Mineral,0.5,4,0.5,0.5,0.25,1,2,0,1,1,0.5,1,0.5,1,0.5,1,0.5,0.5
+Klink,599Klink.png,40,55,70,45,60,30,0.3,21,130,60,,70,Steel,,5,3,Medium Slow,Mineral,,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Klang,600Klang.png,60,80,95,70,85,50,0.6,51,60,154,,70,Steel,,5,3,Medium Slow,Mineral,,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Klinklang,601Klinklang.png,60,100,115,70,85,90,0.6,81,30,234,,70,Steel,,5,3,Medium Slow,Mineral,,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Tynamo,602Tynamo.png,35,55,40,45,40,60,0.2,0.3,190,55,50,70,Electric,,5,1,Slow,Amorphous,,1,1,1,0.5,1,1,1,1,0,0.5,1,1,1,1,1,1,0.5,1
+Eelektrik,603Eelektrik.png,65,85,70,75,70,40,1.2,22,60,142,50,70,Electric,,5,1,Slow,Amorphous,,1,1,1,0.5,1,1,1,1,0,0.5,1,1,1,1,1,1,0.5,1
+Eelektross,604Eelektross.png,85,115,80,105,80,50,2.1,80.5,30,232,50,70,Electric,,5,1,Slow,Amorphous,,1,1,1,0.5,1,1,1,1,0,0.5,1,1,1,1,1,1,0.5,1
+Elgyem,605Elgyem.png,55,55,55,85,55,30,0.5,9,255,67,50,70,Psychic,,5,3,Medium Fast,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Beheeyem,606Beheeyem.png,75,75,75,125,95,40,1,34.5,90,170,50,70,Psychic,,5,3,Medium Fast,Human-Like,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Litwick,607Litwick.png,50,30,55,65,55,20,0.3,3.1,190,55,50,70,Ghost,Fire,5,3,Medium Slow,Amorphous,,0,0,2,1,0.5,0.5,0,0.5,2,1,1,0.25,2,2,1,2,0.5,0.5
+Lampent,608Lampent.png,60,40,60,95,60,55,0.6,13,90,130,50,70,Ghost,Fire,5,3,Medium Slow,Amorphous,,0,0,2,1,0.5,0.5,0,0.5,2,1,1,0.25,2,2,1,2,0.5,0.5
+Chandelure,609Chandelure.png,60,55,90,145,90,80,1,34.3,45,234,50,70,Ghost,Fire,5,3,Medium Slow,Amorphous,,0,0,2,1,0.5,0.5,0,0.5,2,1,1,0.25,2,2,1,2,0.5,0.5
+Axew,610Axew.png,46,87,60,30,40,57,0.6,18,75,64,50,35,Dragon,,5,3,Slow,Dragon,Monster,1,0.5,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1,2,1,1,2
+Fraxure,611Fraxure.png,66,117,70,40,50,67,1,36,60,144,50,35,Dragon,,5,3,Slow,Dragon,Monster,1,0.5,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1,2,1,1,2
+Haxorus,612Haxorus.png,76,147,90,60,70,97,1.8,105.5,45,243,50,35,Dragon,,5,3,Slow,Dragon,Monster,1,0.5,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1,2,1,1,2
+Cubchoo,613Cubchoo.png,55,70,40,60,40,40,0.5,8.5,120,61,50,70,Ice,,5,3,Medium Fast,Field,,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Beartic,614Beartic.png,95,130,80,70,80,50,2.6,260,60,177,50,70,Ice,,5,3,Medium Fast,Field,,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Cryogonal,615Cryogonal.png,80,50,50,95,135,105,1.1,148,25,180,,70,Ice,,5,1,Medium Fast,Mineral,,1,2,1,1,1,0.5,2,1,0,1,1,1,2,1,1,1,2,1
+Shelmet,616Shelmet.png,50,40,85,40,65,25,0.4,7.7,200,61,50,70,Bug,,5,3,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Accelgor,617Accelgor.png,80,70,40,100,60,145,0.8,25.3,75,173,50,70,Bug,,5,3,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Stunfisk,618Stunfisk.png,109,66,84,81,99,32,0.7,11,75,165,50,70,Ground,Electric,5,3,Medium Fast,Amorphous,Water 1,1,1,2,0,2,2,1,0.5,2,0.5,1,1,0.5,1,1,1,0.5,1
+Galarian Stunfisk,618Stunfisk-Galar.png,109,81,99,66,84,32,0.7,20.5,,,,,Ground,Steel,5,1,Medium Fast,Amorphous,Water 1,0.5,2,2,0,1,1,2,0,2,0.5,0.5,0.5,0.25,1,0.5,1,0.5,0.5
+Mienfoo,619Mienfoo.png,45,85,50,55,50,65,0.9,20,180,70,50,70,Fighting,,5,3,Medium Slow,Field,Human-Like,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Mienshao,620Mienshao.png,65,125,60,95,60,105,1.4,35.5,45,179,50,70,Fighting,,5,3,Medium Slow,Field,Human-Like,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Druddigon,621Druddigon.png,77,120,90,60,90,48,1.6,139,45,170,50,70,Dragon,,5,3,Medium Fast,Dragon,Monster,1,0.5,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1,2,1,1,2
+Golett,622Golett.png,59,74,50,35,50,35,1,92,190,61,,70,Ground,Ghost,5,3,Medium Fast,Mineral,,0,1,2,0,2,2,0,0.25,1,1,1,0.5,0.5,2,1,2,1,1
+Golurk,623Golurk.png,89,124,80,55,80,55,2.8,330,90,169,,70,Ground,Ghost,5,3,Medium Fast,Mineral,,0,1,2,0,2,2,0,0.25,1,1,1,0.5,0.5,2,1,2,1,1
+Pawniard,624Pawniard.png,45,85,70,40,40,60,0.5,10.2,120,68,50,35,Dark,Steel,5,3,Medium Fast,Human-Like,,0.5,2,1,1,0.5,0.5,4,0,2,0.5,0,1,0.5,0.5,0.5,0.5,0.5,1
+Bisharp,625Bisharp.png,65,125,100,60,70,70,1.6,70,45,172,50,35,Dark,Steel,5,3,Medium Fast,Human-Like,,0.5,2,1,1,0.5,0.5,4,0,2,0.5,0,1,0.5,0.5,0.5,0.5,0.5,1
+Bouffalant,626Bouffalant.png,95,110,95,40,95,55,1.6,94.6,45,172,50,70,Normal,,5,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Rufflet,627Rufflet.png,70,83,50,37,50,60,0.5,10.5,190,70,100,70,Normal,Flying,5,3,Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Braviary,628Braviary.png,100,123,75,57,75,80,1.5,41,60,179,100,70,Normal,Flying,5,3,Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Vullaby,629Vullaby.png,70,55,75,45,65,60,0.5,9,190,74,0,35,Dark,Flying,5,3,Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,0,1,2,0.5,1,0.5,1,2
+Mandibuzz,630Mandibuzz.png,110,65,105,55,95,80,1.2,39.5,60,179,0,35,Dark,Flying,5,3,Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,0,1,2,0.5,1,0.5,1,2
+Heatmor,631Heatmor.png,85,97,66,105,66,65,1.4,58,90,169,50,70,Fire,,5,3,Medium Fast,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Durant,632Durant.png,58,109,112,48,48,109,0.3,33,90,169,50,70,Bug,Steel,5,3,Medium Fast,Bug,,0.5,4,1,1,0.25,0.5,1,0,1,1,0.5,0.5,1,1,0.5,1,0.5,0.5
+Deino,633Deino.png,52,65,50,45,50,38,0.8,17.3,45,60,50,35,Dark,Dragon,5,1,Slow,Dragon,,1,0.5,0.5,0.5,0.5,2,2,1,1,1,0,2,1,0.5,2,0.5,1,4
+Zweilous,634Zweilous.png,72,85,70,65,70,58,1.4,50,45,147,50,35,Dark,Dragon,5,1,Slow,Dragon,,1,0.5,0.5,0.5,0.5,2,2,1,1,1,0,2,1,0.5,2,0.5,1,4
+Hydreigon,635Hydreigon.png,92,105,90,125,90,98,1.8,160,45,270,50,35,Dark,Dragon,5,1,Slow,Dragon,,1,0.5,0.5,0.5,0.5,2,2,1,0,1,0,2,1,0.5,2,0.5,1,4
+Larvesta,636Larvesta.png,55,85,55,50,55,60,1.1,28.8,45,72,50,70,Bug,Fire,5,2,Slow,Bug,,1,1,2,1,0.25,0.5,0.5,1,1,2,1,0.5,4,1,1,1,0.5,0.5
+Volcarona,637Volcarona.png,85,60,65,135,105,100,1.6,46,15,248,50,70,Bug,Fire,5,2,Slow,Bug,,1,1,2,1,0.25,0.5,0.5,1,1,2,1,0.5,4,1,1,1,0.5,0.5
+Cobalion,638Cobalion.png,91,90,129,90,72,108,2.1,250,3,261,,35,Steel,Fighting,5,1,Slow,Undiscovered,,0.5,2,1,1,0.5,0.5,2,0,2,1,1,0.25,0.25,1,0.5,0.5,0.5,1
+Terrakion,639Terrakion.png,91,129,90,72,90,108,1.9,260,3,261,,35,Rock,Fighting,5,1,Slow,Undiscovered,,0.5,0.5,2,1,2,1,2,0.5,2,1,2,0.5,0.5,1,1,0.5,2,2
+Virizion,640Virizion.png,91,90,72,90,129,108,2,200,3,261,,35,Grass,Fighting,5,1,Slow,Undiscovered,,1,2,0.5,0.5,0.5,2,1,2,0.5,4,2,1,0.5,1,1,0.5,1,2
+Tornadus Incarnate Forme,641Tornadus.png,79,115,70,125,80,111,1.5,63,3,261,100,90,Flying,,5,2,Slow,Undiscovered,,1,1,1,2,0.5,2,0.5,1,0,1,1,0.5,2,1,1,1,1,1
+Tornadus Therian Forme,641Tornadus-Therian.png,79,100,80,110,90,121,1.4,63,3,261,100,90,Flying,,5,1,Slow,Undiscovered,,1,1,1,2,0.5,2,0.5,1,0,1,1,0.5,2,1,1,1,1,1
+Thundurus Incarnate Forme,642Thundurus.png,79,115,70,125,80,111,1.5,61,3,261,100,90,Electric,Flying,5,2,Slow,Undiscovered,,1,1,1,1,0.5,2,0.5,1,0,0.5,1,0.5,2,1,1,1,0.5,1
+Thundurus Therian Forme,642Thundurus-Therian.png,79,105,70,145,80,101,3,61,3,261,100,90,Electric,Flying,5,1,Slow,Undiscovered,,1,1,1,0,0.5,2,0.5,1,0,0.5,1,0.5,2,1,1,1,0.5,1
+Reshiram,643Reshiram.png,100,120,100,150,120,90,3.2,330,3,306,,0,Dragon,Fire,5,1,Slow,Undiscovered,,1,0.25,1,0.5,0.25,1,1,1,2,1,1,0.5,2,1,2,1,0.5,1
+Zekrom,644Zekrom.png,100,150,120,120,100,90,2.9,345,3,306,,0,Dragon,Electric,5,1,Slow,Undiscovered,,1,0.5,0.5,0.25,0.5,2,1,1,2,0.5,1,1,1,1,2,1,0.5,2
+Landorus Incarnate Forme,645Landorus.png,89,125,90,115,80,101,1.5,68,3,270,100,90,Ground,Flying,5,2,Slow,Undiscovered,,1,1,2,0,1,4,0.5,0.5,0,1,1,0.5,1,1,1,1,1,1
+Landorus Therian Forme,645Landorus-Therian.png,89,145,90,105,80,91,1.3,68,3,270,100,90,Ground,Flying,5,1,Slow,Undiscovered,,1,1,2,0,1,4,0.5,0.5,0,1,1,0.5,1,1,1,1,1,1
+Kyurem,646Kyurem.png,125,130,90,130,90,95,3,325,3,297,,0,Dragon,Ice,5,1,Slow,Undiscovered,,1,1,0.5,0.5,0.5,1,2,1,1,1,1,1,2,1,2,1,2,2
+Black Kyurem,646Kyurem-Black.png,125,170,100,120,90,95,3.3,325,3,315,,0,Dragon,Ice,5,1,Slow,Undiscovered,,1,1,0.5,0.5,0.5,1,2,1,1,1,1,1,2,1,2,1,2,2
+White Kyurem,646Kyurem-White.png,125,120,90,170,100,95,3.6,325,3,315,,0,Dragon,Ice,5,1,Slow,Undiscovered,,1,1,0.5,0.5,0.5,1,2,1,1,1,1,1,2,1,2,1,2,2
+Keldeo Ordinary Forme,647Keldeo.png,91,72,90,129,90,108,1.4,48.5,3,261,,35,Water,Fighting,5,1,Slow,Undiscovered,,1,0.5,0.5,2,2,0.5,1,1,1,2,2,0.5,0.5,1,1,0.5,0.5,2
+Keldeo Resolute Forme,647Keldeo-Resolute.png,91,72,90,129,90,108,1.4,48.5,3,261,,35,Water,Fighting,5,1,Slow,Undiscovered,,1,0.5,0.5,2,2,0.5,1,1,1,2,2,0.5,0.5,1,1,0.5,0.5,2
+Meloetta Aria Forme,648Meloetta.png,100,77,77,128,128,90,0.6,6.5,3,270,,100,Normal,Psychic,5,1,Slow,Undiscovered,,1,1,1,1,1,1,1,1,1,1,0.5,2,1,0,1,2,1,1
+Meloetta Pirouette Forme,648Meloetta-Pirouette.png,100,128,90,77,77,128,0.6,6.5,3,270,,100,Normal,Fighting,5,1,Slow,Undiscovered,,1,1,1,1,1,1,2,1,1,2,2,0.5,0.5,0,1,0.5,1,2
+Genesect,649Genesect.png,71,120,95,120,95,99,1.5,82.5,3,270,,0,Bug,Steel,5,1,Slow,Undiscovered,,0.5,4,1,1,0.25,0.5,1,0,1,1,0.5,0.5,1,1,0.5,1,0.5,0.5
+Chespin,650Chespin.png,56,61,65,48,45,38,0.4,9,45,63,87.5,70,Grass,,6,2,Medium Slow,Field,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Quilladin,651Quilladin.png,61,78,95,56,58,57,0.7,29,45,142,87.5,70,Grass,,6,2,Medium Slow,Field,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Chesnaught,652Chesnaught.png,88,107,122,74,75,64,1.6,90,45,239,87.5,70,Grass,Fighting,6,2,Medium Slow,Field,,1,2,0.5,0.5,0.5,2,1,2,0.5,4,2,1,0.5,1,1,0.5,1,2
+Fennekin,653Fennekin.png,40,45,40,62,60,60,0.4,9.4,45,61,87.5,70,Fire,,6,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Braixen,654Braixen.png,59,59,58,90,70,73,1,14.5,45,143,87.5,70,Fire,,6,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Delphox,655Delphox.png,75,69,72,114,100,104,1.5,39,45,240,87.5,70,Fire,Psychic,6,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,0.5,1,2,1,0.5,1,2,2,1,2,0.5,0.5
+Froakie,656Froakie.png,41,56,40,62,44,71,0.3,7,45,63,87.5,70,Water,,6,2,Medium Slow,Water 1,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Frogadier,657Frogadier.png,54,63,52,83,56,97,0.6,10.9,45,142,87.5,70,Water,,6,2,Medium Slow,Water 1,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Greninja,658Greninja.png,72,95,67,103,71,122,1.5,40,45,239,87.5,70,Water,Dark,6,2,Medium Slow,Water 1,,1,0.5,0.5,2,2,0.5,2,1,1,1,0,2,1,0.5,1,0.5,0.5,2
+Ash-Greninja,658Greninja-Ash.png,72,145,67,153,71,132,1.5,40,45,288,100,70,Water,Dark,6,1,Medium Slow,Undiscovered,,1,0.5,0.5,2,2,0.5,2,1,1,1,0,2,1,0.5,1,0.5,0.5,2
+Bunnelby,659Bunnelby.png,38,36,38,32,36,57,0.4,5,255,47,50,70,Normal,,6,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Diggersby,660Diggersby.png,85,56,77,50,77,78,1,42.4,127,148,50,70,Normal,Ground,6,3,Medium Fast,Field,,1,1,2,0,2,2,2,0.5,1,1,1,1,0.5,0,1,1,1,1
+Fletchling,661Fletchling.png,45,50,43,40,38,62,0.3,1.7,255,56,50,70,Normal,Flying,6,2,Medium Slow,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Fletchinder,662Fletchinder.png,62,73,55,56,52,84,0.7,16,120,134,50,70,Fire,Flying,6,2,Medium Slow,Flying,,1,0.5,2,2,0.25,1,0.5,1,0,1,1,0.25,4,1,1,1,0.5,0.5
+Talonflame,663Talonflame.png,78,81,71,74,69,126,1.2,24.5,45,175,50,70,Fire,Flying,6,2,Medium Slow,Flying,,1,0.5,2,2,0.25,1,0.5,1,0,1,1,0.25,4,1,1,1,0.5,0.5
+Scatterbug,664Scatterbug.png,38,35,40,27,25,35,0.3,2.5,255,40,50,70,Bug,,6,3,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Spewpa,665Spewpa.png,45,22,60,27,30,29,0.3,8.4,120,75,50,70,Bug,,6,2,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Vivillon,666Vivillon.png,80,52,50,90,50,89,1.2,17,45,185,50,70,Bug,Flying,6,3,Medium Fast,Bug,,1,2,1,2,0.25,2,0.25,1,0,2,1,0.5,4,1,1,1,1,1
+Litleo,667Litleo.png,62,50,58,73,54,72,0.6,13.5,220,74,25,70,Fire,Normal,6,3,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,2,1,2,1,1,0.5,2,0,1,1,0.5,0.5
+Pyroar,668Pyroar.png,86,68,72,109,66,106,1.5,81.5,65,177,25,70,Fire,Normal,6,3,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,2,1,2,1,1,0.5,2,0,1,1,0.5,0.5
+Flabebe,669Flabebe.png,44,38,39,61,79,42,0.1,0.1,225,61,0,70,Fairy,,6,2,Medium Fast,Fairy,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Floette,670Floette.png,54,45,47,75,98,52,0.2,0.9,120,130,0,70,Fairy,,6,2,Medium Fast,Fairy,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Florges,671Florges.png,78,65,68,112,154,75,1.1,10,45,248,0,70,Fairy,,6,2,Medium Fast,Fairy,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Skiddo,672Skiddo.png,66,65,48,62,57,52,0.9,31,200,70,50,70,Grass,,6,2,Medium Fast,Field,,1,2,0.5,0.5,0,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Gogoat,673Gogoat.png,123,100,62,97,81,68,1.7,91,45,186,50,70,Grass,,6,2,Medium Fast,Field,,1,2,0.5,0.5,0,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Pancham,674Pancham.png,67,82,62,46,48,43,0.6,8,220,70,50,70,Fighting,,6,3,Medium Fast,Field,Human-Like,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Pangoro,675Pangoro.png,95,124,78,69,71,58,2.1,136,65,173,50,70,Fighting,Dark,6,3,Medium Fast,Field,Human-Like,1,1,1,1,1,1,2,1,1,2,0,1,0.5,0.5,1,0.25,1,4
+Furfrou,676Furfrou.png,75,80,60,65,90,102,1.2,28,160,165,50,70,Normal,,6,1,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Espurr,677Espurr.png,62,48,54,63,60,68,0.3,3.5,190,71,50,70,Psychic,,6,3,Medium Fast,Field,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Meowstic Male,678Meowstic.png,74,48,76,83,81,104,0.6,8.5,75,163,50,70,Psychic,,6,3,Medium Fast,Field,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Meowstic Female,678Meowstic.png,74,48,76,83,81,104,0.6,8.5,75,163,50,70,Psychic,,6,3,Medium Fast,Field,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Honedge,679Honedge.png,45,80,100,35,37,28,0.8,2,180,65,50,70,Steel,Ghost,6,1,Medium Fast,Mineral,,0,2,1,1,0.5,0.5,0,0,2,0.5,0.5,0.25,0.5,2,0.5,2,0.5,0.5
+Doublade,680Doublade.png,59,110,150,45,49,35,0.8,4.5,90,157,50,70,Steel,Ghost,6,1,Medium Fast,Mineral,,0,2,1,1,0.5,0.5,0,0,2,0.5,0.5,0.25,0.5,2,0.5,2,0.5,0.5
+Aegislash Blade Forme,681Aegislash.png,60,150,50,150,50,60,1.7,53,45,234,50,70,Steel,Ghost,6,1,Medium Fast,Mineral,,0,2,1,1,0.5,0.5,0,0,2,0.5,0.5,0.25,0.5,2,0.5,2,0.5,0.5
+Aegislash Shield Forme,681Aegislash.png,60,50,150,50,150,60,1.7,53,45,234,50,70,Steel,Ghost,6,1,Medium Fast,Mineral,,0,2,1,1,0.5,0.5,0,0,2,0.5,0.5,0.25,0.5,2,0.5,2,0.5,0.5
+Spritzee,682Spritzee.png,78,52,60,63,65,23,0.2,0.5,200,68,50,70,Fairy,,6,2,Medium Fast,Fairy,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Aromatisse,683Aromatisse.png,101,72,72,99,89,29,0.8,15.5,140,162,50,70,Fairy,,6,2,Medium Fast,Fairy,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Swirlix,684Swirlix.png,62,48,66,59,57,49,0.4,3.5,200,68,50,70,Fairy,,6,2,Medium Fast,Fairy,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Slurpuff,685Slurpuff.png,82,80,86,85,75,72,0.8,5,140,168,50,70,Fairy,,6,2,Medium Fast,Fairy,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Inkay,686Inkay.png,53,54,53,37,46,45,0.4,3.5,190,58,50,70,Dark,Psychic,6,3,Medium Fast,Water 1,Water 2,1,1,1,1,1,1,1,1,1,1,0,4,1,1,1,1,1,2
+Malamar,687Malamar.png,86,92,88,68,75,73,1.5,47,80,169,50,70,Dark,Psychic,6,3,Medium Fast,Water 1,Water 2,1,1,1,1,1,1,1,1,1,1,0,4,1,1,1,1,1,2
+Binacle,688Binacle.png,42,52,67,39,56,50,0.5,31,120,61,50,70,Rock,Water,6,3,Medium Fast,Water 3,,0.5,0.25,1,2,4,0.5,2,0.5,2,0.5,1,1,1,1,1,1,1,1
+Barbaracle,689Barbaracle.png,72,105,115,54,86,68,1.3,96,45,175,50,70,Rock,Water,6,3,Medium Fast,Water 3,,0.5,0.25,1,2,4,0.5,2,0.5,2,0.5,1,1,1,1,1,1,1,1
+Skrelp,690Skrelp.png,50,60,60,60,60,30,0.5,7.3,225,64,50,70,Poison,Water,6,3,Medium Fast,Dragon,Water 1,1,0.5,0.5,2,1,0.5,0.5,0.5,2,1,2,0.5,1,1,1,1,0.5,0.5
+Dragalge,691Dragalge.png,65,75,90,97,123,44,1.8,81.5,55,173,50,70,Poison,Dragon,6,3,Medium Fast,Dragon,Water 1,1,0.5,0.5,0.5,0.25,2,0.5,0.5,2,1,2,0.5,1,1,2,1,1,1
+Clauncher,692Clauncher.png,50,53,62,58,63,44,0.5,8.3,225,66,50,70,Water,,6,1,Slow,Water 1,Water 3,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Clawitzer,693Clawitzer.png,71,73,88,120,89,59,1.3,35.3,55,100,50,70,Water,,6,1,Slow,Water 1,Water 3,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Helioptile,694Helioptile.png,44,38,33,61,43,70,0.5,6,190,58,50,70,Electric,Normal,6,3,Medium Fast,Dragon,Monster,1,1.25,0,0.5,1,1,2,1,2,0.5,1,1,1,0,1,1,0.5,1
+Heliolisk,695Heliolisk.png,62,55,52,109,94,109,1,21,75,168,50,70,Electric,Normal,6,3,Medium Fast,Dragon,Monster,1,1.25,0,0.5,1,1,2,1,2,0.5,1,1,1,0,1,1,0.5,1
+Tyrunt,696Tyrunt.png,58,89,77,45,45,48,0.8,26,45,72,87.5,70,Rock,Dragon,6,2,Medium Fast,Dragon,Monster,0.5,0.25,1,0.5,1,2,2,0.5,2,0.5,1,1,1,1,2,1,2,2
+Tyrantrum,697Tyrantrum.png,82,121,119,69,59,71,2.5,270,45,182,87.5,70,Rock,Dragon,6,2,Medium Fast,Dragon,Monster,0.5,0.25,1,0.5,1,2,2,0.5,2,0.5,1,1,1,1,2,1,2,2
+Amaura,698Amaura.png,77,59,50,67,63,46,1.3,25.2,45,72,87.5,70,Rock,Ice,6,2,Medium Fast,Monster,,0.5,1,2,1,2,0.5,4,0.5,2,0.5,1,1,2,1,1,1,4,1
+Aurorus,699Aurorus.png,123,77,72,99,92,58,2.7,225,45,104,87.5,70,Rock,Ice,6,2,Medium Fast,Monster,,0.5,1,2,1,2,0.5,4,0.5,2,0.5,1,1,2,1,1,1,4,1
+Sylveon,700Sylveon.png,95,65,65,110,130,60,1,23.5,45,184,87.5,70,Fairy,,6,2,Medium Fast,Field,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Hawlucha,701Hawlucha.png,78,92,75,74,63,118,0.8,21.5,100,175,50,70,Fighting,Flying,6,3,Medium Fast,Flying,Human-Like,1,1,1,2,0.5,2,0.5,1,0,2,2,0.25,1,1,1,0.5,1,2
+Dedenne,702Dedenne.png,67,58,57,81,67,101,0.2,2.2,180,151,50,70,Electric,Fairy,6,3,Medium Fast,Fairy,Field,1,1,1,0.5,1,1,0.5,2,2,0.5,1,0.5,1,1,0,0.5,1,1
+Carbink,703Carbink.png,50,50,150,50,150,50,0.3,5.7,60,100,,70,Rock,Fairy,6,2,Slow,Fairy,Mineral,0.5,0.5,2,1,2,1,1,1,2,0.5,1,0.5,1,1,0,0.5,4,1
+Goomy,704Goomy.png,45,50,35,55,75,40,0.3,2.8,45,60,50,35,Dragon,,6,3,Slow,Dragon,,1,0.5,0.5,0.5,0,2,1,1,1,1,1,1,1,1,2,1,1,2
+Sliggoo,705Sliggoo.png,68,75,53,83,113,60,0.8,17.5,45,158,50,35,Dragon,,6,3,Slow,Dragon,,1,0.5,0.5,0.5,0,2,1,1,1,1,1,1,1,1,2,1,1,2
+Goodra,706Goodra.png,90,100,70,110,150,80,2,150.5,45,270,50,35,Dragon,,6,3,Slow,Dragon,,1,0.5,0.5,0.5,0,2,1,1,1,1,1,1,1,1,2,1,1,2
+Klefki,707Klefki.png,57,80,91,80,87,75,0.2,3,75,165,50,70,Steel,Fairy,6,2,Fast,Mineral,,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.5,0.25,0.5,1,0,0.5,1,0.5
+Phantump,708Phantump.png,43,70,48,50,60,38,0.4,7,120,62,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,Grass,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Trevenant,709Trevenant.png,85,110,76,65,82,56,1.5,71,60,166,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,Grass,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Pumpkaboo Average Size,710Pumpkaboo.png,49,66,70,44,55,51,0.4,5,120,67,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Pumpkaboo Small Size,710Pumpkaboo.png,44,66,70,44,55,56,0.3,3.5,120,67,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Pumpkaboo Large Size,710Pumpkaboo.png,54,66,70,44,55,46,0.5,7.5,120,67,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Pumpkaboo Super Size,710Pumpkaboo.png,59,66,70,44,55,41,0.8,15,120,67,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Gourgeist Average Size,711Gourgeist.png,65,90,122,58,75,84,0.9,12.5,60,173,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Gourgeist Small Size,711Gourgeist.png,55,85,122,58,75,99,0.7,9.5,60,173,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Gourgeist Large Size,711Gourgeist.png,75,95,122,58,75,69,1.1,14,60,173,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Gourgeist Super Size,711Gourgeist.png,85,100,122,58,75,54,1.7,39,60,173,50,70,Ghost,Grass,6,3,Medium Fast,Amorphous,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Bergmite,712Bergmite.png,55,69,85,32,35,28,1,99.5,190,61,50,70,Ice,,6,3,Medium Fast,Mineral,Monster,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Avalugg,713Avalugg.png,95,117,184,44,46,28,2,505,55,180,50,70,Ice,,6,3,Medium Fast,Mineral,Monster,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Noibat,714Noibat.png,40,30,35,45,40,55,0.5,8,190,49,50,70,Flying,Dragon,6,3,Medium Fast,Dragon,Flying,1,0.5,0.5,1,0.25,4,0.5,1,0,1,1,0.5,2,1,2,1,1,2
+Noivern,715Noivern.png,85,70,80,97,80,123,1.5,85,45,187,50,70,Flying,Dragon,6,3,Medium Fast,Dragon,Flying,1,0.5,0.5,1,0.25,4,0.5,1,0,1,1,0.5,2,1,2,1,1,2
+Xerneas,716Xerneas.png,126,131,95,131,98,99,3,215,45,306,,0,Fairy,,6,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Yveltal,717Yveltal.png,126,131,95,131,98,99,5.8,203,45,306,,0,Dark,Flying,6,1,Slow,Undiscovered,,1,1,1,2,0.5,2,1,1,0,1,0,1,2,0.5,1,0.5,1,2
+Zygarde 50% Forme,718Zygarde.png,108,100,121,81,95,95,5,305,3,270,,0,Dragon,Ground,6,2,Slow,Undiscovered,,1,0.5,1,0,1,4,1,0.5,1,1,1,1,0.5,1,2,1,1,2
+Zygarde 10% Forme,718Zygarde-10Percent.png,54,100,71,61,85,115,1.2,33.5,3,219,,0,Dragon,Ground,6,2,Slow,Undiscovered,,1,0.5,1,0,1,4,1,0.5,1,1,1,1,0.5,1,2,1,1,2
+Zygarde Complete Forme,718Zygarde-Complete.png,216,100,121,91,95,85,4.5,610,3,319,,0,Dragon,Ground,6,1,Slow,Undiscovered,,1,0.5,1,0,1,4,1,0.5,1,1,1,1,0.5,1,2,1,1,2
+Diancie,719Diancie.png,50,100,150,100,150,50,0.7,8.8,3,270,,70,Rock,Fairy,6,1,Slow,Undiscovered,,0.5,0.5,2,1,2,1,1,1,2,0.5,1,0.5,1,1,0,0.5,4,1
+Mega Diancie,719Diancie-Mega.png,50,160,110,160,110,110,1.1,27.8,3,315,,70,Rock,Fairy,6,1,Slow,Undiscovered,,0.5,0.5,2,1,2,1,1,1,2,0.5,1,0.5,1,1,0,0.5,4,1
+Hoopa Hoopa Confined,720Hoopa.png,80,110,60,150,130,70,0.5,9,3,270,,100,Psychic,Ghost,6,1,Slow,Undiscovered,,0,1,1,1,1,1,0,0.5,1,1,0.5,1,1,4,1,4,1,1
+Hoopa Hoopa Unbound,720Hoopa-Unbound.png,80,160,60,170,130,80,6.5,490,3,306,,100,Psychic,Dark,6,1,Slow,Undiscovered,,1,1,1,1,1,1,1,1,1,1,0,4,1,1,1,1,1,2
+Volcanion,721Volcanion.png,80,110,120,130,90,70,1.7,195,3,270,,100,Fire,Water,6,1,Slow,Undiscovered,,1,0.25,0,2,1,0.25,1,1,2,1,1,0.5,2,1,1,1,0.25,0.5
+Rowlet,722Rowlet.png,68,55,55,50,50,42,0.3,1.5,45,64,87.5,70,Grass,Flying,7,2,Medium Slow,Flying,,1,2,0.5,1,0.25,4,0.5,2,0,2,1,1,2,1,1,1,1,1
+Dartrix,723Dartrix.png,78,75,75,70,70,52,0.7,16,45,147,87.5,70,Grass,Flying,7,2,Medium Slow,Flying,,1,2,0.5,1,0.25,4,0.5,2,0,2,1,1,2,1,1,1,1,1
+Decidueye,724Decidueye.png,78,107,75,100,100,70,1.6,36.6,45,239,87.5,70,Grass,Ghost,7,2,Medium Slow,Flying,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Litten,725Litten.png,45,65,40,60,40,70,0.4,4.3,45,64,87.5,70,Fire,,7,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Torracat,726Torracat.png,65,85,50,80,50,90,0.7,25,45,147,87.5,70,Fire,,7,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Incineroar,727Incineroar.png,95,115,90,80,90,60,1.8,83,45,239,87.5,70,Fire,Dark,7,2,Medium Slow,Field,,1,0.5,2,1,0.5,0.5,2,1,2,1,0,1,2,0.5,1,0.5,0.5,1
+Popplio,728Popplio.png,50,54,54,66,56,40,0.4,7.5,45,64,87.5,70,Water,,7,2,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Brionne,729Brionne.png,60,69,69,91,81,50,0.6,17.5,45,147,87.5,70,Water,,7,2,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Primarina,730Primarina.png,80,74,74,126,116,60,1.8,44,45,239,87.5,70,Water,Fairy,7,2,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.5,0.5,2,1,1,1,0.5,1,1,0,0.5,1,1
+Pikipek,731Pikipek.png,35,75,30,30,30,65,0.3,1.2,255,53,50,70,Normal,Flying,7,3,Medium Fast,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Trumbeak,732Trumbeak.png,55,85,50,40,50,75,0.6,14.8,120,124,50,70,Normal,Flying,7,3,Medium Fast,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Toucannon,733Toucannon.png,80,120,75,75,75,60,1.1,26,45,218,50,70,Normal,Flying,7,3,Medium Fast,Flying,,1,1,1,2,0.5,2,1,1,0,1,1,0.5,2,0,1,1,1,1
+Yungoos,734Yungoos.png,48,70,30,30,30,45,0.4,6,255,51,50,70,Normal,,7,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Gumshoos,735Gumshoos.png,88,110,60,55,60,45,0.7,14.2,127,146,50,70,Normal,,7,3,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Grubbin,736Grubbin.png,47,62,45,55,45,46,0.4,4.4,255,60,50,70,Bug,,7,1,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Charjabug,737Charjabug.png,57,82,95,55,75,36,0.5,10.5,120,140,50,70,Bug,Electric,7,1,Medium Fast,Bug,,1,2,1,0.5,0.5,1,0.5,1,1,1,1,1,2,1,1,1,0.5,1
+Vikavolt,738Vikavolt.png,77,70,90,145,75,43,1.5,45,45,225,50,70,Bug,Electric,7,1,Medium Fast,Bug,,1,2,1,0.5,0.5,1,0.5,1,0,1,1,1,2,1,1,1,0.5,1
+Crabrawler,739Crabrawler.png,47,82,57,42,47,63,0.6,7,225,68,50,70,Fighting,,7,3,Medium Fast,Water 3,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Crabominable,740Crabominable.png,97,132,77,62,67,43,1.7,180,60,167,50,70,Fighting,Ice,7,3,Medium Fast,Water 3,,1,2,1,1,1,0.5,2,1,1,2,2,0.5,1,1,1,0.5,2,2
+Oricorio Baile Style,741Oricorio-Baile.png,75,70,70,98,70,93,0.6,3.4,45,167,25,70,Fire,Flying,7,1,Medium Fast,Flying,,1,0.5,2,2,0.25,1,0.5,1,0,1,1,0.25,4,1,1,1,0.5,0.5
+Oricorio Pom-Pom Style,741Oricorio-Pom-Pom.png,75,70,70,98,70,93,0.6,3.4,45,167,25,70,Electric,Flying,7,1,Medium Fast,Flying,,1,1,1,1,0.5,2,0.5,1,0,0.5,1,0.5,2,1,1,1,0.5,1
+Oricorio Pau Style,741Oricorio-Pau.png,75,70,70,98,70,93,0.6,3.4,45,167,25,70,Psychic,Flying,7,1,Medium Fast,Flying,,1,1,1,2,0.5,2,0.25,1,0,1,0.5,1,2,2,1,2,1,1
+Oricorio Sensu Style,741Oricorio-Sensu.png,75,70,70,98,70,93,0.6,3.4,45,167,25,70,Ghost,Flying,7,1,Medium Fast,Flying,,0,1,1,2,0.5,2,0,0.5,0,1,1,0.25,2,2,1,2,1,1
+Cutiefly,742Cutiefly.png,40,45,40,55,40,84,0.1,0.2,190,61,50,70,Bug,Fairy,7,3,Medium Fast,Bug,Fairy,1,2,1,1,0.5,1,0.25,2,0.5,2,1,0.5,2,1,0,0.5,2,1
+Ribombee,743Ribombee.png,60,55,60,95,70,124,0.2,0.5,75,162,50,70,Bug,Fairy,7,3,Medium Fast,Bug,Fairy,1,2,1,1,0.5,1,0.25,2,0.5,2,1,0.5,2,1,0,0.5,2,1
+Rockruff,744Rockruff.png,45,65,40,30,40,60,0.5,9.2,190,56,50,70,Rock,,7,3,Medium Fast,Field,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Own Tempo Rockruff,744Rockruff.png,45,65,40,30,40,60,0.5,9.2,190,56,50,70,Rock,,7,1,Medium Fast,Field,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Lycanroc Midday Form,745Lycanroc.png,75,115,65,55,65,112,0.8,25,90,170,50,70,Rock,,7,3,Medium Fast,Field,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Lycanroc Midnight Form,745Lycanroc-Midnight.png,85,115,75,55,75,82,1.1,25,90,170,50,70,Rock,,7,3,Medium Fast,Field,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Lycanroc Dusk Form,745Lycanroc-Dusk.png,75,117,65,55,65,110,0.8,25,90,170,50,70,Rock,,7,1,Medium Fast,Field,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Wishiwashi Solo Form,746Wishiwashi-Solo.png,45,20,20,25,25,40,0.2,0.3,60,61,50,70,Water,,7,1,Fast,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Wishiwashi School Form,746Wishiwashi-School.png,45,140,130,140,135,30,8.2,78.6,60,217,50,70,Water,,7,1,Fast,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Mareanie,747Mareanie.png,50,53,62,43,52,45,0.4,8,190,61,50,70,Poison,Water,7,3,Medium Fast,Water 1,,1,0.5,0.5,2,1,0.5,0.5,0.5,2,1,2,0.5,1,1,1,1,0.5,0.5
+Toxapex,748Toxapex.png,50,63,152,53,142,35,0.7,14.5,75,173,50,70,Poison,Water,7,3,Medium Fast,Water 1,,1,0.5,0.5,2,1,0.5,0.5,0.5,2,1,2,0.5,1,1,1,1,0.5,0.5
+Mudbray,749Mudbray.png,70,100,70,45,55,45,1,110,190,77,50,70,Ground,,7,3,Medium Fast,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Mudsdale,750Mudsdale.png,100,125,100,55,85,35,2.5,920,60,175,50,70,Ground,,7,3,Medium Fast,Field,,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Dewpider,751Dewpider.png,38,40,52,40,72,27,0.3,4,200,54,50,70,Water,Bug,7,2,Medium Fast,Bug,Water 1,1,0.5,0.5,2,1,0.5,0.5,1,0.5,2,1,1,2,1,1,1,0.5,1
+Araquanid,752Araquanid.png,68,70,92,50,132,42,1.8,82,100,159,50,70,Water,Bug,7,2,Medium Fast,Bug,Water 1,1,0.5,0.5,2,1,0.5,0.5,1,0.5,2,1,1,2,1,1,1,0.5,1
+Fomantis,753Fomantis.png,40,55,35,50,35,35,0.3,1.5,190,50,50,70,Grass,,7,2,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Lurantis,754Lurantis.png,70,105,90,80,90,45,0.9,18.5,75,168,50,70,Grass,,7,2,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Morelull,755Morelull.png,40,35,55,65,75,15,0.2,1.5,190,57,50,70,Grass,Fairy,7,3,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,0.5,4,0.5,2,1,1,1,1,0,0.5,2,1
+Shiinotic,756Shiinotic.png,60,45,80,90,100,30,1,11.5,75,142,50,70,Grass,Fairy,7,3,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,0.5,4,0.5,2,1,1,1,1,0,0.5,2,1
+Salandit,757Salandit.png,48,44,40,71,40,77,0.6,4.8,120,64,87.5,70,Poison,Fire,7,2,Medium Fast,Dragon,Monster,1,0.5,2,1,0.25,0.5,0.5,0.5,4,1,2,0.25,2,1,1,1,0.5,0.25
+Salazzle,758Salazzle.png,68,64,60,111,60,117,1.2,22.2,45,168,0,70,Poison,Fire,7,2,Medium Fast,Dragon,Monster,1,0.5,2,1,0.25,0.5,0.5,0.5,4,1,2,0.25,2,1,1,1,0.5,0.25
+Stufful,759Stufful.png,70,75,50,45,50,50,0.5,6.8,140,68,50,70,Normal,Fighting,7,3,Medium Fast,Field,,1,2,1,1,1,1,2,1,1,2,2,0.5,0.5,0,1,0.5,1,2
+Bewear,760Bewear.png,120,125,80,55,60,60,2.1,135,70,175,50,70,Normal,Fighting,7,3,Medium Fast,Field,,1,2,1,1,1,1,2,1,1,2,2,0.5,0.5,0,1,0.5,1,2
+Bounsweet,761Bounsweet.png,42,30,38,30,38,32,0.3,3.2,235,42,0,70,Grass,,7,3,Medium Slow,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Steenee,762Steenee.png,52,40,48,40,48,62,0.7,8.2,120,102,0,70,Grass,,7,3,Medium Slow,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Tsareena,763Tsareena.png,72,120,98,50,98,72,1.2,21.4,45,230,0,70,Grass,,7,3,Medium Slow,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Comfey,764Comfey.png,51,52,90,82,110,100,0.1,0.3,60,170,25,70,Fairy,,7,3,Fast,Grass,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Oranguru,765Oranguru.png,90,60,80,90,110,60,1.5,76,45,172,50,70,Normal,Psychic,7,3,Slow,Field,,1,1,1,1,1,1,1,1,1,1,0.5,2,1,0,1,2,1,1
+Passimian,766Passimian.png,100,120,90,40,60,80,2,82.8,45,172,50,70,Fighting,,7,2,Slow,Field,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Wimpod,767Wimpod.png,25,35,40,20,30,80,0.5,12,90,46,50,70,Bug,Water,7,1,Medium Fast,Bug,Water 3,1,1,0.5,2,1,0.5,0.5,1,0.5,2,1,1,2,1,1,1,0.5,1
+Golisopod,768Golisopod.png,75,125,140,60,90,40,2,108,45,186,50,70,Bug,Water,7,1,Medium Fast,Bug,Water 3,1,1,0.5,2,1,0.5,0.5,1,0.5,2,1,1,2,1,1,1,0.5,1
+Sandygast,769Sandygast.png,55,55,80,70,45,15,0.5,70,140,64,50,70,Ghost,Ground,7,2,Medium Fast,Amorphous,,0,1,2,0,2,2,0,0.25,1,1,1,0.5,0.5,2,1,2,1,1
+Palossand,770Palossand.png,85,75,110,100,75,35,1.3,250,60,168,50,70,Ghost,Ground,7,2,Medium Fast,Amorphous,,0,1,2,0,2,2,0,0.25,1,1,1,0.5,0.5,2,1,2,1,1
+Pyukumuku,771Pyukumuku.png,55,60,130,30,130,5,0.3,1.2,60,144,50,70,Water,,7,2,Fast,Water 1,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Type: Null,772Type_Null.png,95,95,95,95,95,59,1.9,120.5,3,107,,0,Normal,,7,1,Slow,Undiscovered,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Silvally,773Silvally.png,95,95,95,95,95,95,2.3,100.5,3,257,,0,Normal,,7,1,Slow,Undiscovered,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Minior Meteor Form,774Minior.png,60,60,100,60,100,60,0.3,40,30,154,,70,Rock,Flying,7,1,Medium Slow,Mineral,,0.5,0.5,2,2,1,2,1,0.5,0,0.5,1,0.5,2,1,1,1,2,1
+Minior Core Form,774Minior-Core.png,60,100,60,100,60,120,0.3,0.3,30,175,,70,Rock,Flying,7,1,Medium Slow,Mineral,,0.5,0.5,2,2,1,2,1,0.5,0,0.5,1,0.5,2,1,1,1,2,1
+Komala,775Komala.png,65,115,65,75,95,65,0.4,19.9,45,168,50,70,Normal,,7,1,Slow,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Turtonator,776Turtonator.png,60,78,135,91,85,36,2,212,70,170,50,70,Fire,Dragon,7,1,Medium Fast,Dragon,Monster,1,0.25,1,0.5,0.25,1,1,1,2,1,1,0.5,2,1,2,1,0.5,1
+Togedemaru,777Togedemaru.png,65,98,63,40,73,96,0.3,3.3,180,152,50,70,Electric,Steel,7,3,Medium Fast,Fairy,Field,0.5,2,1,0.5,0.5,0.5,2,0,4,0.25,0.5,0.5,0.5,1,0.5,1,0.25,0.5
+Mimikyu,778Mimikyu.png,55,90,80,50,105,96,0.2,0.7,45,167,50,70,Ghost,Fairy,7,1,Medium Fast,Amorphous,,0,1,1,1,1,1,0,1,1,1,1,0.25,1,2,0,1,2,1
+Bruxish,779Bruxish.png,68,105,70,70,70,92,0.9,19,80,166,50,70,Water,Psychic,7,3,Medium Fast,Water 2,,1,0.5,0.5,2,2,0.5,0.5,1,1,1,0.5,2,1,2,1,2,0.5,1
+Drampa,780Drampa.png,78,60,85,135,91,36,3,185,70,170,50,70,Normal,Dragon,7,3,Medium Fast,Dragon,Monster,1,0.5,0.5,0.5,0.5,2,2,1,1,1,1,1,1,0,2,1,1,2
+Dhelmise,781Dhelmise.png,70,131,100,86,90,40,3.9,210,25,181,,70,Ghost,Grass,7,1,Medium Fast,Mineral,,0,2,0.5,0.5,0.5,2,0,1,0.5,2,1,1,1,2,1,2,1,1
+Jangmoo,782Jangmo-o.png,45,55,65,45,45,45,0.6,29.7,45,60,50,70,Dragon,,7,3,Slow,Dragon,,1,0.5,0.5,0.5,0.5,2,1,1,1,1,1,1,1,1,2,1,1,2
+Hakamoo,783Hakamo-o.png,55,75,90,65,70,65,1.2,47,45,147,50,70,Dragon,Fighting,7,3,Slow,Dragon,,1,0.5,0.5,0.5,0.5,2,1,1,1,2,2,0.5,0.5,1,2,0.5,1,4
+Kommoo,784Kommo-o.png,75,110,125,100,105,85,1.6,78.2,45,270,50,70,Dragon,Fighting,7,3,Slow,Dragon,,1,0.5,0.5,0.5,0.5,2,1,1,1,2,2,0.5,0.5,1,2,0.5,1,4
+Tapu Koko,785Tapu_Koko.png,70,115,85,95,75,130,1.8,20.5,3,257,,70,Electric,Fairy,7,2,Slow,Undiscovered,,1,1,1,0.5,1,1,0.5,2,2,0.5,1,0.5,1,1,0,0.5,1,1
+Tapu Lele,786Tapu_Lele.png,70,85,75,130,115,95,1.2,18.6,3,257,,70,Psychic,Fairy,7,2,Slow,Undiscovered,,1,1,1,1,1,1,0.25,2,1,1,0.5,1,1,2,0,1,2,1
+Tapu Bulu,787Tapu_Bulu.png,70,130,115,85,95,75,1.9,45.5,3,257,,70,Grass,Fairy,7,2,Slow,Undiscovered,,1,2,0.5,0.5,0.5,2,0.5,4,0.5,2,1,1,1,1,0,0.5,2,1
+Tapu Fini,788Tapu_Fini.png,70,75,115,95,130,85,1.3,21.2,3,257,,70,Water,Fairy,7,2,Slow,Undiscovered,,1,0.5,0.5,2,2,0.5,0.5,2,1,1,1,0.5,1,1,0,0.5,1,1
+Cosmog,789Cosmog.png,43,29,31,29,31,37,0.2,0.1,45,40,,0,Psychic,,7,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Cosmoem,790Cosmoem.png,43,29,131,29,131,37,0.1,999.9,45,140,,0,Psychic,,7,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Solgaleo,791Solgaleo.png,137,137,107,113,89,97,3.4,230,45,306,,0,Psychic,Steel,7,1,Slow,Undiscovered,,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.25,1,0.5,2,0.5,2,0.5,0.5
+Lunala,792Lunala.png,137,113,89,137,107,97,4,120,45,306,,0,Psychic,Ghost,7,1,Slow,Undiscovered,,0,1,1,1,1,1,0,0.5,1,1,0.5,1,1,4,1,4,1,1
+Nihilego,793Nihilego.png,109,53,47,127,131,103,1.2,55.5,45,257,,0,Rock,Poison,7,1,Slow,Undiscovered,,0.5,0.5,2,1,1,1,1,0.25,4,0.5,2,0.5,1,1,1,1,2,0.5
+Buzzwole,794Buzzwole.png,107,139,139,53,53,79,2.4,333.6,45,257,,0,Bug,Fighting,7,1,Slow,Undiscovered,,1,2,1,1,0.5,1,0.5,1,0.5,4,2,0.5,1,1,1,0.5,1,2
+Pheromosa,795Pheromosa.png,71,137,37,137,37,151,1.8,25,45,257,,0,Bug,Fighting,7,1,Slow,Undiscovered,,1,2,1,1,0.5,1,0.5,1,0.5,4,2,0.5,1,1,1,0.5,1,2
+Xurkitree,796Xurkitree.png,83,89,71,173,71,83,3.8,100,45,257,,0,Electric,,7,1,Slow,Undiscovered,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Celesteela,797Celesteela.png,97,101,103,107,101,61,9.2,999.9,45,257,,0,Steel,Flying,7,1,Slow,Undiscovered,,0.5,2,1,2,0.25,1,1,0,0,0.5,0.5,0.25,1,1,0.5,1,0.5,0.5
+Kartana,798Kartana.png,59,181,131,59,31,109,0.3,0.1,45,257,,0,Grass,Steel,7,1,Slow,Undiscovered,,0.5,4,0.5,0.5,0.25,1,2,0,1,1,0.5,1,0.5,1,0.5,1,0.5,0.5
+Guzzlord,799Guzzlord.png,223,101,53,97,53,43,5.5,888,45,257,,0,Dark,Dragon,7,1,Slow,Undiscovered,,1,0.5,0.5,0.5,0.5,2,2,1,1,1,0,2,1,0.5,2,0.5,1,4
+Necrozma,800Necrozma.png,97,107,101,127,89,79,2.4,230,255,270,,0,Psychic,,7,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,1,1,1,0.5,1.5,1,1.5,1,1.5,1,1
+Dusk Mane Necrozma,800Necrozma-Dusk_Mane.png,97,157,127,113,109,77,3.8,460,3,306,,0,Psychic,Steel,7,1,Slow,Undiscovered,,0.5,1.5,1,1,0.5,0.5,1,0,1.5,0.5,0.25,1,0.5,1.5,0.5,1.5,0.5,0.5
+Dawn Wings Necrozma,800Necrozma-Dawn_Wings.png,97,113,109,157,127,77,4.2,350,3,306,,0,Psychic,Ghost,7,1,Slow,Undiscovered,,0,1,1,1,1,1,0,0.5,1,1,0.5,1,1,3,1,3,1,1
+Ultra Necrozma,800Necrozma-Ultra.png,97,167,97,167,97,129,7.5,230,3,339,,0,Psychic,Dragon,7,1,Slow,Undiscovered,,1,0.5,0.5,0.5,0.5,2,0.5,1,1,1,0.5,2,1,2,2,2,1,2
+Magearna,801Magearna.png,80,95,115,130,115,65,1,80.5,3,270,,0,Steel,Fairy,7,1,Slow,Undiscovered,,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.5,0.25,0.5,1,0,0.5,1,0.5
+Marshadow,802Marshadow.png,90,125,80,90,90,125,0.7,22.2,3,270,,0,Fighting,Ghost,7,1,Slow,Undiscovered,,0,1,1,1,1,1,0,0.5,1,2,2,0.25,0.5,2,1,1,1,2
+Poipole,803Poipole.png,67,73,67,73,67,73,0.6,1.8,45,189,,0,Poison,,7,1,Slow,Undiscovered,,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
+Naganadel,804Naganadel.png,73,73,73,127,73,121,3.6,150,45,243,,0,Poison,Dragon,7,1,Slow,Undiscovered,,1,0.5,0.5,0.5,0.25,2,0.5,0.5,2,1,2,0.5,1,1,2,1,1,1
+Stakataka,805Stakataka.png,61,131,211,53,101,13,5.5,820,30,257,,0,Rock,Steel,7,1,Slow,Undiscovered,,0.25,1,2,1,1,0.5,4,0,4,0.25,0.5,0.5,0.5,1,0.5,1,1,0.5
+Blacephalon,806Blacephalon.png,53,127,53,151,79,107,1.8,13,30,257,,0,Fire,Ghost,7,1,Slow,Undiscovered,,0,0.5,2,1,0.5,0.5,0,0.5,2,1,1,0.25,2,2,1,2,0.5,0.5
+Zeraora,807Zeraora.png,88,112,75,102,80,143,1.5,44.5,3,270,,0,Electric,,7,1,Slow,Undiscovered,,1,1,1,0,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Meltan,808Meltan.png,46,65,65,55,35,34,0.2,8,,,,,Steel,,7,1,Slow,Undiscovered,,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Melmetal,809Melmetal.png,135,143,143,80,65,34,2.5,800,,,,,Steel,,7,1,Slow,Undiscovered,,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Grookey,810Grookey.png,50,65,50,40,40,65,0.3,5,,,,,Grass,,8,2,Medium Slow,Field,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Thwackey,811Thwackey.png,70,85,70,55,60,80,0.7,14,,,,,Grass,,8,2,Medium Slow,Field,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Rillaboom,812Rillaboom.png,100,125,90,60,70,85,2.1,90,,,,,Grass,,8,2,Medium Slow,Field,Grass,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Scorbunny,813Scorbunny.png,50,71,40,40,40,69,0.3,4.5,,,,,Fire,,8,2,Medium Slow,Field,Human-Like,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Raboot,814Raboot.png,65,86,60,55,60,94,0.6,9,,,,,Fire,,8,2,Medium Slow,Field,Human-Like,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Cinderace,815Cinderace.png,80,116,75,65,75,119,1.4,33,,,,,Fire,,8,2,Medium Slow,Field,Human-Like,1,0.5,2,1,0.5,0.5,1,1,2,1,1,0.5,2,1,1,1,0.5,0.5
+Sobble,816Sobble.png,50,40,40,70,40,70,0.3,4,,,,,Water,,8,2,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Drizzile,817Drizzile.png,65,60,55,95,55,90,0.7,11.5,,,,,Water,,8,2,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Inteleon,818Inteleon.png,70,85,65,125,65,120,1.9,45.2,,,,,Water,,8,2,Medium Slow,Field,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Skwovet,819Skwovet.png,70,55,55,35,35,25,0.3,2.5,,,,,Normal,,8,2,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Greedent,820Greedent.png,120,95,95,55,75,20,0.6,6,,,,,Normal,,8,2,Medium Fast,Field,,1,1,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Rookidee,821Rookidee.png,38,47,35,33,35,57,0.2,1.8,,,,,Flying,,8,3,Medium Slow,Flying,,1,1,1,2,0.5,2,0.5,1,0,1,1,0.5,2,1,1,1,1,1
+Corvisquire,822Corvisquire.png,68,67,55,43,55,77,0.8,16,,,,,Flying,,8,3,Medium Slow,Flying,,1,1,1,2,0.5,2,0.5,1,0,1,1,0.5,2,1,1,1,1,1
+Corviknight,823Corviknight.png,98,87,105,53,85,67,2.2,75,,,,,Flying,Steel,8,3,Medium Slow,Flying,,0.5,2,1,2,0.25,1,1,0,0,0.5,0.5,0.25,1,1,0.5,1,0.5,0.5
+Blipbug,824Blipbug.png,25,20,20,25,45,45,0.4,8,,,,,Bug,,8,3,Medium Fast,Bug,,1,2,1,1,0.5,1,0.5,1,0.5,2,1,1,2,1,1,1,1,1
+Dottler,825Dottler.png,50,35,80,50,90,30,0.4,19.5,,,,,Bug,Psychic,8,3,Medium Fast,Bug,,1,2,1,1,0.5,1,0.25,1,0.5,2,0.5,2,2,2,1,2,1,1
+Orbeetle,826Orbeetle.png,60,45,110,80,120,90,0.4,40.8,,,,,Bug,Psychic,8,3,Medium Fast,Bug,,1,2,1,1,0.5,1,0.25,1,0.5,2,0.5,2,2,2,1,2,1,1
+Nickit,827Nickit.png,40,28,28,47,52,50,0.6,8.9,,,,,Dark,,8,3,Fast,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Thievul,828Thievul.png,70,58,58,87,92,90,1.2,19.9,,,,,Dark,,8,3,Fast,Field,,1,1,1,1,1,1,2,1,1,1,0,2,1,0.5,1,0.5,1,2
+Gossifleur,829Gossifleur.png,40,40,60,40,60,10,0.4,2.2,,,,,Grass,,8,3,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Eldegoss,830Eldegoss.png,60,50,90,80,120,60,0.5,2.5,,,,,Grass,,8,3,Medium Fast,Grass,,1,2,0.5,0.5,0.5,2,1,2,0.5,2,1,2,1,1,1,1,1,1
+Wooloo,831Wooloo.png,42,40,55,40,45,48,0.6,6,,,,,Normal,,8,3,Medium Fast,Field,,1,2,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Dubwool,832Dubwool.png,72,80,100,60,90,88,1.3,43,,,,,Normal,,8,3,Medium Fast,Field,,1,2,1,1,1,1,2,1,1,1,1,1,1,0,1,1,1,1
+Chewtle,833Chewtle.png,50,64,50,38,38,44,0.3,8.5,,,,,Water,,8,3,Medium Fast,Monster,Water 1,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Drednaw,834Drednaw.png,90,115,90,48,68,74,1,115.5,,,,,Water,Rock,8,3,Medium Fast,Monster,Water 1,0.5,0.25,1,2,4,0.5,2,0.5,2,0.5,1,1,1,1,1,1,1,1
+Yamper,835Yamper.png,59,45,50,40,50,26,0.3,13.5,,,,,Electric,,8,2,Fast,Field,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Boltund,836Boltund.png,69,90,60,90,60,121,1,34,,,,,Electric,,8,2,Fast,Field,,1,1,1,0.5,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Rolycoly,837Rolycoly.png,30,40,50,40,50,30,0.3,12,,,,,Rock,,8,3,Medium Slow,Mineral,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Carkol,838Carkol.png,80,60,90,60,70,50,1.1,78,,,,,Rock,Fire,8,3,Medium Slow,Mineral,,0.5,0.25,4,1,1,0.5,2,0.5,4,0.5,1,0.5,2,1,1,1,1,0.5
+Coalossal,839Coalossal.png,110,80,120,80,90,30,2.8,310.5,,,,,Rock,Fire,8,3,Medium Slow,Mineral,,0.5,0.25,4,1,1,0.5,2,0.5,4,0.5,1,0.5,2,1,1,1,1,0.5
+Applin,840Applin.png,40,40,80,40,40,20,0.2,0.5,,,,,Grass,Dragon,8,3,Erratic,Dragon,Grass,1,1,0.25,0.25,0.25,4,1,2,0.5,2,1,2,1,1,2,1,1,2
+Flapple,841Flapple.png,70,110,80,95,60,70,0.3,1,,,,,Grass,Dragon,8,3,Erratic,Dragon,Grass,1,1,0.25,0.25,0.25,4,1,2,0.5,2,1,2,1,1,2,1,1,2
+Appletun,842Appletun.png,110,85,80,100,80,30,0.4,13,,,,,Grass,Dragon,8,3,Erratic,Dragon,Grass,1,1,0.25,0.25,0.25,4,1,2,0.5,2,1,2,1,1,2,1,1,2
+Silicobra,843Silicobra.png,52,57,75,35,50,46,2.2,7.6,,,,,Ground,,8,3,Medium Fast,Dragon,Field,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Sandaconda,844Sandaconda.png,72,107,125,65,70,71,3.8,65.5,,,,,Ground,,8,3,Medium Fast,Dragon,Field,1,1,2,0,2,2,1,0.5,1,1,1,1,0.5,1,1,1,1,1
+Cramorant,845Cramorant.png,70,85,55,85,95,85,0.8,18,,,,,Flying,Water,8,1,Medium Fast,Flying,Water 1,1,0.5,0.5,4,1,1,0.5,1,0,1,1,0.5,2,1,1,1,0.5,1
+Arrokuda,846Arrokuda.png,41,63,40,40,30,66,0.5,1,,,,,Water,,8,2,Slow,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Barraskewda,847Barraskewda.png,61,123,60,60,50,136,1.3,30,,,,,Water,,8,2,Slow,Water 2,,1,0.5,0.5,2,2,0.5,1,1,1,1,1,1,1,1,1,1,0.5,1
+Toxel,848Toxel.png,40,38,35,54,35,40,0.4,11,,,,,Electric,Poison,8,3,Medium Slow,Undiscovered,,1,1,1,0.5,0.5,1,0.5,0.5,4,0.5,2,0.5,1,1,1,1,0.5,0.5
+Toxtricity Low Key Form,849Toxtricity-Low_Key.png,75,98,70,114,70,75,1.6,40,,,,,Electric,Poison,8,3,Medium Slow,Human-Like,,1,1,1,0.5,0.5,1,0.5,0.5,4,0.5,2,0.5,1,1,1,1,0.5,0.5
+Toxtricity Amped Form,849Toxtricity-Amped.png,75,98,70,114,70,75,1.6,40,,,,,Electric,Poison,8,3,Medium Slow,Human-Like,,1,1,1,0.5,0.5,1,0.5,0.5,4,0.5,2,0.5,1,1,1,1,0.5,0.5
+Sizzlipede,850Sizzlipede.png,50,65,45,50,50,45,0.7,1,,,,,Fire,Bug,8,3,Medium Fast,Bug,,1,0,2,1,0.25,0.5,0.5,1,1,2,1,0.5,4,1,1,1,0.5,0.5
+Centiskorch,851Centiskorch.png,100,115,65,90,90,65,3,120,,,,,Fire,Bug,8,3,Medium Fast,Bug,,1,0,2,1,0.25,0.5,0.5,1,1,2,1,0.5,4,1,1,1,0.5,0.5
+Clobbopus,852Clobbopus.png,50,68,60,50,50,32,0.6,4,,,,,Fighting,,8,2,Medium Slow,Human-Like,Water 1,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Grapploct,853Grapploct.png,80,118,90,70,80,42,1.6,39,,,,,Fighting,,8,2,Medium Slow,Human-Like,Water 1,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Sinistea,854Sinistea.png,40,45,45,74,54,50,0.1,0.2,,,,,Ghost,,8,2,Medium Fast,Amorphous,Mineral,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Polteageist,855Polteageist.png,60,65,65,134,114,70,0.2,0.4,,,,,Ghost,,8,2,Medium Fast,Amorphous,Mineral,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Hatenna,856Hatenna.png,42,30,45,56,53,39,0.4,3.4,,,,,Psychic,,8,3,Slow,Fairy,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Hattrem,857Hattrem.png,57,40,65,86,73,49,0.6,4.8,,,,,Psychic,,8,3,Slow,Fairy,,1,1,1,1,1,1,0.5,1,1,1,0.5,2,1,2,1,2,1,1
+Hatterene,858Hatterene.png,57,90,95,136,103,29,2.1,5,,,,,Psychic,Fairy,8,3,Slow,Fairy,,1,1,1,1,1,1,0.25,2,1,1,0.5,1,1,2,0,1,2,1
+Impidimp,859Impidimp.png,45,45,30,55,40,50,0.4,5.5,,,,,Dark,Fairy,8,3,Medium Fast,Fairy,Human-Like,1,1,1,1,1,1,1,2,1,1,0,1,1,0.5,0,0.25,2,2
+Morgrem,860Morgrem.png,65,60,45,75,55,70,0.8,12.5,,,,,Dark,Fairy,8,3,Medium Fast,Fairy,Human-Like,1,1,1,1,1,1,1,2,1,1,0,1,1,0.5,0,0.25,2,2
+Grimmsnarl,861Grimmsnarl.png,95,120,65,95,75,60,1.5,61,,,,,Dark,Fairy,8,3,Medium Fast,Fairy,Human-Like,1,1,1,1,1,1,1,2,1,1,0,1,1,0.5,0,0.25,2,2
+Obstagoon,862Obstagoon.png,93,90,101,60,81,95,1.6,46,,,,,Dark,Normal,8,3,Medium Fast,Field,,1,1,1,1,1,1,4,1,1,1,0,2,1,0,1,0.5,1,2
+Perrserker,863Perrserker.png,70,110,100,50,60,50,0.8,28,,,,,Steel,,8,3,Medium Fast,Field,,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Cursola,864Cursola.png,60,95,50,145,130,30,1,0.4,,,,,Ghost,,8,2,Fast,Water 1,Water 3,0,1,1,1,1,1,0,0.5,1,1,1,0.5,1,2,1,2,1,1
+Sirfetchd,865Sirfetchd.png,62,135,95,68,82,65,0.8,117,,,,,Fighting,,8,2,Medium Fast,Field,Flying,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Mr Rime,866Mr_Rime.png,80,85,75,110,100,70,1.5,58.2,,,,,Psychic,Ice,8,3,Medium Fast,Human-Like,,1,2,1,1,1,0.5,1,1,1,1,0.5,2,2,2,1,2,2,1
+Runerigus,867Runerigus.png,58,95,145,50,105,30,1.6,66.6,,,,,Ground,Ghost,8,1,Medium Fast,Amorphous,Mineral,0,1,2,0,2,2,0,0.25,1,1,1,0.5,0.5,2,1,2,1,1
+Milcery,868Milcery.png,45,40,40,50,61,34,0.2,0.3,,,,,Fairy,,8,2,Medium Fast,Amorphous,Fairy,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Alcremie,869Alcremie.png,65,60,75,110,121,64,0.3,0.5,,,,,Fairy,,8,2,Medium Fast,Amorphous,Fairy,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Falinks,870Falinks.png,65,100,100,70,60,75,3,62,,,,,Fighting,,8,2,Medium Fast,Fairy,Mineral,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Pincurchin,871Pincurchin.png,48,101,95,91,85,15,0.3,1,,,,,Electric,,8,2,Medium Fast,Amorphous,Water 1,1,1,1,0,1,1,1,1,2,0.5,1,1,1,1,1,1,0.5,1
+Snom,872Snom.png,30,25,35,45,30,20,0.3,3.8,,,,,Ice,Bug,8,2,Medium Fast,Bug,,1,4,1,1,0.5,0.5,1,1,0.5,2,1,1,4,1,1,1,2,1
+Frosmoth,873Frosmoth.png,70,65,60,125,90,65,1.3,42,,,,,Ice,Bug,8,2,Medium Fast,Bug,,1,4,1,1,0.5,0.5,1,1,0.5,2,1,1,4,1,1,1,2,1
+Stonjourner,874Stonjourner.png,100,125,135,20,20,70,2.5,520,,,,,Rock,,8,1,Slow,Mineral,,0.5,0.5,2,1,2,1,2,0.5,2,0.5,1,1,1,1,1,1,2,1
+Eiscue Ice Face,875Eiscue-Ice.png,75,80,110,65,90,50,1.4,89,,,,,Ice,,8,1,Slow,Field,Water 1,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Eiscue Noice Face,875Eiscue-Noice.png,75,80,70,65,50,130,1.4,89,,,,,Ice,,8,1,Slow,Field,Water 1,1,2,1,1,1,0.5,2,1,1,1,1,1,2,1,1,1,2,1
+Indeedee Male,876Indeedee.png,60,65,55,105,95,95,0.9,28,,,,,Psychic,Normal,8,3,Fast,Fairy,,1,1,1,1,1,1,1,1,1,1,0.5,2,1,0,1,2,1,1
+Indeedee Female,876Indeedee.png,70,55,65,95,105,85,0.9,28,,,,,Psychic,Normal,8,3,Fast,Fairy,,1,1,1,1,1,1,1,1,1,1,0.5,2,1,0,1,2,1,1
+Morpeko Full Belly Mode,877Morpeko-Full.png,58,95,58,70,58,97,0.3,3,,,,,Electric,Dark,8,1,Medium Fast,Fairy,Field,1,1,1,0.5,1,1,2,1,2,0.5,0,2,1,0.5,1,0.5,0.5,2
+Morpeko Hangry Mode,877Morpeko-Hangry.png,58,95,58,70,58,97,0.3,3,,,,,Electric,Dark,8,1,Medium Fast,Fairy,Field,1,1,1,0.5,1,1,2,1,2,0.5,0,2,1,0.5,1,0.5,0.5,2
+Cufant,878Cufant.png,72,80,49,40,49,40,1.2,100,,,,,Steel,,8,2,Medium Fast,Field,Mineral,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Copperajah,879Copperajah.png,122,130,69,80,69,30,3,650,,,,,Steel,,8,2,Medium Fast,Field,Mineral,0.5,2,1,1,0.5,0.5,2,0,2,0.5,0.5,0.5,0.5,1,0.5,1,0.5,0.5
+Dracozolt,880Dracozolt.png,90,100,90,80,70,75,1.8,190,,,,,Electric,Dragon,8,3,Slow,Undiscovered,,1,0.5,0.5,0,0.5,2,1,1,2,0.5,1,1,1,1,2,1,0.5,2
+Arctozolt,881Arctozolt.png,90,100,90,90,80,55,2.3,150,,,,,Electric,Ice,8,3,Slow,Undiscovered,,1,2,1,0,1,0.5,2,1,2,0.5,1,1,2,1,1,1,1,1
+Dracovish,882Dracovish.png,90,90,100,70,80,75,2.3,215,,,,,Water,Dragon,8,3,Slow,Undiscovered,,1,0.25,0,1,1,1,1,1,1,1,1,1,1,1,2,1,0.5,2
+Arctovish,883Arctovish.png,90,90,100,80,90,55,2,175,,,,,Water,Ice,8,3,Slow,Undiscovered,,1,1,0,2,2,0.25,2,1,1,1,1,1,2,1,1,1,1,1
+Duraludon,884Duraludon.png,70,95,115,120,50,85,1.8,40,,,,,Steel,Dragon,8,3,Medium Fast,Dragon,Mineral,0.5,1,0.5,0.5,0.25,1,2,0,2,0.5,0.5,0.5,0.5,1,1,1,0.5,1
+Dreepy,885Dreepy.png,28,60,30,40,30,82,0.5,2,,,,,Dragon,Ghost,8,3,Slow,Amorphous,Dragon,0,0.5,0.5,0.5,0.5,2,0,0.5,1,1,1,0.5,1,2,2,2,1,2
+Drakloak,886Drakloak.png,68,80,50,60,50,102,1.4,11,,,,,Dragon,Ghost,8,3,Slow,Amorphous,Dragon,0,0.5,0.5,0.5,0.5,2,0,0.5,1,1,1,0.5,1,2,2,2,1,2
+Dragapult,887Dragapult.png,88,120,75,100,75,142,3,50,,,,,Dragon,Ghost,8,3,Slow,Amorphous,Dragon,0,0.5,0.5,0.5,0.5,2,0,0.5,1,1,1,0.5,1,2,2,2,1,2
+Zacian Crowned Sword,888Zacian.png,92,170,115,80,115,148,2.8,355,,,,,Fairy,Steel,8,1,Slow,Undiscovered,,0.5,2,1,1,0.5,0.5,1,0,2,0.5,0.5,0.25,0.5,1,0,0.5,1,0.5
+Zacian Hero of Many Battles,888Zacian-Hero.png,92,130,115,80,115,138,2.8,110,,,,,Fairy,,8,1,Slow,Undiscovered,,1,1,1,1,1,1,0.5,2,1,1,1,0.5,1,1,0,0.5,2,1
+Zamazenta Crowned Shield,889Zamazenta.png,92,130,145,80,145,128,2.9,785,,,,,Fighting,Steel,8,1,Slow,Undiscovered,,0.5,2,1,1,0.5,0.5,2,0,2,1,1,0.25,0.25,1,0.5,0.5,0.5,1
+Zamazenta Hero of Many Battles,889Zamazenta-Hero.png,92,130,115,80,115,138,2.9,210,,,,,Fighting,,8,1,Slow,Undiscovered,,1,1,1,1,1,1,1,1,1,2,2,0.5,0.5,1,1,0.5,1,2
+Eternatus,890Eternatus.png,140,85,95,145,95,130,20,950,,,,,Poison,Dragon,8,1,Slow,Undiscovered,,1,0.5,0.5,0.5,0.25,2,0.5,0.5,2,1,2,0.5,1,1,2,1,1,1
+Eternatus Eternamax,HOME890E.png,255,115,250,125,250,130,100,,,,,,Poison,Dragon,8,0,Slow,Undiscovered,,1,0.5,0.5,0.5,0.25,2,0.5,0.5,2,1,2,0.5,1,1,2,1,1,1

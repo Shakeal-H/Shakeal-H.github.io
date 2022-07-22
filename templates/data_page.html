@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Let's Go Pokedex</title>
+	<link rel="icon" href="https://img.gamewith.net/article_tools/pokemon-lets-go/gacha/981.png" type="image/x-icon">
+	<link rel="stylesheet" href="{{ url_for('static', filename='basic_home_page.css') }}" type="text/css">
+	<link rel="stylesheet" href="{{ url_for('static', filename='data_page.css') }}" type="text/css">
+	<link rel="stylesheet" href="{{ url_for('static', filename='webfontkit-20220203-225755/stylesheet.css') }}" type="text/css" charset="utf-8" />
+</head>
+<body>
+	<div class="topnav">
+		<a href="{{ url_for('basic_home') }}">Home</a>
+		<a href="{{ url_for('about_data') }}" class="active">About the Data</a>
+		<a href="{{ url_for('general_info') }}">General Information</a>
+	</div>
+	<div class="body">
+		<h1 class = "heading">About the Data</h1>
+		<h3 class = "heading">General Information</h3>
+		<p class = "text_block">This Pokedex dataset includes a Pokemon’s name and stats (hp, attack, defense, special attack, special defense, speed, type, height, weight, weaknesses, strengths, catch rate, base friendliness, etc) and what region the Pokemon are from. Our data was accessed on January 21st, 2022 from Kaggle and contains data regarding various stats. We then added a column containing images to the dataset so that we could display them for individual Pokemon. These images were found on Bulbapedia, and they are free to the public to use.</p>
+		<h3 class = "heading">How was the Data Collected?</h3>
+		<p class = "text_block">As stated on Kaggle, “The data was collected by data mining (with a Python Web crawler) the following websites: https://pokemondb.net/ (almost everything) https://www.serebii.net/ (information about sub-legendary, legendary and mythical Pokemon) The pictures for this Dataset were found in the Wikipedia.” The data was last updated on 2021-04-16, and it contains information on all Pokemon through generation 8. </p>
+		<h4 class = "data_link"> Access the Data here:</h4>
+
+		<div class = "data_link">
+		<a href="https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420" target="_blank">Visit the Dataset on Kaggle!</a>
+		</div>
+	</div>
+</body>
+</html>
