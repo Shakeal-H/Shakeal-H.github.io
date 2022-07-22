@@ -1,0 +1,21 @@
+body{
+    text-align: left;
+    background: #318DE9;
+    padding: 10px;
+    font-family:'opticopperplateregular', Arial, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+.heading{
+  text-align: center;
+}
+
+.data_link{
+  text-align: center;
+}
+
+.text_block{
+  padding-left: 100px;
+  padding-right: 100px;
+}

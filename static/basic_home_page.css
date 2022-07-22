@@ -1,0 +1,83 @@
+body{
+    text-align: center;
+    background: #318DE9;
+    padding: 10px;
+    color: white;
+    font-size: 14px;
+    font-family:'opticopperplateregular', Arial, sans-serif;
+}
+
+.title{
+  font-family:'opticopperplateregular', Arial, sans-serif;
+  font-size: 60px;
+}
+
+#home_image{
+  width:200px;
+  height:200px;
+}
+
+.search_bar{
+  font-family:'opticopperplateregular', Arial, sans-serif;
+  padding-bottom: 20px;
+}
+
+.search_bar_text{
+  font-family:'opticopperplateregular', Arial, sans-serif;
+}
+
+#or{
+  font-family:'opticopperplateregular', Arial, sans-serif;
+  padding-bottom: 20px;
+}
+
+#summary{
+  text-align: left;
+  padding-left: 90px;
+  padding-right: 90px;
+  font-family:'opticopperplateregular', Arial, sans-serif;
+}
+
+.button{
+  background-color: #e0ffff;
+  border-radius: 25px;
+  padding: 5px;
+  color: black;
+  font-family:'opticopperplateregular', Arial, sans-serif;
+  font-size: 13px;
+}
+
+
+.button:hover {
+  background-color: teal; /* Green */
+  color: white;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #e0ffff;
+  overflow: hidden;
+  font-family:'opticopperplateregular', Arial, sans-serif;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: teal;
+  color: rgb(255, 255, 255);
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: teal;
+  color: white;
+}
