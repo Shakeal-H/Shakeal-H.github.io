@@ -36,9 +36,7 @@ Ignore the final commit message that has "git add" in it. I input "git commit -m
 
 ## Addtional Updates
 
-Pokemon Randomizer
 General Pokemon Information Page 
-Account Authentication?
 
 Start postges server
 sudo service postgresql start
